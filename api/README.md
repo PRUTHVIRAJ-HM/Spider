@@ -1,0 +1,277 @@
+# Tech News Scraper API
+
+REST API service for accessing scraped tech news articles from The Verge, TechCrunch, and CNET.
+
+## Features
+
+- ✅ RESTful API endpoints
+- ✅ Filter by source, category, date
+- ✅ Search functionality
+- ✅ Pagination support
+- ✅ Statistics endpoint
+- ✅ CORS enabled
+- ✅ JSON responses
+
+## Installation
+
+1. **Install dependencies:**
+   ```bash
+   cd api
+   pip install -r requirements.txt
+   ```
+
+## Running the API
+
+```bash
+python api/app.py
+```
+
+The API will be available at `http://localhost:5000`
+
+## API Endpoints
+
+### 1. **GET /** - API Documentation
+Returns API information and available endpoints.
+
+**Example:**
+```bash
+curl http://localhost:5000/
+```
+
+---
+
+### 2. **GET /api/articles** - Get All Articles
+Returns all scraped articles with optional filtering.
+
+**Query Parameters:**
+- `source` - Filter by source (The Verge, TechCrunch, CNET)
+- `category` - Filter by category (Trending, Technology, Education, Careers, AI & ML)
+- `search` - Search in title and description
+- `date_from` - Filter articles from this date (ISO format)
+- `date_to` - Filter articles until this date (ISO format)
+- `limit` - Limit number of results
+- `page` - Page number for pagination
+- `per_page` - Items per page (default: 10)
+
+**Examples:**
+
+Get all articles:
+```bash
+curl http://localhost:5000/api/articles
+```
+
+Filter by source:
+```bash
+curl http://localhost:5000/api/articles?source=TechCrunch
+```
+
+Filter by category:
+```bash
+curl http://localhost:5000/api/articles?category=Technology
+```
+
+Search articles:
+```bash
+curl http://localhost:5000/api/articles?search=AI
+```
+
+Limit results:
+```bash
+curl http://localhost:5000/api/articles?limit=5
+```
+
+Pagination:
+```bash
+curl http://localhost:5000/api/articles?page=1&per_page=10
+```
+
+Combine filters:
+```bash
+curl "http://localhost:5000/api/articles?source=The%20Verge&category=Technology&limit=5"
+```
+
+---
+
+### 3. **GET /api/sources** - Get All Sources
+Returns list of all available news sources.
+
+**Example:**
+```bash
+curl http://localhost:5000/api/sources
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "data": {
+    "sources": ["The Verge", "TechCrunch", "CNET"]
+  }
+}
+```
+
+---
+
+### 4. **GET /api/categories** - Get All Categories
+Returns list of all article categories.
+
+**Example:**
+```bash
+curl http://localhost:5000/api/categories
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "data": {
+    "categories": ["AI & ML", "Careers", "Education", "Technology", "Trending"]
+  }
+}
+```
+
+---
+
+### 5. **GET /api/stats** - Get Statistics
+Returns statistics about scraped articles.
+
+**Example:**
+```bash
+curl http://localhost:5000/api/stats
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "data": {
+    "total_articles": 55,
+    "sources": ["The Verge", "TechCrunch", "CNET"],
+    "scraped_at": "2025-12-01T12:46:16.171711",
+    "articles_by_source": {
+      "The Verge": 20,
+      "TechCrunch": 20,
+      "CNET": 15
+    },
+    "articles_by_category": {
+      "Technology": 29,
+      "Trending": 21,
+      "AI & ML": 2
+    }
+  }
+}
+```
+
+---
+
+## Response Format
+
+All responses follow this structure:
+
+**Success Response:**
+```json
+{
+  "success": true,
+  "data": { ... },
+  "scraped_at": "2025-12-01T12:46:16.171711"
+}
+```
+
+**Error Response:**
+```json
+{
+  "success": false,
+  "error": "Error message"
+}
+```
+
+---
+
+## Article Object Structure
+
+Each article contains:
+
+```json
+{
+  "title": "Article title",
+  "url": "https://...",
+  "description": "Article description",
+  "author": "Author name",
+  "published_date": "2025-12-01T02:38:32+00:00",
+  "category": "Technology",
+  "tags": ["tag1", "tag2"],
+  "source": "The Verge"
+}
+```
+
+---
+
+## Usage Examples
+
+### Python
+```python
+import requests
+
+# Get all articles
+response = requests.get('http://localhost:5000/api/articles')
+data = response.json()
+articles = data['data']['articles']
+
+# Filter by category
+response = requests.get('http://localhost:5000/api/articles', params={
+    'category': 'AI & ML',
+    'limit': 10
+})
+```
+
+### JavaScript
+```javascript
+// Get all articles
+fetch('http://localhost:5000/api/articles')
+  .then(response => response.json())
+  .then(data => console.log(data.data.articles));
+
+// Filter by source with pagination
+fetch('http://localhost:5000/api/articles?source=TechCrunch&page=1&per_page=5')
+  .then(response => response.json())
+  .then(data => console.log(data));
+```
+
+### cURL
+```bash
+# Get technology articles from CNET
+curl "http://localhost:5000/api/articles?source=CNET&category=Technology"
+
+# Search for AI-related articles
+curl "http://localhost:5000/api/articles?search=artificial%20intelligence"
+
+# Get paginated results
+curl "http://localhost:5000/api/articles?page=2&per_page=10"
+```
+
+---
+
+## Development
+
+The API automatically reads from `../all_articles.json` which is generated by the scraper. 
+
+To update the data:
+1. Run the scraper: `python main.py`
+2. The API will automatically serve the updated data
+
+---
+
+## Deployment
+
+For production deployment, consider:
+- Using a production WSGI server (gunicorn, uwsgi)
+- Adding rate limiting
+- Implementing caching
+- Using environment variables for configuration
+- Adding authentication if needed
+
+Example with gunicorn:
+```bash
+pip install gunicorn
+gunicorn -w 4 -b 0.0.0.0:5000 app:app
+```
