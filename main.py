@@ -4,6 +4,7 @@ import json
 import ollama
 from datetime import datetime
 from typing import List, Dict
+from image_fetcher import get_article_thumbnail
 
 
 class NewsScraperWithAI:
@@ -286,14 +287,31 @@ Return ONLY valid JSON, no explanation or markdown formatting."""
                         structured_content = structured_content.split('```')[1].split('```')[0].strip()
                     
                     structured_article = json.loads(structured_content)
+                    
+                    # Fetch thumbnail for the article
+                    print(f"  → Fetching thumbnail...")
+                    thumbnail = get_article_thumbnail(
+                        structured_article.get('title', ''),
+                        structured_article.get('category')
+                    )
+                    
+                    if thumbnail:
+                        structured_article['thumbnail'] = thumbnail
+                        print(f"  ✓ Thumbnail added")
+                    else:
+                        structured_article['thumbnail'] = None
+                        print(f"  ✗ No thumbnail found")
+                    
                     structured_articles.append(structured_article)
                 except json.JSONDecodeError:
                     print(f"  Warning: Could not parse Ollama response for article {idx}, using original data")
+                    article['thumbnail'] = None
                     structured_articles.append(article)
                 
             except Exception as e:
                 print(f"  Error processing with Ollama: {e}")
                 # Fall back to original article data
+                article['thumbnail'] = None
                 structured_articles.append(article)
         
         return structured_articles

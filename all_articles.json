@@ -4,147 +4,99 @@
     "TechCrunch",
     "CNET"
   ],
-  "scraped_at": "2025-12-01T12:46:16.171711",
-  "total_articles": 55,
+  "scraped_at": "2025-12-01T15:57:04.196498",
+  "total_articles": 54,
   "articles": [
     {
-      "title": "The absolute best Cyber Monday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025",
-      "description": "Most Cyber Monday deals have already taken shape, with gadgets, games, and select gear on sale for more than 60 percent off.",
-      "author": null,
-      "published_date": "2025-12-01T02:38:32+00:00",
-      "category": "Trending",
-      "tags": [
-        "Cyber Monday",
-        "Deals",
-        "Gadgets"
-      ],
+      "url": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
+      "title": "These great Cyber Monday tech deals will likely be gone tomorrow",
+      "published_date": "2025-12-01T10:00:00+00:00",
+      "description": "Some deals have dropped to even lower prices than on Black Friday, so seize this opportunity to save.",
+      "thumbnail": null,
       "source": "The Verge"
     },
     {
-      "title": "The indie web is here to make the internet weird again",
       "url": "https://www.theverge.com/column/829831/indie-web-geocities-neocities",
-      "description": "A new generation of web pioneers is bringing back the wild, DIY spirit of the early internet",
-      "author": "",
+      "title": "The indie web is here to make the internet weird again",
       "published_date": "2025-11-30T13:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "indie web",
-        "geocities",
-        "neocities",
-        "internet",
-        "DIY"
-      ],
+      "thumbnail": null,
       "source": "The Verge"
     },
     {
-      "title": "The 2025 Installer gift guide",
       "url": "https://www.theverge.com/tech/830153/the-2025-installer-gift-guide",
-      "description": "",
-      "author": "",
+      "title": "The 2025 Installer gift guide",
       "published_date": "2025-11-30T13:00:00+00:00",
-      "category": "Technology",
-      "tags": [],
+      "thumbnail": null,
       "source": "The Verge"
     },
     {
-      "title": "The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more",
       "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
-      "description": "",
-      "author": "",
+      "title": "The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more",
       "published_date": "2025-12-01T02:53:01+00:00",
-      "category": "Technology",
-      "tags": [
-        "Apple",
-        "Cyber Monday",
-        "Black Friday",
-        "Deals",
-        "MacBook"
-      ],
+      "thumbnail": null,
       "source": "The Verge"
     },
     {
-      "title": "You need to read the treatise on spacing out, Bored and Brilliant",
       "url": "https://www.theverge.com/report/834063/treatise-on-spacing-out-bored-and-brilliant-manoush-zomorodi",
-      "description": "",
-      "author": "",
+      "title": "You need to read the treatise on spacing out, Bored and Brilliant",
       "published_date": "2025-11-30T18:30:00+00:00",
-      "category": "Trending",
-      "tags": [],
+      "thumbnail": null,
       "source": "The Verge"
     },
     {
-      "title": "I just want AI to rename my photos",
       "url": "https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast",
-      "description": "",
-      "author": "",
+      "title": "I just want AI to rename my photos",
       "published_date": "2025-11-30T15:10:36+00:00",
-      "category": "Technology",
-      "tags": [],
+      "thumbnail": null,
       "source": "The Verge"
     },
     {
-      "title": "Here are 50 standout deals under $100 we’re eyeing for Cyber Monday",
+      "url": "https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed",
+      "title": "Netflix kills casting from phones",
+      "published_date": "2025-12-01T10:20:50+00:00",
+      "thumbnail": null,
+      "source": "The Verge"
+    },
+    {
       "url": "https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025",
-      "description": "Cyber Monday deals on tech gadgets and software",
-      "author": null,
+      "title": "Here are 50 standout deals under $100 we’re eyeing for Cyber Monday",
       "published_date": "2025-12-01T03:29:13+00:00",
-      "category": "Technology",
-      "tags": [
-        "Cyber Monday",
-        "Tech Deals",
-        "Gadgets"
-      ],
+      "thumbnail": null,
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025",
+      "title": "The absolute best Cyber Monday deals you can already shop",
+      "published_date": "2025-12-01T02:38:32+00:00",
+      "description": "Most Cyber Monday deals have already taken shape, with gadgets, games, and select gear on sale for more than 60 percent off.",
+      "thumbnail": null,
       "source": "The Verge"
     },
     {
       "title": "Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet",
       "url": "https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025",
       "description": "",
-      "author": null,
+      "author": "",
       "published_date": "2025-12-01T00:53:23+00:00",
       "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g078e542cc73da6f3d86001ee0a9a5fc06c6fceb11ad52a034d0545f3ce9887a50407f8792dbad1ed39afe26a824a67d9f248a55346bde6f4088db4376c0b6a9a_640.jpg",
       "source": "The Verge"
     },
     {
       "title": "Data centers in Oregon might be helping to drive an increase in cancer and miscarriages",
       "url": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage",
-      "description": "Amazon's data centers are expanding across Oregon, sparking concerns over the potential health impact of these facilities.",
+      "description": "Amazon has built large data centers in the state of Oregon, but some scientists worry that these sites could be linked to an increase in cancer and miscarriages.",
       "author": null,
       "published_date": "2025-11-30T23:17:08+00:00",
-      "category": "Trending",
-      "tags": [
-        "cancer",
-        "miscarriage",
-        "data centers",
-        "Amazon"
-      ],
-      "source": "The Verge"
-    },
-    {
-      "title": "Disney Plus, Hulu, and HBO Max are all over 60 percent off for Cyber Monday",
-      "url": "https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025",
-      "description": "",
-      "author": null,
-      "published_date": "2025-11-30T21:54:59+00:00",
-      "category": "Trending",
-      "tags": [],
-      "source": "The Verge"
-    },
-    {
-      "title": "Panel Hub S1 Plus",
-      "url": "https://www.theverge.com/2025/1/6/24334059/aqara-smart-home-touchscreen-controller-ces-2025",
-      "description": "Aqara’s seven-inch touchscreenPanel Hub S1 Plushas gotten amajor updatethat adds built-in Siri support, so you can tap Apple’s virtual assistant, even when your phone or HomePod aren’t nearby. Whilebuilt-in Siriisn’t new, it hasn’t enjoyed the same level of support as Alexa. For now, unfortunately, the S1 Plus isn’t available in the US, however.",
-      "author": "",
-      "published_date": "2025-11-30T20:04:27+00:00",
       "category": "Technology",
       "tags": [
-        "Apple",
-        "Siri",
-        "Smart Home",
-        "Aqara"
+        "Amazon",
+        "data centers",
+        "cancer",
+        "miscarriage"
       ],
+      "thumbnail": "https://pixabay.com/get/gab174e41eb81bb01afd2dd9ae7c5ffbd0226e5f23a8a8445185b835fee6d86ce68e3a498afcf28fb076418cca07f2e3bfa314f43783063a060a0b91087f603a0_640.jpg",
       "source": "The Verge"
     },
     {
@@ -159,20 +111,99 @@
         "e-bike",
         "software-powered"
       ],
+      "thumbnail": "https://pixabay.com/get/g9c3b6caaf849b9a96140ac851324e9c76212f28ede611fe481c4e15c7544e47cc9d6d1717c783a828e5ccdf1d880fd09_640.jpg",
       "source": "The Verge"
     },
     {
       "title": "Ninja’s versatile Creami ice cream maker hits an all-time low for Black Friday",
       "url": "https://www.theverge.com/gadgets/832870/black-friday-ninja-swirl-creami-ice-cream-maker-deal-sale-2025",
-      "description": "The Ninja Creami has been a cult favorite among ice cream lovers, but this Black Friday deal is the best chance to snag it at an unbeatable price.",
+      "description": null,
       "author": null,
       "published_date": "2025-11-29T02:00:00",
+      "category": "Technology",
+      "tags": [
+        "Black Friday",
+        "Ninja Creami",
+        "Ice Cream Maker"
+      ],
+      "thumbnail": "https://pixabay.com/get/ge48b27ca66ae20fa8782780ba0ff308ad8591798947aa4421c236a6f6c25cc955405fa6d9bc6c78b4c387269c1387b40ff99e0d7aad15087a2453e823af5c1e3_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Disney Plus, Hulu, and HBO Max are all over 60 percent off for Cyber Monday",
+      "url": "https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025",
+      "description": "Cyber Monday brings discounts on Disney Plus, Hulu, and HBO Max",
+      "author": "",
+      "published_date": "2025-11-30T21:54:59+00:00",
       "category": "Trending",
       "tags": [
-        "ice cream maker",
-        "black friday deal",
-        "creamici"
+        "Black Friday",
+        "Streaming services",
+        "HBO Max",
+        "Disney Plus"
       ],
+      "thumbnail": "https://pixabay.com/get/gaaa127ebfd77ce965b69028fc18fdc1a3d03208c3e234c04fcb3a8fb612d24472dd551e10693dd997a0a9ca6acc68179_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Panel Hub S1 Plus",
+      "url": "https://www.theverge.com/2025/1/6/24334059/aqara-smart-home-touchscreen-controller-ces-2025",
+      "description": "Aqara’s seven-inch touchscreenPanel Hub S1 Plushas gotten amajor updatethat adds built-in Siri support, so you can tap Apple’s virtual assistant, even when your phone or HomePod aren’t nearby. Whilebuilt-in Siriisn’t new, it hasn’t enjoyed the same level of support as Alexa. For now, unfortunately, the S1 Plus isn’t available in the US, however.",
+      "author": "",
+      "published_date": "2025-11-30T20:04:27+00:00",
+      "category": "Technology",
+      "tags": [
+        "smart home",
+        "Siri",
+        "Apple",
+        "CES 2025"
+      ],
+      "thumbnail": "https://pixabay.com/get/gb1b4ac3a87289791d368c34729e9bc2a52ddbf7110d4922f2998584840703e63ee30fb8bf2927ea5d716662ab5c581ea523b30e2dab1c312d16b0a0fee0887a2_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "This Cyber Monday deal on smart glasses was too good for my husband to pass up",
+      "url": "https://www.theverge.com/gadgets/834064/echo-frames-cyber-monday-deal-echo-spot",
+      "description": "",
+      "author": "",
+      "published_date": "2025-11-30T20:00:00+00:00",
+      "category": "Technology",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g4d945170dcfcbcaefff00bab6c336464d551fefcfcc8d1b347e3bc62a8f02a6aeb63f0162138fc19389abc816fb2939af4b732bd4977bdc8f2a398a36f97195c_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "My favorite snore-blocking sleepbuds are down to a new low price for Cyber Monday",
+      "url": "https://www.theverge.com/gadgets/834099/anker-soundcore-sleep-a20-snore-blocking-earbuds-lowest-price-cyber-monday",
+      "description": "",
+      "author": "",
+      "published_date": "2025-11-30T19:18:09+00:00",
+      "category": "Trending",
+      "tags": [
+        "snore blocking earbuds",
+        "Cyber Monday deals",
+        "soundcore sleep a20"
+      ],
+      "thumbnail": "https://pixabay.com/get/gb42d984ef47b50be01699a85342a8ddd852f860daa62b190d58c4ed2a3e0d1dc42819d2d7e80fabccdb18e10a4ed81e45de815fec2a22854c8b8418b14cca100_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/834015/can-you-pass-nprs-quick-ai-video-quiz",
+      "title": "",
+      "published_date": "2025-11-30T15:28:19+00:00",
+      "description": "It’s only four questions long, butNPR’stest of your ability tospot AI slopcan help you test your skills. Of course, after you pass the test (I have faith in you), there are tips for what to look out for and words of caution about just assuming everything is fake. Your skepticism can be weaponized in what’s called the “liar’s dividend.”",
+      "thumbnail": null,
+      "source": "The Verge"
+    },
+    {
+      "title": "The best Cyber Monday deals on some of my favorite smart home gear",
+      "url": "https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals",
+      "description": "",
+      "author": "",
+      "published_date": "2025-11-30T15:26:00+00:00",
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g352974b38ef7bbf937714e98c1c25cbcf9314459db8fefd214124e1f1d45af09dec8601c22e1d8cd75d42f77b69f9fe90db1a2aa934286308609ec6c892a33c2_640.jpg",
       "source": "The Verge"
     },
     {
@@ -183,108 +214,44 @@
       "published_date": "2025-11-29T13:00:00",
       "category": "Technology",
       "tags": [],
-      "source": "The Verge"
-    },
-    {
-      "title": "This Cyber Monday deal on smart glasses was too good for my husband to pass up",
-      "url": "https://www.theverge.com/gadgets/834064/echo-frames-cyber-monday-deal-echo-spot",
-      "description": null,
-      "author": null,
-      "published_date": "2025-11-30T20:00:00+00:00",
-      "category": "Gadgets",
-      "tags": [
-        "Smart glasses",
-        "Cyber Monday deal",
-        "Echo Frames"
-      ],
-      "source": "The Verge"
-    },
-    {
-      "title": "My favorite snore-blocking sleepbuds are down to a new low price for Cyber Monday",
-      "url": "https://www.theverge.com/gadgets/834099/anker-soundcore-sleep-a20-snore-blocking-earbuds-lowest-price-cyber-monday",
-      "description": "",
-      "author": "",
-      "published_date": "2025-11-30T19:18:09+00:00",
-      "category": "Technology",
-      "tags": [],
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/834015/can-you-pass-nprs-quick-ai-video-quiz",
-      "title": "",
-      "published_date": "2025-11-30T15:28:19+00:00",
-      "description": "It’s only four questions long, butNPR’stest of your ability tospot AI slopcan help you test your skills. Of course, after you pass the test (I have faith in you), there are tips for what to look out for and words of caution about just assuming everything is fake. Your skepticism can be weaponized in what’s called the “liar’s dividend.”",
-      "source": "The Verge"
-    },
-    {
-      "title": "The best Cyber Monday deals on some of my favorite smart home gear",
-      "url": "https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals",
-      "description": "Check out the top Black Friday and Cyber Monday deals on the best smart home gear from brands like Amazon, Google, and Sonos.",
-      "author": null,
-      "published_date": "2025-11-30T15:26:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "smart home",
-        "Cyber Monday deals",
-        "Black Friday",
-        "Amazon",
-        "Google"
-      ],
-      "source": "The Verge"
-    },
-    {
-      "title": "It doesn’t end at Neuralink",
-      "url": "https://www.theverge.com/report/829120/neuralink-bci-webcam",
-      "description": "",
-      "author": "",
-      "published_date": "2025-11-30T14:30:00+00:00",
-      "category": "Technology",
-      "tags": [],
-      "source": "The Verge"
-    },
-    {
-      "title": "The 201 Black Friday deals you can still get",
-      "url": "https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available",
-      "description": "We’re back for another round of Black Friday deals on gadgets, games, and other products that are worth checking out.",
-      "published_date": "2025-11-30T01:30:51+00:00",
-      "category": "Trending",
-      "tags": [
-        "Black Friday",
-        "tech deals",
-        "gadgets"
-      ],
+      "thumbnail": "https://pixabay.com/get/g912c880c1b6856fb1d063c9c403bb0e6bbe1e003f283b0aa4046c4fb60507dcede8cc5bba4aae04283d178e270121bb23d5e50fa5a096cfed64dd18a2b7f94f5_640.jpg",
       "source": "The Verge"
     },
     {
       "title": "Varda says it has proven space manufacturing works — now it wants to make it boring",
       "url": "https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/",
-      "description": "Varda, a company that's been working on space manufacturing technology, says it has proven its approach works.",
+      "description": "",
       "author": "Connie Loizos",
       "published_date": "2025-11-30T18:11:19-08:00",
       "category": "Technology",
-      "tags": [
-        "space manufacturing",
-        "Varda",
-        "TechCrunch"
-      ],
-      "source": "TechCrunch"
-    },
-    {
-      "title": "",
-      "url": "https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/",
-      "description": "",
-      "author": "Anthony Ha",
-      "published_date": "2025-11-30T14:53:15-08:00",
-      "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g8688332690ae2be8cc6293bb03896b24cca33f351fd2ad187dbddbe26c270d987cf5625116150f73af5b9f5e840ac79a_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "url": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
-      "title": "New report examines how David Sacks might profit from Trump administration role",
+      "url": "https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/",
+      "title": "‘Avatar’ director James Cameron says generative AI is ‘horrifying’",
       "source": "TechCrunch",
       "author": "Anthony Ha",
-      "published_date": "2025-11-30T13:39:04-08:00"
+      "published_date": "2025-11-30T14:53:15-08:00",
+      "thumbnail": null
+    },
+    {
+      "title": "New report examines how David Sacks might profit from Trump administration role",
+      "url": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+      "description": "A new report by the Institute for Technology and Trade Policy at George Mason University argues that former Goldman Sachs executive David Sacks could potentially profit from his involvement with the Trump administration.",
+      "author": "Anthony Ha",
+      "published_date": "2025-11-30T13:39:04-08:00",
+      "category": "Technology",
+      "tags": [
+        "David Sacks",
+        "Trump administration",
+        "Institute for Technology and Trade Policy",
+        "Goldman Sachs",
+        "Politics"
+      ],
+      "thumbnail": "https://pixabay.com/get/g4c89cc3dd9ccf20ccee727cdaab95c28975c18c2f5b3b5b1f5435dfe49ff31e5fc2d26a9b7ccfcff312a199472d78148c0ed4788be38d561bea2953223f14454_640.jpg",
+      "source": "TechCrunch"
     },
     {
       "title": "ChatGPT launched three years ago today",
@@ -292,12 +259,13 @@
       "description": "",
       "author": "Anthony Ha",
       "published_date": "2025-11-30T12:14:09-08:00",
-      "category": "Technology",
+      "category": "Trending",
       "tags": [
         "ChatGPT",
-        "AI",
-        "Language Model"
+        "Artificial Intelligence",
+        "Machine Learning"
       ],
+      "thumbnail": "https://pixabay.com/get/g2bcbcf05b4f12e025d890e5137bec9f235ad79e5039550d0209ce0491f81546343a3471fc72fbcf81fad0bf53461ca35db55ac3cebc15a3440d879f1e6ec7b08_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -308,6 +276,7 @@
       "published_date": "2025-11-30T08:59:48-08:00",
       "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/gd2ef0b90dbd5859fa212a94f632cd913c521bad6399effedaa5fc646bfa06223c88fc4a97aec627b0c46c2651ea7f0ce8755cb29bf27bf45cc21df73327d943d_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -317,26 +286,23 @@
       "author": "Anthony Ha",
       "published_date": "2025-11-29T14:03:18-08:00",
       "category": "Technology",
-      "tags": [
-        "Airbus",
-        "Solar Radiation Risk",
-        "Software Fix"
-      ],
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g20ad2570f6199de038f4ba252ebf16aed189046ca143fc1b7ae55ea9da135433b422e98014931bf34272b5e8fb0bc5368255f5e66031ebceda2d22ad8d118382_640.jpg",
       "source": "TechCrunch"
     },
     {
       "title": "Black Friday sets online spending record of $11.8B, Adobe says",
       "url": "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/",
-      "description": "",
+      "description": "Black Friday sales reached a record high in 2025, according to Adobe.",
       "author": "Anthony Ha",
       "published_date": "2025-11-29T13:39:44-08:00",
-      "category": "Technology",
+      "category": "Trending",
       "tags": [
         "Black Friday",
-        "Online shopping",
-        "Adobe",
-        "Spending record"
+        "Online spending",
+        "Adobe"
       ],
+      "thumbnail": "https://pixabay.com/get/g6fc837f61ba8a678dba918bafd0c7dc1b982345a8714b327095a5d29ac8c57f03695c1630b9f52febcb55fc785f96603391de36bc4b0e667a3c76ba091d1a5f4_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -347,20 +313,18 @@
       "published_date": "2025-11-29T10:09:48-08:00",
       "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g9893f2798ff4c4fee9f3dff5bc1b9997afa8dd9ed7de577c5013003d09cfdc3c74338bf28ab601b6f0e150fd0ac273d4e504f4b301ff6aba567554a918dd13f1_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "title": "No you can’t get your AI to ‗admit¡198t being sexist, but it probably is anyway",
+      "title": "No you can’t get your AI to§admit§ to being sexist, but it probably is anyway",
       "url": "https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/",
-      "description": "TechCrunch original: An AI may not admit to its biases, but those biases are still there.",
+      "description": "",
       "author": "Dominic-Madori Davis",
       "published_date": "2025-11-29T08:00:00-08:00",
       "category": "AI & ML",
-      "tags": [
-        "AI",
-        "bias",
-        "sexism"
-      ],
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g520fd0c508f4e051f71353550fb4157bd966d8e8d2eda5ab887c1f672ff1fc30a26195ce12ab28f3650d1313f58a62d820b2c3ad97cce5e2c11043bcb7018abd_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -370,27 +334,44 @@
       "author": "Connie Loizos",
       "published_date": "2025-11-28T22:17:51-08:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "women's sports",
+        "venture capital",
+        "Kara Nortman"
+      ],
+      "thumbnail": "https://pixabay.com/get/gb0a19a1938f166e5bc2c190a691251dfa9783b21fd8d76fa9a6c1fa45541124869cc567ab01ed27a2b3ea4338ee2333ab76ade947e1f169d37f4290cc491fa5a_640.jpg",
       "source": "TechCrunch"
     },
     {
       "title": "Supabase hit $5B by turning down million-dollar contracts. Here’s why.",
       "url": "https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/",
-      "description": "",
+      "description": "Supabase has reached a valuation of $5 billion, but it's doing so by turning down lucrative deals to stay true to its core mission.",
       "author": "Theresa Loconsolo",
       "published_date": "2025-11-28T15:00:00-08:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "Supabase",
+        "valuation",
+        "money",
+        "deals",
+        "technology"
+      ],
+      "thumbnail": "https://pixabay.com/get/g1f827b2a04170620c7ed93fa25303cb95b268363b89fef98fc592586d57afbc81d25792f8b33f0cd1b6e11fc73bd528daccda0e1293a140d56028ef3509c27ef_640.jpg",
       "source": "TechCrunch"
     },
     {
       "title": "Supabase CEO on the “painful” decisions that built a $5B company",
       "url": "https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/",
-      "description": "",
+      "description": "Theresa Loconsolo, CEO of Supabase, shares the painful decisions that led to her company's $5 billion valuation.",
       "author": "Theresa Loconsolo",
       "published_date": "2025-11-28T09:20:00-08:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "Supabase",
+        "CEO",
+        "$5B company"
+      ],
+      "thumbnail": "https://pixabay.com/get/gade3e057dc291bf0bca335cccc906d14005524e34f15d32bfd9ed8e529778cb5e9869a137dca2ac048d8ab823e9e9ebf6014ac0c0ed8f97799e9a922c50e1a4f_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -400,24 +381,24 @@
       "author": "Jagmeet Singh",
       "published_date": "2025-11-28T08:09:00-08:00",
       "category": "Technology",
-      "tags": [
-        "e-commerce",
-        "SoftBank",
-        "Meesho",
-        "IPO"
-      ],
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g25c2d92201f4fca47a1513c8af21921fd117cfbc903592fabf7f9a2705ecace4137f7ec20f30d197ea967f8e88f6122cec3eb429617c2b586692fd2bace69d86_640.jpg",
       "source": "TechCrunch"
     },
     {
       "title": "How OpenAI and Google see AI changing go-to-market strategies",
       "url": "https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/",
-      "description": "",
+      "description": null,
       "author": "Tim De Chant",
       "published_date": "2025-11-28T08:00:00-08:00",
       "category": "Technology",
       "tags": [
-        "AI"
+        "AI",
+        "Go to Market Strategies",
+        "OpenAI",
+        "Google"
       ],
+      "thumbnail": "https://pixabay.com/get/gf7ccd311ee7325590d4bc46217be2b814a173e0fba0754a4ecf225726be2ee4c483b4761697a1d75f0f5195f4cda775ccbdd4f3d01d94b2fb80f8413b78ba4bf_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -428,6 +409,7 @@
       "published_date": "2025-11-28T07:00:00-08:00",
       "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g9cdf9734f4ac1f35ea9b5b9b63064cd44431de761756d701ef0bf67b40b9e0c94064944d1bf73001bf697cce38787bcc89c5dcc490aff2ddfd12cb6f18c438f3_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -438,6 +420,7 @@
       "published_date": "2025-11-28T06:41:51-08:00",
       "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g1d5f12e47aec825f67ec971a066617eabe62b67c666e66397845b1e4ae4de8f16ccede2c19b5ce4ebadafe0d5b0b8eef_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -448,34 +431,38 @@
       "published_date": "2025-11-27T21:07:47-08:00",
       "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g9129a8f74e96a8b9f6e0e60a613f92289c08f75517a9e89aaf072fc535b11f48474cd68f47c4279fab87a5a5843a7ec682a0b5a84b3e7934a48933ee21188dad_640.jpg",
       "source": "TechCrunch"
     },
     {
       "title": "This Thanksgiving’s real drama may be Michael Burry versus Nvidia",
       "url": "https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/",
-      "description": "TechCrunch is covering the latest news about the US-China trade war and what it means for the future of artificial intelligence",
+      "description": "",
       "author": "Connie Loizos",
       "published_date": "2025-11-27T11:32:21-08:00",
-      "category": "AI & ML",
+      "category": "Technology",
       "tags": [
-        "US-China trade war",
-        "artificial intelligence",
-        "ai tools"
+        "Nvidia",
+        "Michael Burry",
+        "TechCrunch"
       ],
+      "thumbnail": "https://pixabay.com/get/g25a0de8bbb3a236f894fd12562b308cf55ef17b1ee4d8c718bccaa4fa1d43b28298843dc2478b5c596a9b55fb2b6b3691567d6201818a6cff684d3639e824cf0_640.jpg",
       "source": "TechCrunch"
     },
     {
       "title": "Best iPad apps for unleashing and exploring your creativity",
       "url": "https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
-      "description": "",
+      "description": "Discover the best iPad apps to unleash your creativity, from digital painting tools to productivity software.",
       "author": "Aisha Malik",
       "published_date": "2025-11-27T09:29:07-08:00",
       "category": "Technology",
       "tags": [
-        "iPad apps",
-        "Creativity",
-        "Productivity"
+        "ipad",
+        "app",
+        "creativity",
+        "digital art"
       ],
+      "thumbnail": "https://pixabay.com/get/gd71b597c445537090a946fbe323d03730064b587edb3380c7289d335edaa5d01aebc5ff65f34a486f1d812e9dbe5d9d5_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -486,176 +473,169 @@
       "published_date": "2025-11-27T09:02:00-08:00",
       "category": "Technology",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g46786c2cf6ddefc6cde2300ae38c7bf1386c1415d0de3de39f05d35f93282dd457fcd4f9ee82797181772255d66c1bf0931485c90b293dc7f47416a9eb79dc19_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "title": "Today's NYT Connections: Sports Edition Hints and Answers for Dec. 1, #434",
-      "url": "https://www.cnet.com/tech/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-1-434/",
+      "title": "30+ Cyber Monday Verizon Deals That Make Switching Totally Worth It",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-verizon-deals-2025-12-1/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": "",
       "category": "Trending",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g8f0f656a3056597bfcfaeba98376ff99409f7b2c0f0a988e49d2f57f721eb2359b77367d0eb8b5fcf38db27b33302ad6d371fdd2f5dae9be7dd201ca2a07f075_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "Today's NYT Mini Crossword Answers for Monday, Dec. 1",
-      "url": "https://www.cnet.com/tech/todays-nyt-mini-crossword-answers-for-monday-dec-1/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "crossword",
-        "NYT",
-        "Mini Crossword"
-      ],
-      "source": "CNET"
-    },
-    {
-      "title": "I Found 20+ Cyber Monday Gift Card Deals to Help You Save at Apple, Uber and More",
-      "url": "https://www.cnet.com/deals/best-cyber-monday-gift-cards-apple-uber/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [],
-      "source": "CNET"
-    },
-    {
-      "title": "Cyber Monday Deals Revealed 55+ TVs That Will Not Be This Cheap Tomorrow",
-      "url": "https://www.cnet.com/deals/best-cyber-monday-tv-deals-2025-11-30/",
+      "title": "The Smart Thermostat That Pays for Itself Is $54 Off This Cyber Monday",
+      "url": "https://www.cnet.com/deals/the-smart-thermostat-that-pays-for-itself-is-54-off-this-cyber-monday/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": null,
       "published_date": null,
       "category": "Trending",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/ge3e4ef2d4c80b172020d9f3bee6495804ffce86c3cad299aab200efc0205d4111b56e5a23f981fb7ac73afefc2c53a316943ce3365241e9f2b4be018fa4a6497_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "This Epic Cyber Monday Deal Brings You a NxtPaper Tablet for Just $150",
-      "url": "https://www.cnet.com/deals/this-epic-cyber-monday-deal-brings-you-a-nxtpaper-tablet-for-just-150/",
+      "title": "Today’s NYT Connections Hints, Answers and Help for Dec. 1, #904",
+      "url": "https://www.cnet.com/tech/todays-nyt-connections-hints-answers-and-help-for-dec-1-904/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": "",
       "category": "Trending",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/gb8954c4697842f084ed4d9576a00b879e6eea725b36f5e2131de53c288fd881be8ee9fb3f9fc244d4381aa6be7952de3_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "I Found 25+ Lego Cyber Monday Deals Up to 50% Off, Even the ‗Wicked: For Good’ Kits",
-      "url": "https://www.cnet.com/deals/black-friday-lego-deals-2025-11-29/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": "",
-      "category": "Trending",
-      "tags": [],
-      "source": "CNET"
-    },
-    {
-      "title": "Best Buy’s Cyber Monday Sale Is Live, and I Found 70+ Deals From LG, Roku, Sony and More",
-      "url": "https://www.cnet.com/deals/best-cyber-monday-best-buy-deals-2025-12-01/",
+      "title": "Today's NYT Strands Hints, Answers and Help for Dec. 1 #638",
+      "url": "https://www.cnet.com/tech/todays-nyt-strands-hints-answers-and-help-for-dec-1-638/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": null,
       "category": "Trending",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g745a1dfe8151dafe8583be2bfe832e2175b15f4c5c142cb42098b1efd02deeb3cd92765f4e108fa1abb184b10509caa0_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "Act Now to Get This Rare Cyber Monday Nintendo Switch 2 Deal Before It's Gone",
-      "url": "https://www.cnet.com/deals/act-now-to-get-this-cyber-monday-nintendo-switch-2-bundle-before-it-s-gone/",
+      "title": "Today's Wordle Hints, Answer and Help for Dec. 1, #1626",
+      "url": "https://www.cnet.com/tech/todays-wordle-hints-answer-and-help-for-dec-1-1626/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/gcc8a9deb7ac62f99f82c33c5b7b0022becf291c6c34e37405089bcae128c338dac74d94e8f1107744d06254c7a924732_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Cyber Monday Is Here and These Are Our Favorite Deals Under $100 for Budget-Friendly Shopping",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-deals-under-100-2025-12-01/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": "",
+      "published_date": null,
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/gf1343faf0da9359ddb4aacf97f93dce258f729c33c39839ed088b10c297a1c39b339fc706e412452a55c14a85bccb02d830534a5bd5601975580bc6b85d840df_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "My Picks: 143 Cyber Monday Deals From Apple, Fitbit, LG, Samsung and More You Can Grab Today",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-deals-2025-12-1/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": "",
       "category": "Trending",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/ga391a8e9723994f4075687f0f81f4dddd57cbbff4f280ca8d165f603995cf0b37ecea52229eda90b6b21f55fa00ded16856cb15a1cdbc43f9e34935ec16b861e_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "This Is the Brightest TV We’ve Ever Tested. If You’re Quick, You Can Have It for 50% Off This Cyber Monday",
-      "url": "https://www.cnet.com/deals/the-brightest-tv-weve-ever-seen-is-50-off-for-cyber-monday/",
+      "title": "Save Big With 60+ Cyber Monday Anker Deals on Chargers, Projectors and More",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-anker-deals-2025-12-01/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/ge51f59178065e91d8d0efe980b21d954babb5e8b69e497b05b58793a2ceb7dda51da6a3e83cf037082e8a5c21131e62927d792591ae6492de83fd06189327bfe_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Shopping on a Budget This Cyber Monday? These Under-$25 Apple, JBL and Anker Deals Make Perfect Gifts",
+      "url": "https://www.cnet.com/deals/cyber-monday-deals-under-25-2025-12-1/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": "",
+      "published_date": null,
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g0cdcb7321989b8eb228416464df786397e539ebd8362f809fa5fd8ef8466b3576d37a6f5e6faf881d20782e13e233f9a0ad6793a6df6a3f323177ca6b5de3b65_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Don’t Pay the Full Price. Here Are 30+ Best Cyber Monday Deals on iPhones and Android Phones",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-phone-deals-2025-12-01/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g239581c3cd7e7ac8dc1be0352b1ca42d00e1f33a7ad5f01e973845115d2827b9d6e57d22afd34dc7af676ae67eb98474a6a372330b009c8b651f09314dc5474b_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "It’s Cyber Monday. The Massive New TV You're Waiting for Is Here",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-tv-deals-2025-12-01/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": "",
       "category": "Trending",
       "tags": [
         "Cyber Monday",
-        "TV Deals",
-        "50% Off"
+        "TV deals",
+        "TV"
       ],
+      "thumbnail": "https://pixabay.com/get/g0cd10c78c6bdbffb1ceea33b64e784c2e44dee3f58a864d9556a54983d68ed95ab2f66a9b5b1d77f3f57e5fd5539638666256f8b6e638fdc9574c42c3d4a7894_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "Cyber Monday Is Hours Away, but I’ve Already Found 53 Incredible Apple Deals Available Now",
-      "url": "https://www.cnet.com/deals/best-cyber-monday-apple-deals-2025-11-30/",
+      "title": "Cyber Monday Is Here With 47 PlayStation, Xbox and Switch Deals Worth Pausing Your Game For",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-gaming-deals-2025-12-1/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": "",
-      "category": "Trending",
-      "tags": [],
-      "source": "CNET"
-    },
-    {
-      "title": "Cyber Monday Brings a Record-Low Price on the Apple Watch Ultra 3, but It Won’t Last",
-      "url": "https://www.cnet.com/deals/cyber-monday-apple-watch-ultra-3-amazon/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Apple Watch Ultra 3",
-        "Cyber Monday",
-        "Deal"
-      ],
-      "source": "CNET"
-    },
-    {
-      "title": "I’ve Found 138 Cyber Monday Deals From Apple, Fitbit, LG and Others Ready to Shop Now",
-      "url": "https://www.cnet.com/deals/best-cyber-monday-deals-2025-11-30/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "null",
+      "author": null,
       "published_date": null,
       "category": "Trending",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g3a41d7292c59be5443e6e30bf97b31c29ece962a11aa02959770bd90a1f26e281221c3c3b83321e9b7488914234eaa47947043279488a64ad372c01bbc0c516b_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "I Found EcoFlow’s Portable Power Station at Its All-Time Lowest Price for Cyber Monday",
-      "url": "https://www.cnet.com/deals/i-found-ecoflows-portable-power-station-for-its-lowest-ever-price-at-amazon/",
+      "title": "Cyber Monday Is Here With Great Laptop Deals. Check Out Our List of 52 Best Choices",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-laptop-deals-2025-12-01/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": null,
       "published_date": null,
       "category": "Trending",
       "tags": [
-        "ecoflow",
-        "portable power station",
-        "cyber monday"
+        "laptop",
+        "Cyber Monday",
+        "deals"
       ],
+      "thumbnail": "https://pixabay.com/get/g89c3b049961788f0c9f773423591ea6ca9f57fbbd7caf640a8a26c3d911a60ee67335a19e6229cd2ccf395390e61b22564ea3eddfa61e25f1a9e19ad8dc38f2b_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "I Just Grabbed an Entire Year of Starz for $12 With This Cyber Monday Deal",
-      "url": "https://www.cnet.com/deals/you-can-get-an-entire-year-of-starz-for-12-with-this-limited-time-cyber-monday-deal/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "none",
-      "published_date": "2022-11-28T13:10:00Z",
-      "category": "Trending",
-      "tags": [
-        "Cyber Monday Deal",
-        "Starz",
-        "Streaming Service"
-      ],
-      "source": "CNET"
-    },
-    {
-      "title": "These Are the Final Hours to Nab a Disney Plus and Hulu Bundle for $5 Per Month",
-      "url": "https://www.cnet.com/deals/disney-hulu-bundle-for-5-per-month-cyber-monday/",
+      "title": "Tune Out the Chaos With These 50+ Cyber Monday Headphone Deals You Can Shop Right Now",
+      "url": "https://www.cnet.com/deals/best-cyber-monday-headphone-deals-2025-12-1/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
-      "published_date": null,
+      "published_date": "",
       "category": "Trending",
       "tags": [],
+      "thumbnail": "https://pixabay.com/get/g8f1dd551c0ba018106c0fd1d44984007a29ca8e07253c02d1966a07622e84e2d376471efd446f266d2c1650604c24fd2497cd126dd411174a24525de6a4f588f_640.jpg",
       "source": "CNET"
     }
   ]

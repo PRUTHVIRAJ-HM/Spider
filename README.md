@@ -1,6 +1,6 @@
 # Tech News Scraper with Ollama AI
 
-A web scraping tool that fetches articles from **The Verge** and **TechCrunch**, then uses Ollama AI to structure and categorize the data before storing it in JSON format.
+A web scraping tool that fetches articles from **The Verge**, **TechCrunch**, and **CNET**, processes content with Ollama AI, and fetches relevant thumbnail images from Pixabay and Unsplash.
 
 ## Features
 
@@ -16,6 +16,7 @@ A web scraping tool that fetches articles from **The Verge** and **TechCrunch**,
   - **Education** - Learning, educational tech, courses
   - **Careers** - Jobs, workplace, professional development
   - **AI & ML** - Artificial intelligence, machine learning
+- **Fetches relevant thumbnail images** from Pixabay and Unsplash APIs
 - Extracts relevant tags/keywords
 - Combines results from all sources into a single JSON file
 
@@ -29,12 +30,36 @@ A web scraping tool that fetches articles from **The Verge** and **TechCrunch**,
 
 1. Make sure Ollama is installed and running:
    - Download from https://ollama.com/
-   - Pull a model: `ollama pull llama3.2`
+   - Pull a model: `ollama pull llama3.2:3b`
 
-2. Install Python dependencies (already done in virtual environment):
+2. Install Python dependencies:
    ```bash
-   pip install requests beautifulsoup4 lxml ollama
+   pip install requests beautifulsoup4 lxml ollama python-dotenv
    ```
+
+3. **Configure API Keys:**
+   
+   Create a `.env` file in the project root and add your API keys:
+   
+   ```env
+   # Get your API keys from:
+   # Pixabay: https://pixabay.com/api/docs/
+   # Unsplash: https://unsplash.com/developers
+   
+   PIXABAY_API_KEY=your_pixabay_api_key_here
+   UNSPLASH_ACCESS_KEY=your_unsplash_access_key_here
+   ```
+
+   **How to get API keys:**
+   
+   - **Pixabay API:**
+     1. Sign up at https://pixabay.com/
+     2. Go to https://pixabay.com/api/docs/
+     3. Copy your API key
+   
+   - **Unsplash API:**
+     1. Create an app at https://unsplash.com/oauth/applications
+     2. Copy your Access Key
 
 ## Usage
 
@@ -68,7 +93,8 @@ The scraper creates `all_articles.json` with structured data from all sources:
       "published_date": "2025-12-01T...",
       "category": "Technology",
       "tags": ["tag1", "tag2", "tag3"],
-      "source": "The Verge"
+      "source": "The Verge",
+      "thumbnail": "https://pixabay.com/get/..."
     }
   ]
 }
@@ -87,5 +113,11 @@ You can modify the scraper behavior in `main.py`:
 
 - The scraper limits to ~20 articles per source (~55 total) by default
 - Processing each article with AI takes a few seconds
+- **Thumbnail fetching adds ~2-3 seconds per article**
 - Make sure Ollama is running before executing the script
 - Articles are categorized into: Trending, Technology, Education, Careers, or AI & ML
+- **Thumbnails are fetched from Pixabay first, then Unsplash as fallback**
+- Images are not downloaded; only URLs are stored
+- **API Rate Limits:**
+  - Pixabay: 100 requests/minute (free tier)
+  - Unsplash: 50 requests/hour (free tier)
