@@ -1,0 +1,7 @@
+main.py
+image_fetcher.py
+vtps/
+__pycache__/
+*.pyc
+.env
+
