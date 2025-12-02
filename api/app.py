@@ -7,8 +7,21 @@ from datetime import datetime
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-# Path to the JSON file
-JSON_FILE_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'all_articles.json')
+# Path to the JSON file - handle both local and Vercel serverless environments
+_base_dir = os.path.dirname(os.path.dirname(__file__))
+_json_path = os.path.join(_base_dir, 'all_articles.json')
+
+# Check if file exists at expected location, otherwise try current working directory
+if os.path.exists(_json_path):
+    JSON_FILE_PATH = _json_path
+else:
+    # Fallback for Vercel serverless environment
+    _cwd_json = os.path.join(os.getcwd(), 'all_articles.json')
+    if os.path.exists(_cwd_json):
+        JSON_FILE_PATH = _cwd_json
+    else:
+        # Last resort: try relative to api directory
+        JSON_FILE_PATH = os.path.join(os.path.dirname(__file__), '..', 'all_articles.json')
 
 def load_articles():
     """Load articles from JSON file"""
