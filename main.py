@@ -4,15 +4,21 @@ import json
 import ollama
 from datetime import datetime
 from typing import List, Dict
+import os
+from dotenv import load_dotenv
 from image_fetcher import get_article_thumbnail
+
+load_dotenv()
 
 
 class NewsScraperWithAI:
     """Web scraper for tech news sites that uses Ollama to structure data."""
     
-    def __init__(self, base_url: str = "https://www.theverge.com/", source_name: str = "The Verge"):
+    def __init__(self, base_url: str = "https://www.theverge.com/", source_name: str = "The Verge", ollama_model: str = None):
         self.base_url = base_url
         self.source_name = source_name
+        # Get model from parameter, environment variable, or use default
+        self.ollama_model = ollama_model or os.getenv('OLLAMA_MODEL', 'llama3.2:3b')
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
@@ -232,7 +238,7 @@ class NewsScraperWithAI:
     
     def structure_with_ollama(self, articles: List[Dict]) -> List[Dict]:
         """Use Ollama to structure and clean the article data."""
-        print(f"\nProcessing {len(articles)} articles with Ollama...")
+        print(f"\nProcessing {len(articles)} articles with Ollama ({self.ollama_model})...")
         
         structured_articles = []
         
@@ -266,7 +272,7 @@ Return ONLY valid JSON, no explanation or markdown formatting."""
             try:
                 # Call Ollama API
                 response = ollama.chat(
-                    model='llama3.2:3b',  # You can change this to any model you have installed
+                    model=self.ollama_model,
                     messages=[
                         {
                             'role': 'user',
