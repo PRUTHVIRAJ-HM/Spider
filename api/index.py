@@ -214,3 +214,19 @@ def internal_error(error):
         "error": "Internal server error"
     }), 500
 
+# For local development
+if __name__ == '__main__':
+    print("=" * 60)
+    print("Tech News Scraper API")
+    print("=" * 60)
+    print(f"JSON file path: {JSON_FILE_PATH}")
+    print("API running on: http://localhost:5000")
+    print("\nAvailable endpoints:")
+    print("  GET /                      - API documentation")
+    print("  GET /api/articles          - Get all articles")
+    print("  GET /api/sources           - Get all sources")
+    print("  GET /api/categories        - Get all categories")
+    print("  GET /api/stats             - Get statistics")
+    print("=" * 60)
+    app.run(debug=True, host='0.0.0.0', port=5000)
+
