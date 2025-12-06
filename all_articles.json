@@ -4,906 +4,854 @@
     "TechCrunch",
     "CNET"
   ],
-  "scraped_at": "2025-12-02T21:46:07.265166",
-  "total_articles": 53,
+  "scraped_at": "2025-12-06T21:13:33.931442",
+  "total_articles": 50,
   "articles": [
     {
-      "title": "It’s their job to keep AI from destroying everything",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects",
-      "description": "Spoiler: the nine-person team works for Anthropic.",
+      "title": "Welcome to the big leagues, Netflix",
+      "url": "https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs",
+      "description": "WB has a checkered history of acquisitions, but joining forces with Netflix would elevate it to a new level of prominence.",
       "author": null,
-      "published_date": "2025-12-02T15:11:21+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Artificial Intelligence",
-        "Ethics"
-      ],
-      "thumbnail": "https://pixabay.com/get/gf4e1a961e821bb2ef9ad0e6e55c53797235f13726de6cbf8164ed87c619f0dbd2c0d183caa0ab8845c07c1c9e2c52594081657fb991b6ac1354d05bf36d5d47d_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Metroid Prime 4 excels when it’s actually being Metroid",
-      "url": "https://www.theverge.com/games/835325/metroid-prime-4-review-nintendo-switch",
-      "description": "A review of Metroid Prime 4, highlighting its strengths and similarities to the original Metroid series.",
-      "author": "Brad Mish),",
-      "published_date": "2025-12-02T15:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "Metroid Prime 4",
-        "Nintendo Switch",
-        "Gaming",
-        "Review",
-        "Adventure"
-      ],
-      "thumbnail": "https://pixabay.com/get/g2fa63a2b1d92a898b5f4280a9d418e893351e0fe5d13178e24bf1b32e9fca5c1234f6ec22dec5a78b694dbf457a6b4ec5664d0b038ded9624d8c64ab8d5fe664_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple gadgets, ranked",
-      "url": "https://www.theverge.com/podcast/836441/best-apple-gadgets-vergecast",
-      "description": "A discussion about the best Apple gadgets.",
-      "author": null,
-      "published_date": "2025-12-02T15:07:24+00:00",
-      "category": "Technology",
-      "tags": [
-        "Apple",
-        "gadgets",
-        "devices",
-        "technology",
-        "Vergecast"
-      ],
-      "thumbnail": "https://pixabay.com/get/g3f9b22379db3aa134d4b7e614d35e0e357fba6aa333831b0861ebd9031be97ac10f2c359565b2c2c936d5efbb67edfddcfd202dbbb8b457992661886ce1524f3_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "The Nikon ZR gets surprisingly close to a real RED camera (for a lot less money)",
-      "url": "https://www.theverge.com/gadgets/829930/nikon-zr-review-red-r3d-video-files",
-      "description": "A review of the Nikon ZR camera, comparing its performance to a RED camera, and its ability to produce high-quality video files.",
-      "author": "Germain Villeger",
-      "published_date": "2025-12-02T13:30:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "Nikon",
-        "ZR",
-        "RED",
-        "camera",
-        "video"
-      ],
-      "thumbnail": "https://pixabay.com/get/g4bb9c6e873ee5ee952f3d3567262b89900956065299636b1fca0cd3073d742b46a19fe3126cddaa21f2f3842a8f6de608904691b96494c43825cb55beb9257ac_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI declares ‘code red’ as Google catches up in AI race",
-      "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "description": "OpenAI has declared a \"code red\" situation as Google rapidly catches up in the artificial intelligence race. The company's flagship chatbot, ChatGPT, is facing increased competition and user demand, leading to significant scaling challenges.",
-      "author": "Ryan Abbott",
-      "published_date": "2025-12-02T11:40:07+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "OpenAI",
-        "ChatGPT",
-        "Google",
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "thumbnail": "https://pixabay.com/get/g6e6eb6eca750350b456fec6f8c2eaeb4c2f0d5e4d63ee244214606faabcc195b2d41a384f2238731e7ff34467eb4db6af406e63a779ff8d67761085265fecf83_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Samsung’s Z TriFold is official and it looks like a tablet with a phone attached",
-      "url": "https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability",
-      "description": "Samsung's Z TriFold is a foldable device that combines the features of a phone and a tablet. It was announced and is now available in the US.",
-      "author": null,
-      "published_date": "2025-12-02T01:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "foldable phone",
-        "Samsung",
-        "Z TriFold",
-        "mobile devices",
-        "tablet"
-      ],
-      "thumbnail": "https://pixabay.com/get/gf6401309b6e651d68427024a3b571d850959b4a1db74feb0f65d3fb8e824391ce609464253deeac9ef11998e209c2dff81b1db0323083fa200b4ae825970be84_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "ThoughClub Chalamet started off as just another stan account,The Wall Street Journalreports that Simone Cromer — the woman behind the Timothée-obsessed page — has found new success on Substack where she has generated enough revenue to “cover the cost of her summer vacation to Italy” with just a few hundred subscribers.",
-      "url": "https://www.theverge.com/entertainment/836524/club-chalamet-substack-simone-cromer",
-      "description": "ThoughClub Chalamet started off as just another stan account,The Wall Street Journalreports that Simone Cromer — the woman behind the Timothée-obsessed page — has found new success on Substack where she has generated enough revenue to “cover the cost of her summer vacation to Italy” with just a few hundred subscribers.",
-      "author": null,
-      "published_date": "2025-12-02T16:09:37+00:00",
-      "category": "Trending",
-      "tags": [
-        "Timothée Chalamet",
-        "Substack",
-        "Stan Account",
-        "Viral Content",
-        "Simone Cromer"
-      ],
-      "thumbnail": "https://pixabay.com/get/g5f43f6d18e53655a4c640b4fb4d78bb7d56e5531fef8862a4566cfc8a31f7f94949f059ed4117d7a6054d0e150074f8c5ad358e5324762f7deab8338ab4b6be0_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "The best thing I bought this year: a Zippo-sized rechargeable flashlight",
-      "url": "https://www.theverge.com/gadgets/835300/wuben-g5-rechargeable-edc-flashlight-favorite",
-      "description": "A detailed review of the Wuben G5 rechargeable EDC flashlight, highlighting its portability and features.",
-      "author": "Dylan Love",
-      "published_date": "2025-12-02T16:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "flashlight",
-        "EDC",
-        "portable",
-        "gadget",
-        "Wuben"
-      ],
-      "thumbnail": "https://pixabay.com/get/g36b8a101722a833dd01cb81c8d8b3ae75a2b2763e1c141010ab9677637bdc008e74bc37f1733a29c16cb94e8e48f23ceca9bba1629f2d0d19fb7e7020da4ddc9_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "19 bills they say will make kids safer",
-      "url": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package",
-      "description": "I’m in the hearing room where House lawmakers are discussing19 bills they say will make kids saferonline. Subcommittee Chair Gus Bilirakis (R-FL) begins by defending the massive rework of KOSA. “Don’t mistake durability for weakness,” he says. I’ll share more updates in the stream below.",
-      "author": null,
-      "published_date": "2025-12-02T15:46:45+00:00",
-      "category": "Trending",
-      "tags": [
-        "Kids Online Safety",
-        "Congress",
-        "Legislation",
-        "Online Safety",
-        "Cybersecurity"
-      ],
-      "thumbnail": "https://pixabay.com/get/g604c98d61dd936d1e6ba78100b6b065d9622a72e4be4c3629351abb5965ec6c2a19867efe9f7b9eff8dbdcbf1762055b84099860a24f5673016266159e514ce2_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Some of our favorite Cyber Monday deals are still kicking",
-      "url": "https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025",
-      "description": "The Verge's best Cyber Monday deals are still available.",
-      "author": null,
-      "published_date": "2025-12-02T15:37:18+00:00",
-      "category": "Trending",
-      "tags": [
-        "Cyber Monday",
-        "Deals",
-        "Gadgets",
-        "Shopping",
-        "Technology"
-      ],
-      "thumbnail": "https://pixabay.com/get/g1f01959493c40593b56d3974a20f754f33a5ec0f687a640ba4080f597a9d7c4d296a40e3f7b84b2caa56d194a0d0e8e8cca3199bce7ec80d06e6ae4aec69f569_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "30 practical smart home gifts that make everyday life a little easier",
-      "url": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
-      "description": "From gadgets that tackle chores to those that add a touch of magic to your home, here are our favorite smart home picks.",
-      "author": null,
-      "published_date": "2025-12-02T15:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "smart home",
-        "gadgets",
-        "gifts",
-        "home automation",
-        "tech"
-      ],
-      "thumbnail": "https://pixabay.com/get/gc2ea997337dbbbdad6eb728b86e3bdd508573e8c6fab2ef1c54ad1560b3546ef393f0f7237a89cff3a157162a99c2160d3805d894c0f88c3c9cfca7dadb8fffd_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "The race to AGI-pill the pope",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo",
-      "description": "A team of believers want the Vatican to take AI doomsday scenarios seriously.",
-      "author": null,
-      "published_date": "2025-12-01T14:00:00+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "Artificial Intelligence",
-        "AI",
-        "Doomsday",
-        "Vatican",
-        "AGI"
-      ],
-      "thumbnail": "https://pixabay.com/get/g48e9081b420b17c6811f190313eec74f759bf99a82687ee24b93eb8670d587839aab53c95ed64a7846247df8fc2400542e52644d6ebf694559501a8c603933b1_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Netflix kills casting from phones",
-      "url": "https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed",
-      "description": "Netflix has quietly removed support for phone casting to Chromecast, a feature that allowed users to stream content from their phones to their TVs.",
-      "author": null,
-      "published_date": "2025-12-01T10:20:50",
+      "published_date": "2025-12-05T22:02:58+00:00",
       "category": "Technology",
       "tags": [
         "Netflix",
-        "Chromecast",
-        "Streaming",
-        "Video",
-        "Google"
+        "Warner Bros.",
+        "Acquisition",
+        "HBO",
+        "Entertainment"
       ],
-      "thumbnail": "https://pixabay.com/get/gbc6ec7bb04f0757777d8e64da7e171aa42ef436a6b76736fbc775c3d0a63bb256cbeecbe2bd7dfcda3eaacebe30a24925aa6e6c6660aa5515d7c24512a5265d1_640.jpg",
+      "thumbnail": "https://pixabay.com/get/g4c8ee26ad7ccb359c2abecab122080d155576a34c474fe013e4c93acd55de4dc5c94f4b6f5f0545a59b44a97b194375e5d3d84b197b9738056911af1118bcdf8_640.jpg",
       "source": "The Verge"
     },
     {
-      "title": "The Nintendo Switch 2 got its first-ever discount during Cyber Monday",
-      "url": "https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale",
-      "description": "The Nintendo Switch 2 got its first-ever discount during Cyber Monday.",
+      "title": "AI ‘creators’ might just crash the influencer economy",
+      "url": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok",
+      "description": "AI creators are emerging as a new force in the influencer landscape, challenging traditional content creators and potentially disrupting the influencer economy.",
       "author": null,
-      "published_date": "2025-12-01T13:50:03",
-      "category": "Technology",
-      "tags": [
-        "Nintendo Switch",
-        "Cyber Monday",
-        "Deals",
-        "Gaming",
-        "WalMart"
-      ],
-      "thumbnail": "https://pixabay.com/get/ga7346dc00a8592a2207f8ea5318d423b80ea3e50098b5db650f107075936f3bca39858d7598ce9215c3691808da9fd41aeda60156f7c01f57d8cefb710af65a3_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "These last-minute Cyber Monday deals will likely be gone tomorrow",
-      "url": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
-      "description": "A roundup of the best Cyber Monday deals on tech gadgets and gift ideas.",
-      "author": null,
-      "published_date": "2025-12-01T10:00:00",
-      "category": "Trending",
-      "tags": [
-        "Cyber Monday",
-        "Deals",
-        "Gadgets",
-        "Shopping",
-        "Tech Gifts"
-      ],
-      "thumbnail": "https://pixabay.com/get/g57ee7a1d9834f883365c005ca4c49a66ec198157c0788a3096ad3650223413610eb179892e35b54d9ba59d2af64f599d8dcadc2d74ac2f8d4e419b26b6aa691f_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "MKBHD is taking down his wallpaper app",
-      "url": "https://www.theverge.com/news/835090/mkbhd-panels-wallpaper-app-shutdown",
-      "description": "Yani's taking down his popular wallpaper app, and he's explaining why.",
-      "author": "Yani Molai",
-      "published_date": "2025-12-01T19:35:39",
-      "category": "Trending",
-      "tags": [
-        "MKBHD",
-        "wallpaper",
-        "app",
-        "shutdown",
-        "Yani Molai"
-      ],
-      "thumbnail": "https://pixabay.com/get/gaffe67ea9c291f0acb46f1451cada69417cfe07fdfc64f02496a576b33d490e29493da76dabd39e4a800b399f669d578b1b0d671801eb311e5849681deb9e8d7_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple’s smallest iPad just got its biggest price cut for Cyber Monday",
-      "url": "https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025",
-      "description": "Apple’s smallest iPad just got its biggest price cut for Cyber Monday.",
-      "author": null,
-      "published_date": "2025-12-01T17:45:00",
-      "category": "Trending",
-      "tags": [
-        "iPad",
-        "Apple",
-        "Cyber Monday",
-        "Deals",
-        "Gadgets"
-      ],
-      "thumbnail": "https://pixabay.com/get/gfafb65107d42990619c8e850a4959bc7d34f482c30fdb64ce23b842d72a00a9b1a37da39e3724f0d5425497959503284d846e4312844f7841854c9132a961d56_640.png",
-      "source": "The Verge"
-    },
-    {
-      "title": "Some of the stuff we bought during Black Friday and Cyber Monday",
-      "url": "https://www.theverge.com/gadgets/835160/black-friday-cyber-monday-deals-staff-shopping",
-      "description": "The Verge staff shared their Black Friday and Cyber Monday purchases.",
-      "author": "The Verge Staff",
-      "published_date": "2025-12-02T14:48:23+00:00",
-      "category": "Trending",
-      "tags": [
-        "Black Friday",
-        "Cyber Monday",
-        "Deals",
-        "Shopping",
-        "Gadgets"
-      ],
-      "thumbnail": "https://pixabay.com/get/g1c57d64b2ce8c819685a51e8d6960e6b3f11416a183286c48f46244c878e5a4eac6a21b996c252cc55eb54efcc04cbb30539545e8a6f0c55fecca9bc99a42d63_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple will reportedly refuse India’s order to preinstall a government app",
-      "url": "https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response",
-      "description": "Apple is reportedly refusing to preinstall a government app called Sanchar Saathi on its iPhones in India, citing concerns about user privacy.",
-      "author": null,
-      "published_date": "2025-12-02T14:46:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "Apple",
-        "India",
-        "Sanchar Saathi",
-        "Privacy",
-        "Government App"
-      ],
-      "thumbnail": "https://pixabay.com/get/g3c6f45b7e59c376f15f12240b0c713ce03427ca355b6aac0627cc605cb661ebb0fe1de36e83103f6721ac910da51fee70516734267572256fd2ba7e1d0bd5a65_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Wooting’s 60HE v2 is a solid upgrade to the best gaming keyboard",
-      "url": "https://www.theverge.com/tech/836168/wooting-60he-v2-keyboard-gaming-hands-on",
-      "description": "Wooting has done a great job improving the sound and feel of its popular keyboard.",
-      "author": null,
-      "published_date": "2025-12-02T14:45:45+00:00",
-      "category": "Technology",
-      "tags": [
-        "keyboard",
-        "gaming",
-        "Wooting",
-        "peripheral",
-        "PC gaming"
-      ],
-      "thumbnail": "https://pixabay.com/get/g665fdd04430f38bed74ff94dad76d8a94509c8dfc3ea1cf5c715e601dd50561fe44f9d7309a2da751fa29827b9388b9aea7f4f04470d3ccb2e5707c596751650_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Mistral closes in on Big AI rivals with new open-weight frontier and small models",
-      "url": "https://techcrunch.com/2025/12/02/mistral-closes-in-on-big-ai-rivals-with-mistral-3-open-weight-frontier-and-small-models/",
-      "description": "Mistral AI has launched new open-weight models, Mistral 3 and Frontier, aiming to challenge leading AI models.",
-      "author": "Rebecca Bellan",
-      "published_date": "2025-12-02T07:37:07-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "Mistral AI",
-        "Open-Weight Models",
-        "Large Language Models",
-        "AI",
-        "LLM"
-      ],
-      "thumbnail": "https://pixabay.com/get/g6798aaf1b103c274ae6b246deb88871a01a405e6ad2951f3d192f7825c5ae9c73ceeea9abf513f12dbbf7e7060818093e767ef315f05e823600845492daed6a7_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Titan OS raises $58 million from Highland Europe for its smart TV OS",
-      "url": "https://techcrunch.com/2025/12/02/titan-os-raises-58-million-from-highland-europe-for-its-smart-tv-os/",
-      "description": "Titan OS, a smart TV operating system, has raised $58 million in funding from Highland Europe.",
-      "author": "Ivan Mehta",
-      "published_date": "2025-12-02T07:30:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "smart TV",
-        "operating system",
-        "funding",
-        "device",
-        "technology"
-      ],
-      "thumbnail": "https://pixabay.com/get/g990951415e3983a4017382dff4be1250a9fafa539e1c41ebcc9c144650101e9f4e40bd002177cc12ea17308a7d1395ad_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple Music’s Replay 2025 is here",
-      "url": "https://techcrunch.com/2025/12/02/apple-musics-replay-2025-is-here/",
-      "description": "Apple Music has released its Replay 2025, a new feature that allows users to relive their favorite music moments from 2025.",
-      "author": "Aisha Malik",
-      "published_date": "2025-12-02T06:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "Apple Music",
-        "Replay",
-        "Music",
-        "Features",
-        "2025"
-      ],
-      "thumbnail": "https://pixabay.com/get/gb4fffe8730bdc9ac734923598fd68cc9e06182d1d9f94e6b63a98971ceaabf677b931c7038b8cad6fe35aadd3c0a92f0a96a1ccadf1f25bedf3d82549d1ed293_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Amazon Music’s 2025 Delivered is now here to compete with Spotify Wrapped",
-      "url": "https://techcrunch.com/2025/12/02/amazon-musics-2025-delivered-is-now-here-to-compete-with-spotify-wrapped/",
-      "description": "Amazon Music’s 2025 Delivered is a new feature that allows users to create personalized year-in-music reports, competing with Spotify’s popular Wrapped experience.",
-      "author": "Lauren Forristal",
-      "published_date": "2025-12-02T05:00:00-08:00",
-      "category": "Trending",
-      "tags": [
-        "Amazon Music",
-        "Spotify",
-        "Wrapped",
-        "Music Streaming",
-        "Year in Music"
-      ],
-      "thumbnail": "https://pixabay.com/get/g85888e937ba8a3b74d02c2cbdd24cc13f55ac5b765b96188ce4683d0286d1111b76f2af25ebd3836be1025ba76ddbd1cb9d0eef4006bc5ffbf181fcd6f4cca46_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "India plans to verify and record every smartphone in circulation",
-      "url": "https://techcrunch.com/2025/12/02/india-plans-to-verify-and-record-every-smartphone-in-circulation/",
-      "description": "India is set to implement a comprehensive system for verifying and recording all smartphones in use across the country, raising concerns about privacy and surveillance.",
-      "author": "Jagmeet Singh",
-      "published_date": "2025-12-02T04:39:51-08:00",
-      "category": "Trending",
-      "tags": [
-        "India",
-        "Smartphone",
-        "Privacy",
-        "Surveillance",
-        "Digital India"
-      ],
-      "thumbnail": "https://pixabay.com/get/g5b0299c8d1e431674f5d1351f63502a74ab5c740aecab9598a321c5673afa9fe073cc8a8fb2079e5bfa4823d03f0d25e870f2f12222f1af41e74b9577e8a5987_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Paris-based AI voice startup Gradium nabs $70M seed",
-      "url": "https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/",
-      "description": "Paris-based AI voice startup Gradium has raised $70M in seed funding.",
-      "author": "Julie Bort",
-      "published_date": "2025-12-02T04:00:00-08:00",
+      "published_date": "2025-12-06T14:30:37+00:00",
       "category": "AI & ML",
       "tags": [
         "AI",
-        "startup",
-        "funding",
-        "voice technology",
-        "neural voice"
+        "Influencers",
+        "TikTok",
+        "Artificial Intelligence",
+        "Content Creation"
       ],
-      "thumbnail": "https://pixabay.com/get/g7d7149c7df68ab22fe6b4a7a129000b215bdfad8d58fff388be03609c4fb173c9cbd2104bce1670386538f0e40b724095f4c0b82fb8280573f5f772407276a69_640.jpg",
-      "source": "TechCrunch"
+      "thumbnail": "https://pixabay.com/get/gb8f1b574350cd4fc859e83dcbe8422272048df1976d79596029a5c5f36646d1355afe2cfa6c31ef23e341b23f52349adaeb54554c5b6ba1779e9ca797f606d26_640.jpg",
+      "source": "The Verge"
     },
     {
-      "title": "What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out",
-      "url": "https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/",
-      "description": "Chip startup xLight is about to find out what it means when Uncle Sam is one of its biggest shareholders.",
-      "author": "Connie Loizos",
-      "published_date": "2025-12-01T20:03:25-08:00",
+      "title": "Pantone’s ‘Cloud Dancer’ color party is a recession indicator",
+      "url": "https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party",
+      "description": "Pantone's 'Cloud Dancer' color of the year party is being interpreted as a reflection of economic uncertainty.",
+      "author": null,
+      "published_date": "2025-12-05T19:59:54+00:00",
+      "category": "Trending",
+      "tags": [
+        "Pantone",
+        "Color of the Year",
+        "Recession",
+        "Design",
+        "Trends"
+      ],
+      "thumbnail": "https://pixabay.com/get/gcbe1593bd59aaf14b2e9ec24a742f8be84da5549b5537f22c5eb256a4b26687c8e8c84edb4ba4ebeb40eaa559fb806e656f2448ac12beeda59a9f862714be332_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Pluribus turns a ‘caloric deficit’ into a nightmare",
+      "url": "https://www.theverge.com/streaming/838256/pluribus-episode-6-recap-discussion",
+      "description": "A deep dive into Pluribus episode 6, dissecting the episode's themes and discussing its implications.",
+      "author": "Sarah X. Lee",
+      "published_date": "2025-12-05T13:30:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "Pluribus",
+        "Podcast",
+        "Television",
+        "Discussion",
+        "The Verge"
+      ],
+      "thumbnail": "https://pixabay.com/get/gaa2fcf9d389ebe0e763599b23c8fc226303be8f047eedad3c62e80bc6fa939d0a36bb05b3d6cf6f7905d735d3566b37b1c2d9f32c6150a4bf80abe440e6548e3_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Welcome to the wellness surveillance state",
+      "url": "https://www.theverge.com/column/838872/optimizer-wellness-surveillance-state-oura-withings",
+      "description": "A deep dive into the growing trend of wearable technology tracking our health and well-being, exploring the ethical and privacy implications.",
+      "author": "Eric Schulz",
+      "published_date": "2025-12-05T15:00:00+00:00",
       "category": "Technology",
       "tags": [
-        "venture capital",
-        "startup",
-        "investors",
-        "government",
-        "chip technology"
+        "wearable technology",
+        "health tracking",
+        "privacy",
+        "data collection",
+        "wellness"
       ],
-      "thumbnail": "https://pixabay.com/get/g73cbef0567e540cff9258d38a6d3db14ca5cfa38377ad667d19288c93cf681805e6da3a4b8c0de3afa3daa11a44d53d857f08f4897f03cd924708b63d5a76a2c_640.jpg",
-      "source": "TechCrunch"
+      "thumbnail": "https://pixabay.com/get/g3a1a3fad5688cbee2227d5bd9cb6493b48aab26eae864d0e4e3f5bd1220d368defe7e07a1f5bac9adf7fc0fe9f2a735ade7fbcc598d0b440b8b3237a8ba865a8_640.jpg",
+      "source": "The Verge"
     },
     {
-      "title": "Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down",
-      "url": "https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/",
-      "description": "Apple has appointed a new AI chief with experience at Google and Microsoft, as John Giannandrea departs.",
-      "author": "Connie Loizos",
-      "published_date": "2025-12-01T17:34:46-08:00",
+      "title": "Horses deserves to be played, even if it’s not very good",
+      "url": "https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans",
+      "description": "A review of the game \"Horses\" by Santa Ragione, discussing its availability on Steam and Epic Games Store.",
+      "author": "Brad Briske",
+      "published_date": "2025-12-06T14:00:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "games",
+        "review",
+        "Santa Ragione",
+        "Horses",
+        "Steam"
+      ],
+      "thumbnail": "https://pixabay.com/get/g7b937efd5ad96c6cf1643ad0604cdff4f21cd56d92e1a9fb22502d6a64e3fec4bb88bab032d5885b3a712e72ab8489f9_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "have fun",
+      "url": "https://www.theverge.com/tldr/2014/12/16/7403181/c-span-mom-pundits-woodhouse",
+      "description": "In September, Google andC-SPANstruck a dealto bring the networks to subscribers, and this week C-SPAN, C-SPAN2, and C-SPAN3went liveonYouTube TVin all its unfiltered glory of wall-to-wall government minutia. But, it’s not all boring congressional sessions, they know how tohave funatC-SPAN,too.",
+      "author": null,
+      "published_date": "2025-12-06T15:36:19+00:00",
+      "category": "Trending",
+      "tags": [
+        "C-SPAN",
+        "Government",
+        "YouTube TV",
+        "Politics",
+        "Viral"
+      ],
+      "thumbnail": "https://pixabay.com/get/g815e435c4f18d8e738e6da221d98233db10f7d938ee50c4fe21999bbb450954651b7754e3a27973eadbac9444e991b49db8b342d87772118dff626443ddafdfe_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Mad Men’s special effects foreman hasn’t seen the infamous 4K remaster",
+      "url": "https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview",
+      "description": "A special effects foreman involved in the Mad Men 4K remaster hasn't yet seen the finished product, offering a fascinating behind-the-scenes glimpse into the process.",
+      "author": null,
+      "published_date": "2025-12-06T15:00:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "Mad Men",
+        "4K Remaster",
+        "Special Effects",
+        "Television"
+      ],
+      "thumbnail": "https://pixabay.com/get/g4cce58c81a72bd3eaaefb3d14ec9d75d0251ec6ffd15f375a01f4069981d09dbdf24c6b0a7dbf7fe56204b477c164960c6d2c9ce7620e4ffab8383a3e45af74c_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "robotaxis passing stopped school buses",
+      "url": "https://www.theverge.com/news/838879/waymo-school-buses-probe",
+      "description": "To help address the issue of itsrobotaxis passing stopped school buses, Waymo plans to file a voluntary software recall with the NHTSA, Mauricio Peña, Waymo’s chief safety officer, says in a statement toThe Verge.",
+      "author": null,
+      "published_date": "2025-12-06T01:16:27+00:00",
+      "category": "Trending",
+      "tags": [
+        "Waymo",
+        "School Buses",
+        "Autonomous Vehicles",
+        "Safety",
+        "NHTSA"
+      ],
+      "thumbnail": "https://pixabay.com/get/g0f8e3733b1decccb7dbacdf3fa436b77c006ac834e7104c80b5c5b9233f5b37c12005eedcdb9079edc07e838b8b2b43c_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Verge’s 2025 holiday gift guide",
+      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "description": "A curated mix of tech-y standouts, everyday favorites, and other delights for everyone on your list.",
+      "author": null,
+      "published_date": "2025-12-06T00:08:39+00:00",
+      "category": "Trending",
+      "tags": [
+        "holiday gifts",
+        "tech gifts",
+        "gift guide",
+        "2025",
+        "The Verge"
+      ],
+      "thumbnail": "https://pixabay.com/get/g42afe2a5fe3420e1e95901df14eb3af84f5a0e5e400dc738451915cf4a528cc2e8e00d7b244cd2774d7987fabac8e2e27b5173fb9aace370ece811876b5b4e46_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Chamberlain blocks smart home integrations with its garage door openers — again",
+      "url": "https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers",
+      "description": "Chamberlain, the maker of MyQ smart garage door openers, is once again blocking aftermarket controllers, effectively limiting integration with popular smart home ecosystems.",
+      "author": "Eric Thompson",
+      "published_date": "2025-12-05T21:00:00+00:00",
+      "category": "Technology",
+      "tags": [
+        "garage door openers",
+        "MyQ",
+        "smart home",
+        "Chamberlain",
+        "IoT"
+      ],
+      "thumbnail": "https://pixabay.com/get/gf96fc493a03c8f45138a95719dfb9c62614702f19a39dc19dd5310c8844a5e9fe348e17add7e90ad263936a188256ebc9823c9c6e49d5002baea13ac94c62bda_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "The future of country music is here, and it’s AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai",
+      "description": "Nashville’s writing rooms will never be the same.",
+      "author": null,
+      "published_date": "2025-12-04T12:00:00+00:00",
       "category": "AI & ML",
       "tags": [
-        "Apple",
         "AI",
         "Artificial Intelligence",
-        "Google",
-        "Microsoft",
-        "Leadership"
+        "Country Music",
+        "Music",
+        "Nashville"
       ],
-      "thumbnail": "https://pixabay.com/get/g1cca2d72c4d38663b9aefc2d166fd5342c995aeaf5290244c003c3865436cf46198bc527a93a18caa9edb749eee68b85d5d75fc42d8aee896e82ba009a762cb3_640.jpg",
-      "source": "TechCrunch"
+      "thumbnail": "https://pixabay.com/get/g00f2d70f41953159886d47a5b8d8f7aa4404d275f2e70ce121d3723d915ed4c8fc96f30b04dc9079cdbfb196771b45f2_640.jpg",
+      "source": "The Verge"
     },
     {
-      "title": "One of Google’s biggest AI advantages is what it already knows about you",
-      "url": "https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/",
-      "description": "Google’s AI models have a significant edge due to the vast amounts of user data they’ve been trained on.",
-      "author": "Sarah Perez",
-      "published_date": "2025-12-01T16:17:52-08:00",
+      "title": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
+      "url": "https://www.theverge.com/report/838857/openai-gpt-5.2-release-date-code-red-google-response",
+      "description": "OpenAI is preparing a response to Google’s recent announcement of Gemini, and it’s coming next week. The details are shrouded in secrecy, but it’s being referred to internally as ‘code red.’",
+      "author": null,
+      "published_date": "2025-12-05T17:00:00",
       "category": "AI & ML",
       "tags": [
+        "OpenAI",
+        "GPT-5",
         "Google",
-        "AI",
-        "Machine Learning",
-        "Data",
-        "Privacy"
+        "Gemini",
+        "AI"
       ],
-      "thumbnail": "https://pixabay.com/get/g50e71d3c82b69db3a8858ce488e3b31f061519ce3b0b0df77a8a05473d6f544b0815e1a000000ceaf04cb9b2624fd81a_640.jpg",
-      "source": "TechCrunch"
+      "thumbnail": "https://pixabay.com/get/g9a35e50fedb7a36621c0f0bfb6ba050fbb6751930e77a4055dae1b3a3b2b0890c5734ab0e8f5d4d43108f1b591caccd5d696da9acef2d714966cd3149dda5ade_640.jpg",
+      "source": "The Verge"
     },
     {
-      "title": "Zillow drops climate risk scores after agents complained of lost sales",
-      "url": "https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/",
-      "description": "Zillow has removed its climate risk scores from its website following complaints from real estate agents who said the scores were leading to lost sales.",
-      "author": "Tim De Chant",
-      "published_date": "2025-12-01T14:44:28-08:00",
-      "category": "Trending",
-      "tags": [
-        "Zillow",
-        "Real Estate",
-        "Climate Risk",
-        "Sales",
-        "Property"
-      ],
-      "thumbnail": "https://pixabay.com/get/g5f07f7c46addc7d92bd6bd87e2ce47ec567f13a6a20136754a16d19e83a482df2eab9f97ad4340362a3dc296a0ec3182_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Shopify resolves outage disrupting merchants on Cyber Monday",
-      "url": "https://techcrunch.com/2025/12/01/shopify-resolves-outage-disrupting-merchants-on-cyber-monday/",
-      "description": "Shopify resolved an outage impacting merchants during Cyber Monday, causing disruptions to online sales.",
-      "author": "Lauren Forristal",
-      "published_date": "2025-12-01T13:31:02-08:00",
-      "category": "Trending",
-      "tags": [
-        "Shopify",
-        "Cyber Monday",
-        "Outage",
-        "E-commerce",
-        "Merchants"
-      ],
-      "thumbnail": "https://pixabay.com/get/g2f13b865ed9d65b68288ec3d53d8133c2c9594c959f7221d9c1fd392d4e1d47b0fad22ea91da1d39f0838acaad33d8fb2a3352f433de2ea087260949f24a009c_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nvidia announces new open AI models and tools for autonomous driving research",
-      "url": "https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/",
-      "description": "Nvidia is unveiling new open AI models and tools designed to accelerate autonomous driving research.",
-      "author": "Rebecca Szkutak",
-      "published_date": "2025-12-01T13:00:22-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "Nvidia",
-        "AI",
-        "Machine Learning",
-        "Autonomous Driving",
-        "Research"
-      ],
-      "thumbnail": "https://pixabay.com/get/g448d856087fd9c4f972c92455682d65f3e6a1fbca68ae2729840f9b9fc3687d9468aa0f34018f5edc2caa60c2bbe010d1f7d9ed7af493952c24ce94d2566c4ce_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AWS re:Invent 2025: How to watch and follow along live",
-      "url": "https://techcrunch.com/2025/12/01/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
-      "description": "Learn how to watch and follow along with AWS re:Invent 2025 live.",
-      "author": "Morgan Little",
-      "published_date": "2025-12-01T12:50:00-08:00",
+      "title": "Netflix is buying Warner Bros. for $83 billion",
+      "url": "https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout",
+      "description": "Netflix is reportedly in talks to acquire Warner Bros. Discovery for $83 billion, a deal that would significantly expand its content library and streaming reach.",
+      "author": "Matthew Pearl",
+      "published_date": "2025-12-05T08:39:02",
       "category": "Technology",
+      "tags": [
+        "Netflix",
+        "Warner Bros.",
+        "Discovery",
+        "Merger",
+        "Streaming"
+      ],
+      "thumbnail": "https://pixabay.com/get/g4c59bca7815fb8369d88e256b3d9601b27980b5566b55316178c6f8963bec084b5d1314bec199f89958cea5f4ea2bb9d17c158305d24bdf93e07551fa207e63e_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Sony’s new PS5 DualSense controller might have way more battery life",
+      "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
+      "description": "Sony has reportedly improved the battery life of the PS5 DualSense controller through a software update.",
+      "author": null,
+      "published_date": "2025-12-05T15:21:25",
+      "category": "Technology",
+      "tags": [
+        "PS5",
+        "DualSense",
+        "Sony",
+        "Gaming",
+        "Controller"
+      ],
+      "thumbnail": "https://pixabay.com/get/g6e133f9fdc2e5dc102d67c8aada4565204355268773ae26220b197244ac6b06ae73438b203bf2d66a4141ef915ccea732176ab5d53ffdda19496cc8d53a0b479_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "This tiny magnetic e-reader sticks to the back of your iPhone",
+      "url": "https://www.theverge.com/news/838885/xteink-x4-e-reader-magnetic-apple-iphone-google-pixel",
+      "description": "The Xteink X4 is a small, magnetic e-reader that attaches to the back of your iPhone, providing a convenient way to read without a dedicated device.",
+      "author": null,
+      "published_date": "2025-12-05T15:04:57",
+      "category": "Technology",
+      "tags": [
+        "e-reader",
+        "iPhone",
+        "magnetic",
+        "reading device",
+        "gadget"
+      ],
+      "thumbnail": "https://pixabay.com/get/gc5006b9d5ea6d80e3b53382dab96e434866ac5b479355bb11b089f4abb38909e22132291ff9ae65a0bc306c52f344563ab258a0f38e6fa63e3e4e302335f5cc7_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Star Wars’ original theatrical cut returns to theaters in 2027",
+      "url": "https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date",
+      "description": "Disney is bringing back the original theatrical cut of Star Wars to theaters in 2027, marking its first wide release in 50 years.",
+      "author": null,
+      "published_date": "2025-12-05T20:44:13+00:00",
+      "category": "Trending",
+      "tags": [
+        "Star Wars",
+        "Disney",
+        "Theatrical Release",
+        "Movies",
+        "Entertainment"
+      ],
+      "thumbnail": "https://pixabay.com/get/g1fcf5049e9bf823611c1e0b02432aa60d825f9234b1fee2f34f54b62beefecae9cedac032f91e13f69f81e45a828773a53fbc7d7da97d303992da2bd925e397b_640.png",
+      "source": "The Verge"
+    },
+    {
+      "title": "Sabrina Carpenter Has Ratioed the White House",
+      "url": "https://www.theverge.com/news/839433/sabrina-carpenter-has-ratioed-the-white-house",
+      "description": "After the Trump administration used Carpenter’s song ‘juno’ in an Immigration and Customs Enforcement (ICE) propaganda video, the pop star responded, calling it ‘evil and disgusting.’ The White House account has since deleted the post – but they’ve picked this fight with musicians before.",
+      "author": null,
+      "published_date": "2025-12-05T20:44:03+00:00",
+      "category": "Trending",
+      "tags": [
+        "Sabrina Carpenter",
+        "White House",
+        "Music",
+        "Viral",
+        "Propaganda"
+      ],
+      "thumbnail": "https://pixabay.com/get/g6b6a553624a6a3d95cebe0038ae5ed420826b86d5c7a132770e552d33a159a7f2d9a8f178749a064bc6088fbe380a6cc1df9e14713a395b2ccded1c4d724ac00_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "One day, AI might be better than you at surfing the web. That day isn’t today.",
+      "url": "https://www.theverge.com/tech/837287/ai-browsers-comet-chatgpt-atlas-edge-copilot-chrome-gemini",
+      "description": "Five different AI browsers have the same problem.",
+      "author": null,
+      "published_date": "2025-12-03T17:00:00+00:00",
+      "category": "AI & ML",
+      "tags": [
+        "AI",
+        "browsers",
+        "artificial intelligence",
+        "web browsing",
+        "search"
+      ],
+      "thumbnail": "https://pixabay.com/get/ga56b150c0f1857dde8cdc20b6a8f8cdd436249a3083b5181bd3ecf12921be1f6b09090b0ec044ad4fd1f4a6630552d4fb8edd702ac31adb9cc924d3b149b5e4a_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "a not-so-great history",
+      "url": "https://www.theverge.com/entertainment/807438/warner-bros-discovery-history-of-mergers-paramount-apple-netflix-amazon",
+      "description": "Warner Bros. mergers havea not-so-great history, but with this deal, co-CEO Greg Peters saidon an analyst callthat,as transcribed byDeadline:",
+      "author": null,
+      "published_date": "2025-12-05T19:55:26+00:00",
+      "category": "Trending",
+      "tags": [
+        "Warner Bros.",
+        "Discovery",
+        "Mergers",
+        "Media",
+        "Entertainment"
+      ],
+      "thumbnail": "https://pixabay.com/get/g9c06b08fc725229f8300db828a7945c9a5b38c8726352b5b0d6ea3703d09101173285e8d662abbfc0fc36293b970715b282f5931cdb3a55c3f9c65d7eff1d5e0_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "After you check out your Spotify Wrapped 2025, explore these copycats",
+      "url": "https://techcrunch.com/2025/12/06/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/",
+      "description": "Explore Spotify Wrapped copycats after you check out your 2025 edition.",
+      "author": "Lauren Forristal",
+      "published_date": "2025-12-06T06:00:00-08:00",
+      "category": "Trending",
+      "tags": [
+        "Spotify",
+        "Wrapped",
+        "Music",
+        "Copycats",
+        "Trends"
+      ],
+      "thumbnail": "https://pixabay.com/get/gb417403547d620711980d9b8d6b7f9b6e4bdb89c9263ef641a25ecf9b1d51f8c6444d948660d1918af367b0b049432733e3e5550e6c0c736b541ea27ee475eff_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first",
+      "url": "https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/",
+      "description": "Digital artist Beeple created a robot dog featuring his face, alongside Elon Musk and a Picasso sculpture, which sold for $100,000.",
+      "author": "Connie Loizos",
+      "published_date": "2025-12-05T16:35:28-08:00",
+      "category": "Trending",
+      "tags": [
+        "Beeple",
+        "NFT",
+        "Elon Musk",
+        "Art",
+        "Robotics"
+      ],
+      "thumbnail": "https://pixabay.com/get/g25e852418e1b3b1661cded2cdaa47eaf729095daeec0b755440d6f111170094edbf666ac25e3d31b9aa19fe6b460ce5c3071dc3e5139ba203665dbd112fc5ee0_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people",
+      "url": "https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/",
+      "description": "Yoodli, an AI assistant startup founded by former Google employees, has tripled its valuation to $300 million after raising $120 million in funding.",
+      "author": "Jagmeet Singh",
+      "published_date": "2025-12-05T15:43:58-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Startup",
+        "Yoodli",
+        "Assistant"
+      ],
+      "thumbnail": "https://pixabay.com/get/g0c908f9ea26f8551a924c61e4a63cca4da783af8d827a32fe405039b5168db150705309f28c776e30795bc146f451d87af2a4e9e91c12ecab8631a3dcfce3395_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
+      "url": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/",
+      "description": "AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation.",
+      "author": "Marina Temkin",
+      "published_date": "2025-12-05T15:38:59-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Startup",
+        "Funding",
+        "Series A"
+      ],
+      "thumbnail": "https://pixabay.com/get/g2cc1ac753fb031ed9fac1b284eb366501be6e90e860922a38312604d8bd09d9379a8a07f7ee59a976cb921c22ef571c9595ef58f94501739169efda67ae2e6f0_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo to issue software recall over how robotaxis behave around school buses",
+      "url": "https://techcrunch.com/2025/12/05/waymo-to-issue-software-recall-over-how-robotaxis-behave-around-school-buses/",
+      "description": "Waymo is set to issue a software recall due to concerns over how its robotaxis interact with school buses.",
+      "author": "Kirsten Korosec",
+      "published_date": "2025-12-05T15:11:50-08:00",
+      "category": "Trending",
+      "tags": [
+        "Waymo",
+        "Robotaxis",
+        "Autonomous Vehicles",
+        "Safety",
+        "School Buses"
+      ],
+      "thumbnail": "https://pixabay.com/get/g6e8780d234cdc1632609afaa8dfdcce926008d0916f6eeba64cca9bb9662472b6ae40ce496d5e1ea400680c509d343aab43a989a9f0e61aceef709d190e6c340_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS needs you to believe in AI agents",
+      "url": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
+      "description": "Amazon Web Services (AWS) is pushing its AI agents, focusing on building trust and demonstrating their value to businesses.",
+      "author": "Theresa Loconsolo",
+      "published_date": "2025-12-05T14:00:00-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "AWS",
+        "AI Agents",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Amazon"
+      ],
+      "thumbnail": "https://pixabay.com/get/gd69471a92620e55ce3d1c517bee12a36de058a0adbb91825385e9651e6fa8ef79ccee788d7138289c2518853771c5b948e32fedcf4f321f9ea4519466e3ecb4e_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Feds find more complaints of Tesla’s FSD running red lights and crossing lanes",
+      "url": "https://techcrunch.com/2025/12/05/feds-find-more-complaints-of-teslas-fsd-running-red-lights-and-crossing-lanes/",
+      "description": "Federal investigators have found more complaints of Tesla’s Full Self-Driving system running red lights and crossing lanes, raising concerns about its safety.",
+      "author": "Sean O'Kane",
+      "published_date": "2025-12-05T13:46:32-08:00",
+      "category": "Trending",
+      "tags": [
+        "Tesla",
+        "Full Self-Driving",
+        "Autopilot",
+        "Safety",
+        "Red Lights"
+      ],
+      "thumbnail": "https://pixabay.com/get/gb62bf94296647596c99ca632e4c46461680a9d948c64a5829c02420de0e9e8644c11708e86d80eea16498ad439d5604d17214339892f0b8a705adc7dfbbf5bb4_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "This startup built a Fitbit for your brain to combat chronic stress",
+      "url": "https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/",
+      "description": "A new wearable device, called 'NeuroSync', tracks stress levels and offers guided meditations and breathing exercises.",
+      "author": "Marina Temkin",
+      "published_date": "2025-12-05T13:07:52-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "stress",
+        "wearable tech",
+        "neuroscience",
+        "meditation",
+        "mental health"
+      ],
+      "thumbnail": "https://pixabay.com/get/gea6563b46d8f67fce1c3a4b01b366d72c876e07ed491475b61ad17e970ea20f05b51ded00f486d8929a384c140852098b08822f36449c8ab87b741e55d4b620d_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company",
+      "url": "https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/",
+      "description": "SpaceX is reportedly in advanced discussions to sell a secondary stake at a $800B valuation, potentially solidifying its position as the most valuable private company in the US.",
+      "author": "Connie Loizos",
+      "published_date": "2025-12-05T13:04:40-08:00",
+      "category": "Technology",
+      "tags": [
+        "SpaceX",
+        "Valuation",
+        "Private Equity",
+        "Investment",
+        "Technology"
+      ],
+      "thumbnail": "https://pixabay.com/get/g97c4e9eeca5ea7339bac9b50ac9046cbcbd6266f0f7603f119adbf5abcc5a8c8736c53050c6ef9bb0d6c0cb22e44dd7b822fe50c4499fa09f48cf55abb2a012a_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta acquires AI device startup Limitless",
+      "url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+      "description": "Meta has acquired Limitless, the startup developing a pair of AI-powered smart glasses that provide hands-free access to information and applications.",
+      "author": "Sarah Perez",
+      "published_date": "2025-12-05T13:02:13-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "Meta",
+        "Limitless",
+        "AI Glasses",
+        "Smart Glasses",
+        "Hardware"
+      ],
+      "thumbnail": "https://pixabay.com/get/gd89cae6084342a349e9031a53924df641931b8980010768e3798f898ee1f08df7c2a39b4f90e437c41bf167aff4feba07f6d23def386329e0523e52af3141994_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT’s user growth has slowed, report finds",
+      "url": "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/",
+      "description": "A report has found that ChatGPT's user growth has slowed.",
+      "author": "Sarah Perez",
+      "published_date": "2025-12-05T12:06:03-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "ChatGPT",
+        "Artificial Intelligence",
+        "User Growth",
+        "AI",
+        "Machine Learning"
+      ],
+      "thumbnail": "https://pixabay.com/get/g4872fac1f166f1434621851c69ae130dc2a22d74625cc86ae151c488878668d39da67e1509f339274a8d5482142ec6df1d9d7a24dee4c872ced5af82a4cdc7bf_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nothing wants your money, AWS wants your trust, and Spotify wants your data",
+      "url": "https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/",
+      "description": "A discussion on Amazon's strategy, Spotify's data collection, and Nothing's approach to monetization.",
+      "author": "Theresa Loconsolo",
+      "published_date": "2025-12-05T10:20:36-08:00",
+      "category": "Trending",
+      "tags": [
+        "Amazon",
+        "Spotify",
+        "Data Privacy",
+        "Monetization",
+        "Business Strategy"
+      ],
+      "thumbnail": "https://pixabay.com/get/g7db967b78f35f2a54c0c9c979092a5b21244d889e0b92daa5de6f0a262e5fd9781ec971c4de25458db31092fdc550ce8b35657431db37b04234a6057bea0b0f1_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready.",
+      "url": "https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/",
+      "description": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready.",
+      "author": "Rebecca Szkutak",
+      "published_date": "2025-12-05T10:05:35-08:00",
+      "category": "AI & ML",
       "tags": [
         "AWS",
         "re:Invent",
-        "Cloud Computing",
-        "Amazon",
-        "Live Event"
-      ],
-      "thumbnail": "https://pixabay.com/get/gd8ccaf7f58ae38c14a5f573d01a03829b92fc26c364124613399b7946734bf0286cfd3f725bef930e910f254dca77d6356d79fe400016527990dcff136041834_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "MKBHD’s wallpaper app Panels is shutting down",
-      "url": "https://techcrunch.com/2025/12/01/mkbhds-wallpaper-app-panels-is-shutting-down/",
-      "description": "MKBHD’s popular wallpaper app, Panels, is shutting down after three years.",
-      "author": "Amanda Silberling",
-      "published_date": "2025-12-01T12:13:15-08:00",
-      "category": "Trending",
-      "tags": [
-        "wallpapers",
-        "MKBHD",
-        "app shutdown",
-        "mobile",
-        "tech news"
-      ],
-      "thumbnail": "https://pixabay.com/get/g2b8bdd9a332b9c8c03c0201021d7d24d44df90c4e1bcc1066987ef5cb05aec8f9d509004ecbc32023dd271302fff6024_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Construction workers are cashing in on the AI boom",
-      "url": "https://techcrunch.com/2025/12/01/construction-workers-are-cashing-in-on-the-ai-boom/",
-      "description": "Construction workers are finding new opportunities and higher pay due to the rise of AI tools in the industry.",
-      "author": "Connie Loizos",
-      "published_date": "2025-12-01T11:13:50-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "AI",
-        "Construction",
-        "Automation",
-        "Jobs",
-        "Industry"
-      ],
-      "thumbnail": "https://pixabay.com/get/g181db61b5b82b3f3fcefaa3b18117a887c542d44fcd7e1f24365b8c4b10d3f816185f6067a454aa06627ea34590ada306cb2d7e0704675d6ed4a3bf7dc6f5a8c_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Data center energy demand forecasted to soar nearly 300% through 2035",
-      "url": "https://techcrunch.com/2025/12/01/data-center-energy-demand-forecasted-to-soar-nearly-300-through-2035/",
-      "description": "A new report forecasts a dramatic increase in data center energy demand, projecting a near 300% rise through 2035.",
-      "author": "Tim De Chant",
-      "published_date": "2025-12-01T11:08:42-08:00",
-      "category": "Technology",
-      "tags": [
-        "Data Centers",
-        "Energy",
-        "Sustainability",
-        "Cloud Computing",
-        "Infrastructure"
-      ],
-      "thumbnail": "https://pixabay.com/get/g05dff38f809e2b78cb75a1b0bda41bf2a60455c18cdc3b5fefd42e8d3f2696f2db943e3e3c8918cdb2828cfd18f6b99401d838a998ece01205879553ab0fe225_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "European cops shut down crypto mixing website that helped launder 1.3B euros",
-      "url": "https://techcrunch.com/2025/12/01/european-cops-shut-down-crypto-mixing-website-that-helped-launder-1-3-billion-euros/",
-      "description": "European law enforcement agencies have shut down a website used to mix cryptocurrency, preventing the laundering of approximately 1.3 billion euros.",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "published_date": "2025-12-01T10:40:41-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "cryptocurrency",
-        "crime",
-        "law enforcement",
-        "money laundering",
-        "blockchain"
-      ],
-      "thumbnail": "https://pixabay.com/get/g5542d44c70b308b671d2aef4821057d3873abad63ababf292e9f3db0a26e6e7a6ce38fa220bc09048880273c8a72871b58644b9f6c6afd23360234b34f1c60c5_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Festivitas lets you decorate your Apple devices with holiday lights and snow",
-      "url": "https://techcrunch.com/2025/12/01/festivitas-lets-you-decorate-your-apple-devices-with-holiday-lights-and-snow/",
-      "description": "Festivitas is a new app that lets you decorate your Apple devices with holiday lights and snow.",
-      "author": "Sarah Perez",
-      "published_date": "2025-12-01T10:34:32-08:00",
-      "category": "Trending",
-      "tags": [
-        "Apple",
-        "Holiday",
-        "Decoration",
-        "Apps",
-        "Christmas"
-      ],
-      "thumbnail": "https://pixabay.com/get/g643738e44067028b906405858919575e508b3fe7610d6e098a1b351b576f3276d672e3bb6179250348d076b13f3b1f6bae02d748615b93e3070570293d34bb53_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI’s investment into Thrive Holdings is its latest circular deal",
-      "url": "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/",
-      "description": "OpenAI’s investment into Thrive Holdings is its latest circular deal.",
-      "author": "Rebecca Bellan",
-      "published_date": "2025-12-01T08:58:17-08:00",
-      "category": "Technology",
-      "tags": [
-        "OpenAI",
-        "Thrive Holdings",
-        "Investment",
-        "Circular Deal",
-        "Fintech"
-      ],
-      "thumbnail": "https://pixabay.com/get/gaad40078897d8c35cd7f71ceaf29ab3040f7eefeef50696378ea7e2a2c4174555e9451a12343946082fcd55ebc4cf42f8c137f4c7702f57459f705074d4236aa_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Deezer rolls out ‘My Deezer Year 2025,’ its Spotify Wrapped clone",
-      "url": "https://techcrunch.com/2025/12/01/deezer-rolls-out-my-deezer-year-2025-its-spotify-wrapped-clone/",
-      "description": "Deezer has launched its own version of Spotify’s ‘Wrapped’ feature, called ‘My Deezer Year 2025’.",
-      "author": "Lauren Forristal",
-      "published_date": "2025-12-01T08:35:26-08:00",
-      "category": "Trending",
-      "tags": [
-        "Deezer",
-        "Spotify",
-        "Wrapped",
-        "Music",
-        "Subscription"
-      ],
-      "thumbnail": "https://pixabay.com/get/g69223fdf0a064ea0a8f7e8c0dd94f5eed62b4bb062382db7ce96defc3849cfa61bec04fcc43d11840119f6d26a3842a227e01807ed48fe72ad5436a79277bc46_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Best Over-Ear Headphones We've Tested",
-      "url": "https://www.cnet.com/tech/mobile/best-over-ear-headphones/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "headphones",
-        "audio",
-        "reviews",
-        "tech",
-        "best buy"
-      ],
-      "thumbnail": "https://pixabay.com/get/g0402a6a5e6122493c5070f08ad3c6cb94a3c5966abec0f3b1670eb279d1c36a7849fd0df943bb5424759e28ef4eb61d983b50db795e90db15ba732c402739d9a_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Best Budget Noise-Canceling Headphones Under $100 for 2025",
-      "url": "https://www.cnet.com/tech/mobile/best-budget-noise-canceling-headphones-under-100/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "headphones",
-        "noise-canceling",
-        "budget",
-        "audio",
-        "deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/g5452fcbc3774fc4eb6ef2b245ce1e309bfe80ceff69a256c2e256a46563a9f8cfde1f846db2dd536d70e3648aead17e50708bec22c9952f6b87e78a93f81b59a_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Today Might Be Your Last Chance to Snag This $1,300 Off Deal On the LG OLED AI TV",
-      "url": "https://www.cnet.com/deals/today-might-be-your-last-chance-to-snag-this-1300-off-deal-on-the-lg-oled-ai-tv/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "deals",
-        "LG OLED",
-        "TV",
-        "CNET Deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/g7069e935e7614a068e30f84e4f42dd56d4ab246b48c81a6df273dfca03a2664312975f1443738cee8a2e6d260ae8c35a73d4ad4c80d58d8810067c8f1e6aa501_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Best Headsets for Working From Home in 2025, According to CNET's Audio Expert",
-      "url": "https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "headphones",
-        "work from home",
-        "audio",
-        "tech",
-        "deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/g34fd12e6b8ce6f353ea164e0342ee4ddf9ec74909ec69f57fce20588cbc80951a9ff0477098cdf307e63e9e352a864adcaea43f7c1312cf704effca0e9425023_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Apple's AirPods Max Are Still $100 Off With This Straggler Cyber Monday Deal",
-      "url": "https://www.cnet.com/deals/apples-airpods-max-are-still-100-off-with-this-straggler-cyber-monday-deal/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "AirPods Max",
-        "Cyber Monday",
-        "Deals",
-        "Apple",
-        "CNET"
-      ],
-      "thumbnail": "https://pixabay.com/get/g7a8297c6e28885c89821888652bdeb3568a37d1bce7fb187bb21823c6d14d9dcabce9a00d17c4d7aac011f48ee3dbd8f64173cc63c68d74e70b614edbd32d9e1_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Best Headphones We've Tested",
-      "url": "https://www.cnet.com/tech/mobile/best-headphones/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "headphones",
-        "audio",
-        "tech",
-        "reviews",
-        "earphones"
-      ],
-      "thumbnail": "https://pixabay.com/get/g1dc7dba4376e3d3faf029990e160b65e8e5cb0d543853e9aefc2290fe5d5ef335747ff0bbc87c1ec1dac777d2a6ad1686a4825b40af748c8bf3fa5a63688d268_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Best Bluetooth Speaker for 2025",
-      "url": "https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Bluetooth Speaker",
-        "Home Entertainment",
-        "Tech Deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/gac8393772b225f98cee02fb5599e15c44b919e32550f1d370b7d768a5fbdd3a25128f82588e2a19756b18e825dfad4e48da7b88d557eca1b9e7184e1cdfd3549_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Last Chance to Score $1,400 Off the Brightest LG OLED TV I’ve Ever Seen With This Lingering Cyber Monday Sale",
-      "url": "https://www.cnet.com/deals/lg-oled-tv-last-chance-cyber-monday-sale/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "LG OLED TV",
-        "Cyber Monday",
-        "Deals",
-        "TV Sales",
-        "CNET Deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/g94eae797bc896c78c9500ed7866d4c3922e122f72855ec7384b4ca77b62802a1478aadd2ad5c75dea335037704bf706885aff654c764467a80676f387123692f_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Best Noise-Canceling Headphones I've Tested for 2025",
-      "url": "https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "headphones",
-        "noise-canceling",
-        "audio",
-        "tech",
-        "reviews"
-      ],
-      "thumbnail": "https://pixabay.com/get/gdafc987facdb333a1374c6ed221bd829e2752265f10be48e5a484a201bc42d3ef221470b7207e711b9877679bb60e3cc662b38b92d66401fc0e65f150bd93a61_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Save Up to $110 on Lenovo Laptops With This Last-Minute Cyber Monday Deal",
-      "url": "https://www.cnet.com/deals/save-up-to-110-off-lenovo-laptops-with-this-last-minute-cyber-monday-deal/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Cyber Monday",
-        "Lenovo",
-        "Deals",
-        "Laptops",
-        "CNET Deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/gc1a554739289cc108f26e0d402d1bf9a59d3bbb53f2f3100a5cbcadf6f9fa696d0f8e50c09fb6de0f79eade99b9698ca15c225ad371b44846617b703c60b2f85_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Last-Minute Espresso Maker Deal Slashes $150 Off the Cost of Getting Your Barista-Style Drinks at Home",
-      "url": "https://www.cnet.com/deals/last-minute-espresso-maker-deal-slashes-150-off-the-cost-of-getting-your-barista-style-drinks-at-home/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "deals",
-        "espresso maker",
-        "home appliances",
-        "shopping",
-        "tech deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/g671be50207f113940fb89305421289c1d47f3630aadbdda8a1e5cfe3e2f9ef3e2760c3b7026a37b54ce5c4cadfc1a9f825faa1f6ec3b1d2700389bc1e9dd9989_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "These New AI Models Are Built to Work Anywhere in Many Languages",
-      "url": "https://www.cnet.com/tech/services-and-software/these-new-ai-models-are-built-to-work-anywhere-in-many-languages/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "AI & ML",
-      "tags": [
         "AI",
         "Machine Learning",
-        "Language Models",
-        "Artificial Intelligence",
-        "Multilingual"
+        "Cloud Computing"
       ],
-      "thumbnail": "https://pixabay.com/get/g335066286502e41887f386c457ea0e564022aaed726ebb1e2ce2a39e3f123f382dc92fc3ef6f397baabd2e7ef01b0b618eed02cca167dbf33d16885b7ee80b58_640.jpg",
+      "thumbnail": "https://pixabay.com/get/g9ce0439e04c391ca3bd054614f72f1d551beff3aac90adfb908f61de8f13a8ca18083ed91fb68759c3bd48a8b7828773_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "eSIM adoption is on the rise thanks to travel and device compatibility",
+      "url": "https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/",
+      "description": "This article discusses the increasing adoption of eSIM technology driven by travel and device compatibility.",
+      "author": "Ivan Mehta",
+      "published_date": "2025-12-05T09:27:53-08:00",
+      "category": "Technology",
+      "tags": [
+        "eSIM",
+        "mobile",
+        "connectivity",
+        "travel",
+        "devices"
+      ],
+      "thumbnail": "https://pixabay.com/get/g8978cc8d19394037427f1cd75618da51cb7c37a2effe7392e665ddea94f3d4dd2db46061857b9b75440d1118694bc5fe_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "New ‘KnoWay’ robotaxis cause chaos in upcoming Grand Theft Auto Online DLC",
+      "url": "https://techcrunch.com/2025/12/05/new-knoway-robotaxis-cause-chaos-in-upcoming-grand-theft-auto-online-dlc/",
+      "description": "New autonomous vehicles developed by Knoway are causing disruptions in the upcoming Grand Theft Auto Online DLC.",
+      "author": "Sean O'Kane",
+      "published_date": "2025-12-05T09:25:28-08:00",
+      "category": "Trending",
+      "tags": [
+        "robotaxis",
+        "Grand Theft Auto Online",
+        "Knoway",
+        "autonomous vehicles",
+        "gaming"
+      ],
+      "thumbnail": "https://pixabay.com/get/g9ed4723fcd575a0d30b986eee9f2c8e66052fcf0976c92ab650f5094afc18f7361876264f1bbd49a106d33a57a34eaed_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "New streaming channel launches to give viewers a peek into city council meetings",
+      "url": "https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/",
+      "description": "A new streaming channel is launching to provide live streams of city council meetings, aiming to increase transparency and public engagement.",
+      "author": "Dominic-Madori Davis",
+      "published_date": "2025-12-05T09:00:00-08:00",
+      "category": "Trending",
+      "tags": [
+        "city council",
+        "streaming",
+        "government",
+        "transparency",
+        "public engagement"
+      ],
+      "thumbnail": "https://pixabay.com/get/g5f0624db7e186ad3778f416435e42cdb59e3fba6499918e3e74fc036e69da0e10359cff1dc50db5112d6e50e3074f67e5949d076e0733d564726bf9d07a11f0e_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The New York Times is suing Perplexity for copyright infringement",
+      "url": "https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/",
+      "description": "The New York Times is suing Perplexity for copyright infringement.",
+      "author": "Rebecca Bellan",
+      "published_date": "2025-12-05T08:03:59-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "copyright",
+        "Perplexity",
+        "legal",
+        "AI",
+        "search engine"
+      ],
+      "thumbnail": "https://pixabay.com/get/g9a3a29f19871354c91124eba4f4af4844960039ba807d74f941e73e84f6805946a9c4501e833a6b662eed04b2789848201d73ce4b40806e55d591fe0623e86c2_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
+      "url": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
+      "description": "Meta is partnering with publishers to access data for its real-time news offering powered by AI.",
+      "author": "Aisha Malik",
+      "published_date": "2025-12-05T07:27:37-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "Meta",
+        "AI",
+        "Data",
+        "Publishers",
+        "News"
+      ],
+      "thumbnail": "https://pixabay.com/get/g67f893e8542665e84ea7f93b3bbd5f5cc318a02e772133c757b8df78fdc31b2542608c58733407d53fcc7a28020bc0efa60954b69eaf32569067f42f80eb0df6_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Energy storage industry set aggressive goals for 2025 — and already crushed them",
+      "url": "https://techcrunch.com/2025/12/05/energy-storage-industry-set-aggressive-goals-for-2025-and-already-crushed-them/",
+      "description": "The energy storage industry has exceeded its ambitious goals for 2025, showcasing rapid advancements and deployment of battery technology.",
+      "author": "Tim De Chant",
+      "published_date": "2025-12-05T07:25:28-08:00",
+      "category": "Technology",
+      "tags": [
+        "energy storage",
+        "batteries",
+        "renewable energy",
+        "technology",
+        "innovation"
+      ],
+      "thumbnail": "https://pixabay.com/get/geebbd249a7c3c8192cf1086a09db1a82be5e112c40ebf1ab4201b1bbbf9f9d806afade23b4d63759409a24be1dd7edad0dc46ab8f29060808e3bf488bc5adaa9_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In its first DSA penalty, EU fines X €120M for ‘deceptive’ blue check verification system",
+      "url": "https://techcrunch.com/2025/12/05/in-its-first-dsa-penalty-eu-fines-x-e120m-for-deceptive-blue-check-verification-system/",
+      "description": "The European Union has fined X €120M for a deceptive blue check verification system, marking its first DSA penalty.",
+      "author": "Ram Iyer",
+      "published_date": "2025-12-05T07:13:40-08:00",
+      "category": "Trending",
+      "tags": [
+        "X",
+        "DSA",
+        "EU",
+        "Verification",
+        "Social Media"
+      ],
+      "thumbnail": "https://pixabay.com/get/g8ccf8419849d620fd500f3583dec0e6ff92ccf4e158e202d729f859fc7ba75b93783fcfa66503de475a988a2fef99f21763ca539cee1bc7fc060bd449c4cc82a_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Best Gift Card Deals: I Found 5 Gift Cards to Help You Save on Holiday Gifts",
+      "url": "https://www.cnet.com/deals/best-gift-card-deals/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "deals",
+        "gift cards",
+        "shopping",
+        "holiday",
+        "sales"
+      ],
+      "thumbnail": "https://pixabay.com/get/gdcca4616fb959d326adf579bd693207b0ed756793acfe26d6e7fbf643eaa3c64731cbc4e44f10ace7ea7f5518660246d78d21d1de0380c46eaef9562c076643d_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "Metroid Prime 4 Beyond Review: The Wait Was Worth It",
-      "url": "https://www.cnet.com/tech/gaming/metroid-prime-4-beyond-review-the-wait-was-worth-it/",
+      "title": "Premier League Soccer: Stream Leeds vs. Liverpool Live From Anywhere",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-liverpool-live-from-anywhere/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Premier League",
+        "Soccer",
+        "Streaming",
+        "Sports",
+        "Live Stream"
+      ],
+      "thumbnail": "https://pixabay.com/get/g7a21ac8beacbbd1b3b56dfce42fe2c146e10888b3a1cc35c7d710cfd31514026a66edcf440a01a8e604a2100b286a9ea61a2043050c70b837afc48cd9bd335ea_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Best AI Image Generators of 2025",
+      "url": "https://www.cnet.com/tech/services-and-software/best-ai-image-generators/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "AI & ML",
+      "tags": [
+        "AI",
+        "Image Generators",
+        "Artificial Intelligence",
+        "Generative AI"
+      ],
+      "thumbnail": "https://pixabay.com/get/g20bc5418fd6619739d54726918b9df52d43199256ea35a142cf7b6030669bd3e41a6ca817aea03ffc2f85292246c7d370ae038693757eee65e4c53b0e870e8d9_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Samsung's Galaxy Z TriFold Debuts in Korea Next Week, But Won't Hit the US Until 2026",
+      "url": "https://www.cnet.com/tech/mobile/samsungs-galaxy-z-trifold-debuts-in-korea-next-week-but-wont-hit-the-us-until-2026/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": null,
       "published_date": null,
       "category": "Technology",
       "tags": [
-        "Metroid Prime 4",
-        "Gaming",
-        "Nintendo",
-        "Review",
-        "Nintendo Switch"
+        "Samsung",
+        "Galaxy Z TriFold",
+        "Foldable Phones",
+        "Korea",
+        "Mobile Devices"
       ],
-      "thumbnail": "https://pixabay.com/get/g03090b90424a95e28eeb39859d88fac0a7bc6ab0bd864c1bc95b3038b8aa9509cdc6929c31c5072e3d66b7a2a954097617cce296edc76d83e4f43fdb64abcd9f_640.jpg",
+      "thumbnail": "https://pixabay.com/get/gfbd8dc88db0ee26f97482ee857d218a78303619ded90c19104acdead010e9a98fd2e83f786b55707efa8e503eee03b4fffc77dd1c255f76ee3cf6cdaa0dbf56d_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Stop Charging Your Android Watch Daily. Here Are 7 Tips for Longer Battery Life",
+      "url": "https://www.cnet.com/tech/mobile/stop-charging-your-android-watch-daily-here-are-7-tips-for-longer-battery-life/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Android Watch",
+        "Battery Life",
+        "Tech Tips",
+        "Wearable Tech",
+        "Mobile"
+      ],
+      "thumbnail": "https://pixabay.com/get/g6859d52b887b4558884a9646ff7aaddf984dc16d3269e7744f609f799bc78a03d93d023ab3ba07ca3080799b0ed2e0ef_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Your Theme Can Make or Break Your Website. Here’’s How to Choose the Best WordPress Theme for Your Needs",
+      "url": "https://www.cnet.com/tech/services-and-software/how-to-choose-a-wordpress-theme/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "WordPress",
+        "Theme",
+        "Website Design",
+        "CMS",
+        "Web Development"
+      ],
+      "thumbnail": "https://pixabay.com/get/gb242bfa056e5b3f3a5a406b75a01790ad8401fdf2e40edbd7d1d6ac851070c8068bc8d9cec5ff30c482f1f7e655f26ee7e21394f941fd3a47ae830a7f9320d27_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "How Much Do You Need to Use Amazon Prime for a Subscription to Be Worth It?",
+      "url": "https://www.cnet.com/tech/services-and-software/how-much-do-you-need-to-use-amazon-prime-for-a-subscription-to-be-worth-it/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Amazon Prime",
+        "Subscription Services",
+        "Shopping Deals",
+        "CNET",
+        "Value"
+      ],
+      "thumbnail": "https://pixabay.com/get/g12b6c3b32eea171e541350528d0beab955193577f2e4600cfdc71d3fa8f877b15ce54f1f02f1d26e0562bb9693f907e16e4737460cd15495d05cad97a20db4a9_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Premier League Soccer: Stream Man City vs. Sunderland Live From Anywhere",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-sunderland-live-from-anywhere/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Premier League",
+        "Sports Streaming",
+        "Man City",
+        "Sunderland"
+      ],
+      "thumbnail": "https://pixabay.com/get/g31a814399619b74adab5cdf903f2f45ba86c2f9a2031350e3247017a13af3c597383419334386fc938047a1516cecab72a768698657ce1f7b7e3ba1fa44c7bca_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Premier League Soccer: Stream Bournemouth vs. Chelsea Live From Anywhere",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-chelsea-live-from-anywhere/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Premier League",
+        "Sports Streaming",
+        "Bournemouth",
+        "Chelsea",
+        "Soccer"
+      ],
+      "thumbnail": "https://pixabay.com/get/gb561dffb69a165eee7588a62520d2c48ce7effa108e7d73cd24929a4186949a3524aaeea1f5e765ca5df052bb72d3ab5c2f2571eb206c0067a07b98e233a423d_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "iPhone 17 Pro vs. Galaxy S25 Ultra Compared: I Tested the Camera Kings",
+      "url": "https://www.cnet.com/tech/mobile/iphone-17-pro-vs-galaxy-s25-ultra-compared-i-tested-the-camera-kings/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "iPhone 17 Pro",
+        "Galaxy S25 Ultra",
+        "Camera",
+        "Smartphone",
+        "CNET"
+      ],
+      "thumbnail": "https://pixabay.com/get/g03ced90b8639ad7752447343f35163add0e29950a08c6277310266d9e978b321fc91bd7b05bf86a4fb39d4755a501fba68be89aba18aec61b2cee9d5faffe9ca_640.jpg",
       "source": "CNET"
     }
   ]
