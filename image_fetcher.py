@@ -13,7 +13,6 @@ def get_thumbnail_from_pixabay(query):
     """Fetch thumbnail from Pixabay API"""
     if not PIXABAY_API_KEY:
         return None
-    
     try:
         url = "https://pixabay.com/api/"
         params = {
@@ -116,20 +115,20 @@ def get_article_thumbnail(title, category=None):
     
     print(f"      Searching images for: {search_query}")
     
-    # Try Pixabay first
-    thumbnail = get_thumbnail_from_pixabay(search_query)
+    # Try Unsplash first
+    thumbnail = get_thumbnail_from_unsplash(search_query)
     
-    # If Pixabay fails, try Unsplash
+    # If Unsplash fails, try Pixabay
     if not thumbnail:
         time.sleep(0.5)  # Small delay between API calls
-        thumbnail = get_thumbnail_from_unsplash(search_query)
+        thumbnail = get_thumbnail_from_pixabay(search_query)
     
     # If both fail and we have a category, try category as fallback
     if not thumbnail and category and category != 'Unknown':
         print(f"      Trying category fallback: {category}")
-        thumbnail = get_thumbnail_from_pixabay(category)
+        thumbnail = get_thumbnail_from_unsplash(category)
         if not thumbnail:
             time.sleep(0.5)
-            thumbnail = get_thumbnail_from_unsplash(category)
+            thumbnail = get_thumbnail_from_pixabay(category)
     
     return thumbnail
