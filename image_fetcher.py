@@ -8,6 +8,7 @@ load_dotenv()
 
 PIXABAY_API_KEY = os.getenv('PIXABAY_API_KEY')
 UNSPLASH_ACCESS_KEY = os.getenv('UNSPLASH_ACCESS_KEY')
+PEXELS_API_KEY = os.getenv('PEXELS')
 
 def get_thumbnail_from_pixabay(query):
     """Fetch thumbnail from Pixabay API"""
@@ -66,6 +67,35 @@ def get_thumbnail_from_unsplash(query):
         print(f"      Error fetching from Unsplash: {e}")
         return None
 
+def get_thumbnail_from_pexels(query):
+    """Fetch thumbnail from Pexels API"""
+    if not PEXELS_API_KEY:
+        return None
+    
+    try:
+        url = "https://api.pexels.com/v1/search"
+        headers = {
+            'Authorization': PEXELS_API_KEY
+        }
+        params = {
+            'query': query,
+            'per_page': 1,
+            'orientation': 'landscape'
+        }
+        
+        response = requests.get(url, headers=headers, params=params, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        
+        if data.get('photos') and len(data['photos']) > 0:
+            # Return the medium size image URL
+            return data['photos'][0]['src']['medium']
+        
+        return None
+    except Exception as e:
+        print(f"      Error fetching from Pexels: {e}")
+        return None
+
 def extract_keywords_from_title(title):
     """Extract meaningful keywords from article title"""
     if not title:
@@ -96,9 +126,10 @@ def extract_keywords_from_title(title):
 
 def get_article_thumbnail(title, category=None):
     """
-    Get thumbnail for an article from Pixabay or Unsplash
+    Get thumbnail for an article from Unsplash, Pexels, or Pixabay
     Uses title to search for relevant images
     Falls back to category if title search fails
+    Priority: Unsplash -> Pexels -> Pixabay
     """
     if not title:
         return None
@@ -115,18 +146,26 @@ def get_article_thumbnail(title, category=None):
     
     print(f"      Searching images for: {search_query}")
     
-    # Try Unsplash first
+    # Try Unsplash first (primary)
     thumbnail = get_thumbnail_from_unsplash(search_query)
     
-    # If Unsplash fails, try Pixabay
+    # If Unsplash fails, try Pexels
+    if not thumbnail:
+        time.sleep(0.5)  # Small delay between API calls
+        thumbnail = get_thumbnail_from_pexels(search_query)
+    
+    # If Pexels fails, try Pixabay
     if not thumbnail:
         time.sleep(0.5)  # Small delay between API calls
         thumbnail = get_thumbnail_from_pixabay(search_query)
     
-    # If both fail and we have a category, try category as fallback
+    # If all fail and we have a category, try category as fallback
     if not thumbnail and category and category != 'Unknown':
         print(f"      Trying category fallback: {category}")
         thumbnail = get_thumbnail_from_unsplash(category)
+        if not thumbnail:
+            time.sleep(0.5)
+            thumbnail = get_thumbnail_from_pexels(category)
         if not thumbnail:
             time.sleep(0.5)
             thumbnail = get_thumbnail_from_pixabay(category)
