@@ -4,756 +4,877 @@
     "TechCrunch",
     "CNET"
   ],
-  "scraped_at": "2025-12-11T15:08:00.692479",
-  "total_articles": 49,
+  "scraped_at": "2025-12-19T11:39:14.423084",
+  "total_articles": 52,
   "articles": [
     {
-      "title": "AI companies want a new internet — and they think they’ve found the key",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/841156/ai-companies-aaif-anthropic-mcp-model-context-protocol",
-      "description": "MCP has already taken the industry by storm, and now Anthropic is giving it away.",
-      "author": null,
-      "published_date": "2025-12-10T14:33:45+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "MCP",
-        "Context Protocol",
-        "Internet"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1564760290292-23341e4df6ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb21wYW5pZXMlMjB3YW50JTIwaW50ZXJuZXQlMjB0aGlua3xlbnwwfDB8fHwxNzY1NDQ1NTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "August’s founders are back with a smart front door",
-      "url": "https://www.theverge.com/tech/841622/doma-smart-door-august-smart-lock-makers",
-      "description": "August’s founders are back with a smart front door.",
-      "author": null,
-      "published_date": "2025-12-10T19:00:00+00:00",
+      "title": "2025 was the beginning of the end of the TV brightness war",
+      "url": "https://www.theverge.com/tech/841054/tv-brightness-hdr-2025",
+      "description": "An examination of the shift in television technology towards HDR and its impact on brightness levels.",
+      "author": "Liam Harding",
+      "published_date": "2025-12-18T13:30:00+00:00",
       "category": "Technology",
       "tags": [
-        "smart lock",
-        "August",
-        "security",
-        "home automation",
-        "IoT"
+        "TV",
+        "HDR",
+        "Brightness",
+        "Display Technology",
+        "Television"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1568658173325-c7b8a11d5666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhdWd1c3QlMjBmb3VuZGVycyUyMGJhY2slMjBzbWFydHxlbnwwfDB8fHwxNzY1NDQ1NTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1586695724166-d3576546880a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZWdpbm5pbmclMjBicmlnaHRuZXNzfGVufDB8MHx8fDE3NjYxMjQyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "I couldn’t fix it with iFixit’s AI FixBot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot",
-      "description": "A review of iFixit’s new AI FixBot, examining its capabilities and limitations in troubleshooting.",
-      "author": "Daniel Trotta",
-      "published_date": "2025-12-10T19:44:24+00:00",
+      "title": "Microsoft made another Copilot ad where nothing actually works",
+      "url": "https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad",
+      "description": "A critical look at Microsoft's latest holiday ad for Copilot, highlighting its unrealistic promises and showcasing the limitations of current AI technology.",
+      "author": null,
+      "published_date": "2025-12-18T15:30:00+00:00",
       "category": "AI & ML",
       "tags": [
+        "Copilot",
+        "Microsoft",
         "AI",
-        "chatbot",
-        "iFixit",
-        "repair",
-        "artificial intelligence"
+        "Artificial Intelligence",
+        "Advertising"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1606389682798-d265ff6600df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb3VsZG4lMjBpZml4aXQlMjBmaXhib3R8ZW58MHwwfHx8MTc2NTQ0NTU1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1662947036583-d67dd8055edf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtaWNyb3NvZnQlMjBtYWRlJTIwYW5vdGhlciUyMGNvcGlsb3R8ZW58MHwwfHx8MTc2NjEyNDI1NXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "There are no good outcomes for the Warner Bros. sale",
-      "url": "https://www.theverge.com/streaming/841581/warner-bros-netflix-paramount-skydance-ellison-hostile-bid",
-      "description": "Casey Newton analyzes the fraught situation surrounding Warner Bros. Discovery's attempt to sell itself, outlining the potential negative consequences for Netflix, Paramount, and Skydance.",
-      "author": "Casey Newton",
-      "published_date": "2025-12-10T16:00:00+00:00",
+      "title": "The TikTok US sale is finally happening",
+      "url": "https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close",
+      "description": "TikTok's parent company, ByteDance, is selling its US operations to WallStreetBets in a deal that’s finally taking shape.",
+      "author": "Ed Oswald",
+      "published_date": "2025-12-18T23:18:34+00:00",
       "category": "Trending",
       "tags": [
-        "Warner Bros.",
-        "Discovery",
-        "Netflix",
-        "Paramount",
-        "Media"
+        "TikTok",
+        "ByteDance",
+        "WallStreetBets",
+        "Social Media",
+        "Deal"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1716265871265-dab3512a43ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29kJTIwb3V0Y29tZXMlMjB3YXJuZXIlMjBicm9zfGVufDB8MHx8fDE3NjU0NDU1NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1661347998648-79ad2d81bf26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aWt0b2slMjBzYWxlJTIwZmluYWxseSUyMGhhcHBlbmluZ3xlbnwwfDB8fHwxNzY2MTI0MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT can now use Adobe apps to edit your photos and PDFs for free",
-      "url": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express",
-      "description": "ChatGPT now has integrations with Adobe Photoshop and Acrobat, allowing users to edit images and PDFs for free.",
-      "author": "Michelle Grady",
-      "published_date": "2025-12-10T13:00:00+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "ChatGPT",
-        "Adobe",
-        "AI",
-        "Photoshop",
-        "Acrobat"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1761223956849-c6912f2179aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjaGF0Z3B0JTIwYWRvYmUlMjBhcHBzJTIwZWRpdHxlbnwwfDB8fHwxNzY1NDQ1NTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "The Verge picks the standout tech of 2025",
-      "url": "https://www.theverge.com/featured-video/841319/the-verge-standout-tech-2025",
-      "description": "The Verge's editors predict the biggest tech innovations set to dominate 2025.",
-      "author": "The Verge Staff",
-      "published_date": "2025-12-10T15:00:00+00:00",
+      "title": "iRobot’s bankruptcy isn’t the end – it’s a reboot",
+      "url": "https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen",
+      "description": "iRobot is undergoing a dramatic reset following a near-bankruptcy experience. CEO Gary Cohen discusses the company’s turnaround strategy and future direction.",
+      "author": "Lauren Morris",
+      "published_date": "2025-12-18T16:30:30+00:00",
       "category": "Technology",
       "tags": [
-        "future tech",
-        "predictions",
-        "technology",
-        "innovation",
+        "iRobot",
+        "bankruptcy",
+        "Robotics",
+        "Gadgets",
+        "Gary Cohen"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxpcm9ib3QlMjBiYW5rcnVwdGN5JTIwcmVib290fGVufDB8MHx8fDE3NjYxMjQyNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "It’s the great AGI rebrand",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence",
+      "description": "Several AI companies have rebranded to reflect the shift towards Artificial General Intelligence (AGI).",
+      "author": null,
+      "published_date": "2025-12-18T13:00:00+00:00",
+      "category": "AI & ML",
+      "tags": [
+        "Artificial General Intelligence",
+        "AGI",
+        "AI Companies",
+        "Rebranding",
+        "Neural Networks"
+      ],
+      "thumbnail": "https://pixabay.com/get/g7cc51a9683365adfcb8299944fcef90a058612da915870a893b7586bbab938122f77b5115a052755b53198a13f4c286f8a178f285ca8afa4135e2217a6581ff0_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "‘All chaos and panic’: Nilay answers your burning Decoder questions",
+      "url": "https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025",
+      "description": "Nilay Patel answers your burning Decoder questions.",
+      "author": "Nilay Patel",
+      "published_date": "2025-12-18T15:00:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "podcast",
+        "The Verge",
+        "Decoder",
+        "Q&A"
+      ],
+      "thumbnail": "https://pixabay.com/get/g364d8934c63c930aaaa6369bf257720f8c5c0800316fc33e625b2df7de368d2665e67842886bb08aa602c16f8c4bbe70_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "code-named Avocado",
+      "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
+      "description": "That’s the code-name of Meta’s new “new image and video-focused AI model,”The Wall Street Journalreports. The company is also developing an LLMcode-named Avocado.",
+      "author": null,
+      "published_date": "2025-12-19T01:21:13+00:00",
+      "category": "AI & ML",
+      "tags": [
+        "AI",
+        "Meta",
+        "Artificial Intelligence",
+        "LLM",
+        "Image Generation"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1594921194380-d4d03d481e83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb2RlJTIwbmFtZWQlMjBhdm9jYWRvfGVufDB8MHx8fDE3NjYxMjQyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Matter smart home standard supports cameras, Apple Ring, Google Nest",
+      "url": "https://www.theverge.com/tech/821707/matter-smart-home-standard-supports-cameras-apple-ring-google-nest",
+      "description": "Samsung is rolling out the update this month, and it’s working with Aqara, Eve and Ulticam on Matter cameras. Jennifer Pattison Tuohy called it:",
+      "author": "Jennifer Pattison Tuohy",
+      "published_date": "2025-12-18T23:29:59+00:00",
+      "category": "Technology",
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Samsung",
+        "Aqara",
+        "Eve"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1603744548850-7d5c9e0193fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtYXR0ZXIlMjBzbWFydCUyMGhvbWUlMjBzdGFuZGFyZHxlbnwwfDB8fHwxNzY2MTI0MjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "their fake clips",
+      "url": "https://www.theverge.com/news/639440/youtube-ai-fake-movie-trailer-crackdown-monetization",
+      "description": "TheScreen CultureandKH StudioYouTube pages have suddenly disappeared, takingtheir fake clipswith them, reportsDeadline. An earlierDeadlineinvestigationshowed how they operated, mixing official movie footage with AI-generated images, which some movie studios were profiting from by claiming the ad revenue they brought in.",
+      "author": null,
+      "published_date": "2025-12-18T22:54:06+00:00",
+      "category": "AI & ML",
+      "tags": [
+        "AI",
+        "Fake Videos",
+        "YouTube",
+        "Monetization",
+        "Deepfakes"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1707622611249-6c020adfffba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aGVpciUyMGZha2UlMjBjbGlwc3xlbnwwfDB8fHwxNzY2MTI0Mjk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "the law",
+      "url": "https://www.theverge.com/21273768/section-230-explained-internet-speech-law-definition-guide-free-moderation",
+      "description": "Sens. Dick Durbin (D-IL) and Lindsey Graham (R-SC) introduced a bill to sunsetthe lawthat shields social media platforms from being held liable for content moderation, and their users’ posts. Section 230 haslongbeenatargetof bipartisan tech critics, but reforming it has provedcomplicated.",
+      "author": null,
+      "published_date": "2025-12-18T22:51:41+00:00",
+      "category": "Trending",
+      "tags": [
+        "Section 230",
+        "Social Media",
+        "Internet Law",
+        "Content Moderation",
+        "Tech Policy"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aGUlMjBsYXd8ZW58MHwwfHx8MTc2NjEyNDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "had said he would pursue",
+      "url": "https://www.theverge.com/2021/2/1/22243311/democrats-biden-marijuana-policy-reschedule-drug",
+      "description": "In the middle ofthreatening fundingfor hospitals that provide gender-related care to minors andtrying to tack his nameonto the Kennedy Center, the president alsosigned another executive order.",
+      "author": null,
+      "published_date": "2021-02-01T06:19:57+00:00",
+      "category": "Trending",
+      "tags": [
+        "politics",
+        "marijuana",
+        "Biden",
+        "executive order",
+        "drug policy"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1761403692053-4d9a9c0284dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzYWlkJTIwcHVyc3VlfGVufDB8MHx8fDE3NjYxMjQzMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Verge’’s 2025 in review",
+      "url": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
+      "description": "A retrospective look at The Verge's coverage in 2025, including reviews of games, streaming politics, and more.",
+      "author": null,
+      "published_date": "2025-12-17T14:00:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "The Verge",
+        "Review",
+        "Entertainment",
+        "Tech News",
         "2025"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1743004128683-67187a85c537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx2ZXJnZSUyMHBpY2tzJTIwc3RhbmRvdXQlMjB0ZWNofGVufDB8MHx8fDE3NjU0NDU1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/g551049760bd336446ce2444c438e8f783f7d515e6672fff9003b5556b9baf8f8993c612e5ea52bec599527922170c55e475865d6b53a9e1114c99447f6ac1133_640.jpg",
       "source": "The Verge"
     },
     {
-      "title": "Wario World is now available on Nintendo Switch Online + Expansion Pack",
-      "url": "https://www.theverge.com/news/842216/wah",
-      "description": "Wario Worldis now available as part of the GameCube games you can play with a Nintendo’strailer for the releasehas hilariously dramatic music that I’m guessing will rival anything shown at tomorrow’s Game Awards.",
+      "title": "Sony’s legal battle against Tencent’s Horizon ‘clone’ is already over",
+      "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
+      "description": "Sony’s legal battle against Tencent’s Horizon clone lawsuit is already over. The two companies have reached a settlement, ending a years-long dispute.",
       "author": null,
-      "published_date": "2025-12-11T01:14:29+00:00",
+      "published_date": "2025-12-18T03:57:42",
       "category": "Trending",
       "tags": [
-        "Nintendo",
-        "GameCube",
-        "Wario World",
-        "Switch Online",
+        "Sony",
+        "Tencent",
+        "Horizon",
+        "Lawsuit",
+        "Settlement"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1696041760231-dc91e0046a09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzb255JTIwbGVnYWwlMjBiYXR0bGUlMjBhZ2FpbnN0fGVufDB8MHx8fDE3NjYxMjQzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "The ChatGPT app store is here",
+      "url": "https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt",
+      "description": "OpenAI is building an app store directory for its models, aiming to make it easier for developers to find and integrate them into their applications.",
+      "author": "Ryan Vergne",
+      "published_date": "2025-12-18T04:27:39",
+      "category": "AI & ML",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI",
+        "SDK",
+        "App Store"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1704964969056-0c6d7caf7af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjaGF0Z3B0JTIwc3RvcmV8ZW58MHwwfHx8MTc2NjEyNDMzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Jimmy Wales trusts the process",
+      "url": "https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process",
+      "description": "Wikipedia is under attack — from accusations of bias, from AI scrapers, from Elon Musk — but the encyclopedia’s founder believes that transparency is the key to survival.",
+      "author": null,
+      "published_date": "2025-12-17T17:00:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "Wikipedia",
+        "Bias",
+        "Elon Musk",
+        "Transparency",
+        "Online Encyclopedia"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1758507595623-811a2ea5cb7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxqaW1teSUyMHdhbGVzJTIwdHJ1c3RzJTIwcHJvY2Vzc3xlbnwwfDB8fHwxNzY2MTI0MzM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Intergalactic: The Heretic Prophet",
+      "url": "https://www.theverge.com/24320197/intergalactic-the-heretic-prophet-naughty-dog-game-awards-2024",
+      "description": "Naughty Dog asked staffers to work overtime to complete an internal demo ofIntergalactic: The Heretic Prophet,according toBloomberg’sJason Schreier. The game is scheduled to launch in mid-2027, Schreier reports, though Sony hasn’t publicly announced a release window yet.",
+      "author": null,
+      "published_date": "2025-12-18T22:34:44+00:00",
+      "category": "Technology",
+      "tags": [
+        "Naughty Dog",
+        "Intergalactic",
+        "Game Development",
+        "Sony",
         "Game Awards"
       ],
-      "thumbnail": "https://pixabay.com/get/g5fda5a45c1c5de59473074857045cc8130e5fe51899b8cd411b3f62d165b22f4bdea1ef4d8050af2fa54377e4f93838e6387211df8a00b9ef1315d75e87c7f3a_640.jpg",
+      "thumbnail": "https://images.unsplash.com/photo-1656704351534-26f740b8be74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxpbnRlcmdhbGFjdGljJTIwaGVyZXRpYyUyMHByb3BoZXR8ZW58MHwwfHx8MTc2NjEyNDM0MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "ongoing memory shortage",
-      "url": "https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones",
-      "description": "I asked Jeff Clarke how Dell is navigating theongoing memory shortageand he said the company is, “Advocating that we should get the parts we asked for.”",
-      "author": null,
-      "published_date": "2025-12-10T23:49:31+00:00",
-      "category": "Technology",
-      "tags": [
-        "RAM",
-        "memory shortage",
-        "PC gaming",
-        "smartphones",
-        "Dell"
-      ],
-      "thumbnail": "https://pixabay.com/get/ga903d22016ab6751a432fe157dfb799948e655d6d79dc71f180fbcde5ae97046d59e6d64a34503c2909c9d8fbde0dd65a61fd851b8ef3bb0d8d18a52a39d5c22_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "the firings",
-      "url": "https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting",
-      "description": "PM Keir Starmer was asked aboutthe firingsat Rockstar Games in a Prime Minister’s Questions session on Wednesday, as reported byKotaku.",
-      "author": null,
-      "published_date": "2025-12-10T23:47:53+00:00",
+      "title": "Threads wants to be the app you can’t wait to open in the morning",
+      "url": "https://www.theverge.com/column/847806/head-of-threads-interview",
+      "description": "An interview with the head of Threads, discussing the app's ambitions and design philosophy.",
+      "author": "Ed Garsten",
+      "published_date": "2025-12-18T22:30:00+00:00",
       "category": "Trending",
       "tags": [
-        "Rockstar Games",
-        "Layoffs",
-        "Union Busting",
-        "Gaming",
-        "Politics"
-      ],
-      "thumbnail": "https://pixabay.com/get/g7b793303fdd4b413c7cc00acb2df2093730bef42c6de398fed8c58762d3677b112701090413f860c5c73280b8f532a2c12be9befdf8960dfc671a54f6a42b88c_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Donald Trump reminds the entire world he has no idea what 6G means",
-      "url": "https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g",
-      "description": "Donald Trump's latest tweet about 6G is a stark reminder that he doesn't understand basic technology.",
-      "author": "Edward Baakman",
-      "published_date": "2025-12-10T23:37:26+00:00",
-      "category": "Trending",
-      "tags": [
-        "Trump",
-        "6G",
-        "Technology",
-        "Politics",
-        "Misinformation"
-      ],
-      "thumbnail": "https://pixabay.com/get/ga19ad7657c20d3c3c853a42f08d1e07366654d204d97ef2e3a5d2a41e0d343b918c7ec2b64635b019d9b96c6b9f0c8ddc1350c37af4372461afdf95d34415047_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Wake Up Dead Man digs deep for a darker, more powerful Knives Out",
-      "url": "https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out",
-      "description": "A review of the Netflix film 'Wake Up Dead Man,' analyzing its connection to the 'Knives Out' franchise.",
-      "author": "Jessica Noble",
-      "published_date": "2025-12-09T20:15:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "Netflix",
-        "Knives Out",
-        "Movie Review",
-        "Entertainment"
-      ],
-      "thumbnail": "https://pixabay.com/get/g29b446f42ecf7328666cc53fae31fb83f6ebad556919fc7786b3bbe4cf4c39540e763d477652c092ac0967e0bfd2d5b2bf070d97eec1d487e87fff3ab6aab199_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Everyone asks Copilot for relationship advice in February, according to a new study",
-      "url": "https://www.theverge.com/news/842134/everyone-asks-copilot-for-relationship-advice-in-february-according-to-a-new-study",
-      "description": "Thestudy(pdf)analyzed 37.5 million de-identified Copilot conversationsto show patterns in how people interacted with AI, but are we that surprised there’s a spike in existential questions around 2AM?",
-      "author": null,
-      "published_date": "2025-12-10T23:32:43+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "AI",
-        "Copilot",
-        "Relationships",
-        "ChatGPT",
-        "Artificial Intelligence"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1629106434454-98170f073863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxldmVyeW9uZSUyMGFza3MlMjBjb3BpbG90JTIwcmVsYXRpb25zaGlwfGVufDB8MHx8fDE3NjU0NDU2NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Somehow, this AI-generated McDonald’s ad about hating Christmas was a flop",
-      "url": "https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad",
-      "description": "An AI-generated McDonald's Christmas ad, designed to evoke feelings of resentment towards the holiday, unexpectedly flopped with audiences.",
-      "author": null,
-      "published_date": "2025-12-09T22:52:20",
-      "category": "Trending",
-      "tags": [
-        "AI",
-        "McDonald's",
-        "Christmas",
-        "Advertising",
+        "Threads",
+        "Instagram",
+        "Meta",
+        "Social Media",
         "Viral"
       ],
-      "thumbnail": "https://pixabay.com/get/ga205161ce36b2806a536cf751324f4f85ac284c0e17a58be6a0ba1ae2345d33661ac852ffa864bfad34aaff42bbb55da666a85dd88145a5ff69486ccffdcba82_640.jpg",
+      "thumbnail": "https://pixabay.com/get/g8fa03180ee38e1ddae88aecdab79edd075ebd49a07933e007478a76b57ff0f920c28d0ca90c9254f6c0f112c43a1921619bcd14d53fb2e9c12d76e593f3a4363_640.jpg",
       "source": "The Verge"
     },
     {
-      "title": "Trump could introduce ‘mandatory’ social media reviews for travelers",
-      "url": "https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers",
-      "description": "The Trump administration is reportedly considering requiring travelers to provide social media history to U.S. Customs and Border Protection.",
-      "author": "David Pierce",
-      "published_date": "2025-12-10T23:21:05+00:00",
-      "category": "Trending",
-      "tags": [
-        "Trump",
-        "CBP",
-        "Travel",
-        "Social Media",
-        "Border Security"
-      ],
-      "thumbnail": "https://pixabay.com/get/gd4248e4cb43a50d2084ba8bac736cca7eaefa68a25df6b2cea5cd5b22c3176b61182dd6e1afaa252da980e2a5cd0f25b_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "The Verge subscription turns one",
-      "url": "https://www.theverge.com/bulletin/839889/the-verge-subscription-turns-one",
-      "description": "The Verge's subscription service is celebrating its one-year anniversary. We look back at the milestones and what’s next.",
-      "author": "The Verge Editorial",
-      "published_date": "2025-12-08T16:00:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "Verge",
-        "Subscription",
-        "Milestone",
-        "Anniversary",
-        "News"
-      ],
-      "thumbnail": "https://pixabay.com/get/g7fc019c3456ab7600039abcbad8da4fa6ac290d142005234fcc861a714ebe401ff62e02f7afa3956e0cd8926b5d62f318ef2dc2c09f818d607e91f350f6038e6_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "purge of science-backed information on federal websites",
-      "url": "https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump",
-      "description": "The Trump administration has taken down content about the human causes of global warming — greenhouse gases from fossil fuels — from the Environmental Protection Agency website, part of a largerpurge of science-backed information on federal websites.",
+      "title": "Oh snap, I have a new favorite phone grip",
+      "url": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip",
+      "description": "A review of a new phone grip.",
       "author": null,
-      "published_date": "2025-12-10T23:02:01+00:00",
-      "category": "Trending",
+      "published_date": "2025-12-18T22:29:23+00:00",
+      "category": "Technology",
       "tags": [
-        "climate change",
-        "environmental justice",
-        "Trump administration",
-        "EPA",
-        "science purge"
+        "phone grip",
+        "mobile accessories",
+        "gadgets",
+        "reviews",
+        "smartphone"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1609764465702-78599b1f1833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwdXJnZSUyMHNjaWVuY2UlMjBiYWNrZWQlMjBpbmZvcm1hdGlvbnxlbnwwfDB8fHwxNzY1NDQ1Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1608613615031-457713746a35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzbmFwJTIwZmF2b3JpdGUlMjBwaG9uZSUyMGdyaXB8ZW58MHwwfHx8MTc2NjEyNDM1NXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Spotify’s Prompted Playlists use AI to control your algorithm",
-      "url": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists",
-      "description": "Spotify's new Prompted Playlists use AI to actively manage your listening experience, attempting to steer you towards music you’ll enjoy. The feature aims to combat the 'filter bubble' effect that can plague music streaming services.",
+      "title": "Riot Games is planning to spruce up League of Legends with a major update codenamed \"League Next\"",
+      "url": "https://www.theverge.com/games/847825/up-next",
+      "description": "Riot Games is planning to spruce upLeague of Legendswith a major update codenamed “League Next” that includes a visual overhaul and technical changes, though it’s apparently not due until 2027,Bloombergreports. Riot later shared a video detailing“bigger updates”coming toLeague“after 2026.",
       "author": null,
-      "published_date": "2025-12-10T22:11:57+00:00",
-      "category": "AI & ML",
+      "published_date": "2025-12-18T22:24:32+00:00",
+      "category": "Technology",
       "tags": [
-        "Spotify",
-        "AI",
-        "Algorithms",
-        "Music Streaming",
-        "Personalization"
+        "League of Legends",
+        "Riot Games",
+        "Gaming",
+        "Updates",
+        "PC Games"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1643208589889-4f02359645c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzcG90aWZ5JTIwcHJvbXB0ZWQlMjBwbGF5bGlzdHMlMjBjb250cm9sfGVufDB8MHx8fDE3NjU0NDU2OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1720326281298-f38341a3c1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyaW90JTIwZ2FtZXMlMjBwbGFubmluZyUyMHNwcnVjZXxlbnwwfDB8fHwxNzY2MTI0MzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "leave Spotify",
-      "url": "https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify",
-      "description": "The band was one of the higher-profile acts toleave Spotifyover Daniel Ek’swar profiteering. But its songs briefly reappeared in the guise ofan AI clone. An act calledKing Lizard Wizarduploaded seemingly AI-generated songs with the same names and lyrics as the real deal. That ran afoul of Spotify’s policiesagainst impersonationand the songs were removed. In a statement provided to Australian siteThe Music, frontman Stu Mackenzie said he was:",
+      "title": "Steam’s annual winter sale is here – these are the best games to get",
+      "url": "https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals",
+      "description": "A roundup of the best game deals during Steam’s annual winter sale.",
       "author": null,
-      "published_date": "2025-12-10T21:32:44+00:00",
-      "category": "AI & ML",
+      "published_date": "2025-12-18T22:15:00+00:00",
+      "category": "Technology",
       "tags": [
-        "Spotify",
-        "AI",
-        "Impersonation",
-        "Music",
-        "Boycott"
+        "Steam",
+        "Winter Sale",
+        "Game Deals",
+        "PC Gaming",
+        "Sales"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1643208589896-07b8feb4dffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsZWF2ZSUyMHNwb3RpZnl8ZW58MHwwfHx8MTc2NTQ0NTcwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1693125086848-d551f4c8d77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzdGVhbSUyMGFubnVhbCUyMHdpbnRlciUyMHNhbGV8ZW58MHwwfHx8MTc2NjEyNDM2NXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network",
-      "url": "https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition",
-      "description": "Operation Bluebird is attempting to regain Twitter trademarks to launch a new social network, arguing the platform was ‘abandoned’ by its owner.",
-      "author": null,
-      "published_date": "2025-12-10T21:31:24+00:00",
-      "category": "Trending",
-      "tags": [
-        "Twitter",
-        "Social Media",
-        "Operation Bluebird",
-        "Trademarks",
-        "Petition"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1752544719524-82850935d19d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvcGVyYXRpb24lMjBibHVlYmlyZCUyMHdhbnRzJTIwcmVjbGFpbXxlbnwwfDB8fHwxNzY1NDQ1NzEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "I’m obsessed with Redfin’s AI search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot",
-      "description": "Redfin’s new AI-powered search chatbot is surprisingly good at helping you find properties, and it’s changing the way I think about searching for a home.",
-      "author": "Blake Sharp",
-      "published_date": "2025-12-09T19:15:00",
-      "category": "AI & ML",
-      "tags": [
-        "AI",
-        "Redfin",
-        "Real Estate",
-        "Search",
-        "Chatbot"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1575019805205-039974efcb4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvYnNlc3NlZCUyMHJlZGZpbiUyMHNlYXJjaHxlbnwwfDB8fHwxNzY1MzYxMjE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Baby delivered in Waymo continues proud tradition of not making it to the hospital",
-      "url": "https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/",
-      "description": "Waymo's self-driving vehicle delivered a newborn baby to a hospital in Arizona, marking another unusual event for the company.",
-      "author": "Connie Loizos",
-      "published_date": "2025-12-10T20:46:56-08:00",
-      "category": "Trending",
-      "tags": [
-        "Waymo",
-        "Autonomous Vehicle",
-        "Self-Driving Car",
-        "Delivery",
-        "News"
-      ],
-      "thumbnail": "https://pixabay.com/get/g389687b97b18822c448e7b2232254455c241b7b1be41383fa9539b06b802a1879b442d04f448194df9ce2c7bf7dbf13b0cd4f22f4c59411e6f2fff8ab31a094c_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
-      "url": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
-      "description": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
-      "author": "Connie Loizos",
-      "published_date": "2025-12-10T17:10:04-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "Google",
-        "AI",
-        "Data Center",
-        "Artificial Intelligence",
-        "Technology"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1653188256298-1b1216bddc43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBhbnN3ZXIlMjBhcm1zJTIwcmFjZXxlbnwwfDB8fHwxNzY1NDQ1NzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs",
-      "url": "https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/",
-      "description": "State attorneys general are urging Microsoft, OpenAI, Google, and other AI giants to address the 'delusional' outputs produced by their models.",
+      "title": "TikTok agrees to deal to cede control of US business to American investor group",
+      "url": "https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/",
+      "description": "TikTok agrees to deal to cede control of US business to American investor group",
       "author": "Lucas Ropek",
-      "published_date": "2025-12-10T16:13:43-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Microsoft",
-        "Google",
-        "Artificial Intelligence"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1676181739859-08330dea8999?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzdGF0ZSUyMGF0dG9ybmV5cyUyMGdlbmVyYWwlMjB3YXJufGVufDB8MHx8fDE3NjU0NDU3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl",
-      "url": "https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/",
-      "description": "Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl.",
-      "author": "Rebecca Szkutak",
-      "published_date": "2025-12-10T14:06:47-08:00",
+      "published_date": "2025-12-18T16:56:44-08:00",
       "category": "Trending",
       "tags": [
-        "Nvidia",
-        "Chips",
-        "Smuggling",
-        "Technology",
-        "Security"
+        "TikTok",
+        "Social Media",
+        "US Business",
+        "Investment",
+        "Regulation"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1716967318503-05b7064afa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxudmlkaWElMjByZXBvcnRlZGx5JTIwdGVzdGluZyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NjU0NDU3NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1661347998648-79ad2d81bf26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aWt0b2slMjBhZ3JlZXMlMjBkZWFsJTIwY2VkZXxlbnwwfDB8fHwxNzY2MTI0Mzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "You can now share live video with emergency services on Android",
-      "url": "https://techcrunch.com/2025/12/10/you-can-now-share-live-video-with-emergency-services-on-android/",
-      "description": "Android users can now share live video directly with emergency services.",
-      "author": "Amanda Silberling",
-      "published_date": "2025-12-10T13:38:33-08:00",
-      "category": "Trending",
-      "tags": [
-        "Android",
-        "Emergency Services",
-        "Live Video",
-        "Mobile",
-        "Safety"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1694878982074-d8d4bc4581b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzaGFyZSUyMGxpdmUlMjB2aWRlbyUyMGVtZXJnZW5jeXxlbnwwfDB8fHwxNzY1NDQ1NzU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "CEO of South Korean retail giant Coupang resigns after massive data breach",
-      "url": "https://techcrunch.com/2025/12/10/ceo-of-south-korean-retail-giant-coupang-resigns-after-massive-data-breach/",
-      "description": "The CEO of Coupang, a major South Korean retail giant, has resigned following a massive data breach that exposed the personal information of millions of customers.",
-      "author": "Zack Whittaker",
-      "published_date": "2025-12-10T13:06:55-08:00",
-      "category": "Trending",
-      "tags": [
-        "Coupang",
-        "Data Breach",
-        "South Korea",
-        "Retail",
-        "Resignation"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1762442675483-40fc9bcbb2d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzb3V0aCUyMGtvcmVhbiUyMHJldGFpbCUyMGdpYW50fGVufDB8MHx8fDE3NjU0NDU3NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Spotify tests more personalized, AI-powered ‘Prompted Playlists’",
-      "url": "https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/",
-      "description": "Spotify is testing new ‘Prompted Playlists’ that use AI to generate music recommendations based on user prompts.",
+      "title": "Apple becomes a debt collector with its new developer agreement",
+      "url": "https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/",
+      "description": "Apple's new developer agreement is raising concerns about its role as a debt collector, with developers facing potential charges for unpaid invoices.",
       "author": "Sarah Perez",
-      "published_date": "2025-12-10T12:01:47-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "Spotify",
-        "AI",
-        "Music",
-        "Playlists",
-        "Recommendation Engine"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1643208589889-4f02359645c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzcG90aWZ5JTIwdGVzdHMlMjBwZXJzb25hbGl6ZWQlMjBwb3dlcmVkfGVufDB8MHx8fDE3NjU0NDU3NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Overview Energy wants to beam energy from space to existing solar farms",
-      "url": "https://techcrunch.com/2025/12/10/overview-energy-wants-to-beam-energy-from-space-to-existing-solar-farms/",
-      "description": "Overview Energy plans to launch space-based solar farms that will beam energy to existing solar farms on Earth.",
-      "author": "Tim De Chant",
-      "published_date": "2025-12-10T11:42:41-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "space-based solar",
-        "renewable energy",
-        "energy transmission",
-        "solar power",
-        "satellite technology"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1701696934149-2878dfe1eb73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvdmVydmlldyUyMGVuZXJneSUyMHdhbnRzJTIwYmVhbXxlbnwwfDB8fHwxNzY1NDQ1NzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OSHA investigating new crane accident at SpaceX’s Starbase facility",
-      "url": "https://techcrunch.com/2025/12/10/osha-investigating-new-crane-accident-at-spacexs-starbase-facility/",
-      "description": "The Occupational Safety and Health Administration (OSHA) is investigating a crane accident at SpaceX’s Starbase facility in Texas.",
-      "author": "Sean O’Kane",
-      "published_date": "2025-12-10T11:06:50-08:00",
+      "published_date": "2025-12-18T15:56:19-08:00",
       "category": "Trending",
       "tags": [
-        "SpaceX",
-        "OSHA",
-        "Accident",
-        "Starbase",
-        "Texas"
+        "Apple",
+        "Developer Agreement",
+        "Fintech",
+        "Payments",
+        "Legal"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1651587263382-06232166c2e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvc2hhJTIwaW52ZXN0aWdhdGluZyUyMGNyYW5lJTIwYWNjaWRlbnR8ZW58MHwwfHx8MTc2NTQ0NTc3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1575181801790-f96269252aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGJlY29tZXMlMjBkZWJ0JTIwY29sbGVjdG9yfGVufDB8MHx8fDE3NjYxMjQzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Marco Rubio bans Calibri font at State Department for being too DEI",
-      "url": "https://techcrunch.com/2025/12/10/marco-rubio-bans-calibri-font-at-state-department-for-being-too-dei/",
-      "description": "Senator Marco Rubio has banned the Calibri font at the State Department, citing its association with diversity, equity, and inclusion (DEI) initiatives.",
-      "author": "Julie Bort",
-      "published_date": "2025-12-10T11:05:02-08:00",
-      "category": "Trending",
-      "tags": [
-        "Marco Rubio",
-        "DEI",
-        "Font",
-        "State Department",
-        "Politics"
-      ],
-      "thumbnail": "https://pixabay.com/get/gf275629c5ffc54a221cb20801efa6333e3465a8cf9f102ddccfdd4216f6e73a45bcad28aa1472999cfca38bd9b9f69f5fc36b2c62a9a3accb050f0c060674cd8_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "YouTube TV to launch genre-based subscription plans in 2026",
-      "url": "https://techcrunch.com/2025/12/10/youtube-tv-to-launch-genre-based-subscription-plans-in-2026/",
-      "description": "YouTube TV is planning to introduce genre-based subscription plans starting in 2026.",
+      "title": "Instacart to pay $60M to settle FTC claims it deceived consumers",
+      "url": "https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/",
+      "description": "Instacart is paying $60 million to settle FTC claims it misled consumers about its pricing and data collection practices.",
       "author": "Aisha Malik",
-      "published_date": "2025-12-10T10:56:19-08:00",
-      "category": "Technology",
-      "tags": [
-        "YouTube TV",
-        "Subscription Plans",
-        "Streaming",
-        "Television",
-        "Entertainment"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1649180543887-158357417159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx5b3V0dWJlJTIwbGF1bmNoJTIwZ2VucmUlMjBiYXNlZHxlbnwwfDB8fHwxNzY1NDQ1Nzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Reddit is testing verification badges",
-      "url": "https://techcrunch.com/2025/12/10/reddit-is-testing-verification-badges/",
-      "description": "Reddit is testing verification badges to combat bots and misinformation.",
-      "author": "Amanda Silberling",
-      "published_date": "2025-12-10T10:30:41-08:00",
+      "published_date": "2025-12-18T13:07:25-08:00",
       "category": "Trending",
       "tags": [
-        "Reddit",
-        "Verification",
-        "Bots",
-        "Social Media"
+        "Instacart",
+        "FTC",
+        "settlement",
+        "pricing",
+        "data collection"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1596662558795-353306848a1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyZWRkaXQlMjB0ZXN0aW5nJTIwdmVyaWZpY2F0aW9uJTIwYmFkZ2VzfGVufDB8MHx8fDE3NjU0NDU3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/gc7bcdd7aa91a0e476bb3449f772ad8c144daad9ac8eab688d146e898882a3c299dd54748bdd5ae0fa29962a384c5bae1b9e3f37e191e1d22fa305d8cb5821d5a_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "title": "Google is testing AI-powered article overviews on select publications’ Google News pages",
-      "url": "https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/",
-      "description": "Google is testing AI-powered article overviews on select publications’ Google News pages.",
-      "author": "Aisha Malik",
-      "published_date": "2025-12-10T09:00:00-08:00",
+      "title": "ChatGPT launches an app store, lets developers know it’s open for business",
+      "url": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+      "description": "OpenAI has launched an app store for ChatGPT, allowing developers to create and sell plugins and features directly within the chatbot.",
+      "author": "Lucas Ropek",
+      "published_date": "2025-12-18T12:22:50-08:00",
       "category": "AI & ML",
-      "tags": [
-        "Google",
-        "AI",
-        "Google News",
-        "Article Overviews",
-        "Artificial Intelligence"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1648134859177-525771773915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjB0ZXN0aW5nJTIwcG93ZXJlZCUyMGFydGljbGV8ZW58MHwwfHx8MTc2NTQ0NTc5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Amazon changes how copyright protection is applied to Kindle Direct’s self-published e-books",
-      "url": "https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/",
-      "description": "Amazon has updated its policies regarding copyright protection for e-books published through Kindle Direct Publishing.",
-      "author": "Sarah Perez",
-      "published_date": "2025-12-10T08:26:01-08:00",
-      "category": "Technology",
-      "tags": [
-        "Amazon",
-        "Kindle",
-        "eBooks",
-        "Copyright",
-        "Publishing"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1632813404574-b63d317ee258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbWF6b24lMjBjaGFuZ2VzJTIwY29weXJpZ2h0JTIwcHJvdGVjdGlvbnxlbnwwfDB8fHwxNzY1NDQ1ODAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ElevenLabs just hit a $6.6B valuation. Its CEO says the real money isn’t in voice anymore.",
-      "url": "https://techcrunch.com/podcast/elevenlabs-just-hit-a-6-6b-valuation-its-ceo-says-the-real-money-isnt-in-voice-anymore/",
-      "description": "TechCrunch reports that ElevenLabs has reached a $6.6B valuation as the company’s CEO believes the focus is shifting away from pure voice technology.",
-      "author": "Theresa Loconsolo",
-      "published_date": "2025-12-10T08:00:00-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "AI",
-        "Machine Learning",
-        "ElevenLabs",
-        "Voice Technology",
-        "Valuation"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1711725637816-b0755c582c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxlbGV2ZW5sYWJzJTIwdmFsdWF0aW9uJTIwc2F5cyUyMHJlYWx8ZW58MHwwfHx8MTc2NTQ0NTgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ChatGPT is Apple’s most downloaded app of 2025 in the US",
-      "url": "https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/",
-      "description": "ChatGPT has become Apple’s most downloaded app in the United States for 2025, according to new data.",
-      "author": "Sarah Perez",
-      "published_date": "2025-12-10T07:17:26-08:00",
-      "category": "Trending",
       "tags": [
         "ChatGPT",
-        "Apple",
-        "Downloads",
-        "Popular Apps"
+        "OpenAI",
+        "Plugins",
+        "App Store",
+        "AI"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1761223956849-c6912f2179aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjaGF0Z3B0JTIwYXBwbGUlMjBkb3dubG9hZGVkfGVufDB8MHx8fDE3NjU0NDU4MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjaGF0Z3B0JTIwbGF1bmNoZXMlMjBzdG9yZSUyMGxldHN8ZW58MHwwfHx8MTc2NjEyNDM5MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Amazon now offers same-day delivery of perishable groceries in 2,300 US cities",
-      "url": "https://techcrunch.com/2025/12/10/amazon-now-offers-same-day-delivery-of-perishable-groceries-in-2300-us-cities/",
-      "description": "Amazon is expanding its same-day delivery service to include perishable groceries in 2,300 US cities.",
-      "author": "Aisha Malik",
-      "published_date": "2025-12-10T07:14:28-08:00",
+      "title": "Pickle Robot adds Tesla veteran as first CFO",
+      "url": "https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/",
+      "description": "Pickle Robot, the robotics startup that’s building a self-driving warehouse robot, has appointed a Tesla veteran as its first CFO.",
+      "author": "Rebecca Szkutak",
+      "published_date": "2025-12-18T12:01:46-08:00",
       "category": "Technology",
       "tags": [
-        "Amazon",
-        "Delivery",
-        "Groceries",
-        "E-commerce",
-        "Logistics"
+        "robotics",
+        "Tesla",
+        "finance",
+        "startup",
+        "warehouse automation"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1649734926695-1b1664e98842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbWF6b24lMjBvZmZlcnMlMjBkZWxpdmVyeSUyMHBlcmlzaGFibGV8ZW58MHwwfHx8MTc2NTQ0NTgxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1641052355010-1da4e83230d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwaWNrbGUlMjByb2JvdCUyMGFkZHMlMjB0ZXNsYXxlbnwwfDB8fHwxNzY2MTI0Mzk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Oboe raises $16 million from a16z for its AI-powered course-generation platform",
-      "url": "https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/",
-      "description": "Oboe, an AI-powered course generation platform, has raised $16 million in a Series A round led by a16z.",
-      "author": "Ivan Mehta",
-      "published_date": "2025-12-10T07:00:00-08:00",
+      "title": "Why British politicians are flocking to American tech giants",
+      "url": "https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/",
+      "description": "An analysis of why British politicians are increasingly seeking employment with American tech companies.",
+      "author": "Anna Heim",
+      "published_date": "2025-12-18T11:50:23-08:00",
+      "category": "Technology",
+      "tags": [
+        "Politics",
+        "Business",
+        "Tech",
+        "UK",
+        "US"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1571733818896-a01d79166f2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxicml0aXNoJTIwcG9saXRpY2lhbnMlMjBmbG9ja2luZyUyMGFtZXJpY2FufGVufDB8MHx8fDE3NjYxMjQzOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ChatGPT’s mobile app hits new milestone of $3B in consumer spending",
+      "url": "https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/",
+      "description": "ChatGPT's mobile app has reached a consumer spending milestone of $3B.",
+      "author": "Sarah Perez",
+      "published_date": "2025-12-18T11:50:02-08:00",
       "category": "AI & ML",
       "tags": [
+        "ChatGPT",
+        "mobile app",
+        "consumer spending",
         "AI",
-        "ML",
-        "Course Generation",
-        "Platform",
-        "a16z"
+        "OpenAI"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1569791832138-fbdd9a500384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvYm9lJTIwcmFpc2VzJTIwbWlsbGlvbiUyMHBvd2VyZWR8ZW58MHwwfHx8MTc2NTQ0NTgyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1762341119630-7cbf68227969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjaGF0Z3B0JTIwbW9iaWxlJTIwaGl0cyUyMG1pbGVzdG9uZXxlbnwwfDB8fHwxNzY2MTI0NDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Google launches managed MCP servers that let AI agents simply plug into its tools",
-      "url": "https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/",
-      "description": "Google is launching managed Multi-Cloud Platform (MCP) servers designed to make it easier for AI agents to seamlessly utilize its tools.",
-      "author": "Rebecca Bellan",
-      "published_date": "2025-12-10T07:00:00-08:00",
-      "category": "AI & ML",
-      "tags": [
-        "Google",
-        "AI",
-        "MCP Servers",
-        "Agents",
-        "Cloud Computing"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1573141597928-403fcee0e056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBsYXVuY2hlcyUyMG1hbmFnZWQlMjBzZXJ2ZXJzfGVufDB8MHx8fDE3NjU0NDU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Unacademy’s founder says startup is now worth less than $500M, confirms M&A talks",
-      "url": "https://techcrunch.com/2025/12/10/unacademys-founder-says-startup-is-now-worth-less-than-500m-confirms-ma-talks/",
-      "description": "Unacademy’s founder says the startup is now worth less than $500M and confirms merger and acquisition talks.",
+      "title": "LinkedIn’s profile verification push is accelerating – and India is leading the charge in 2025",
+      "url": "https://techcrunch.com/2025/12/18/linkedins-profile-verification-push-is-accelerating-and-india-is-leading-the-charge-in-2025/",
+      "description": "LinkedIn is ramping up its profile verification efforts, with a significant focus on India.",
       "author": "Jagmeet Singh",
-      "published_date": "2025-12-10T06:29:12-08:00",
-      "category": "Careers",
+      "published_date": "2025-12-18T10:43:05-08:00",
+      "category": "Technology",
       "tags": [
-        "Unacademy",
-        "M&A",
-        "Startups",
-        "Funding",
-        "EdTech"
+        "LinkedIn",
+        "Verification",
+        "India",
+        "Social Media",
+        "Business"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1559839826-72e3ac775ea4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx1bmFjYWRlbXklMjBmb3VuZGVyJTIwc2F5cyUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc2NTQ0NTgzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1592181572975-1d0d8880d175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsaW5rZWRpbiUyMHByb2ZpbGUlMjB2ZXJpZmljYXRpb24lMjBwdXNofGVufDB8MHx8fDE3NjYxMjQ0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Need to Limit Your Screen time? These 4 iPhone and Android Wellness Settings Can Help",
-      "url": "https://www.cnet.com/tech/need-to-limit-your-screen-time-these-4-iphone-and-android-wellness-settings-can-help/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "iPhone",
-        "Android",
-        "Wellness",
-        "Screen Time",
-        "Settings"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1655189592137-c6890765e6b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxuZWVkJTIwbGltaXQlMjB5b3VyJTIwc2NyZWVufGVufDB8MHx8fDE3NjU0NDU4Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
-    },
-    {
-      "title": "One of Our Favorite Robot Vacuums Is Now $600 Off in Time for the Holidays",
-      "url": "https://www.cnet.com/deals/mova-z60-one-of-our-favorite-robot-vacuums-has-huge-discount/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
+      "title": "These startups are building innovations that make life (and death) better",
+      "url": "https://techcrunch.com/video/these-startups-are-building-innovations-that-make-life-and-death-better/",
+      "description": "This article discusses startups developing innovations for improving life and death situations.",
+      "author": "Isabelle Johannessen",
+      "published_date": "2025-12-18T10:05:00-08:00",
       "category": "Trending",
       "tags": [
-        "robot vacuum",
-        "deals",
-        "holiday deals",
-        "CNET Deals"
+        "startups",
+        "innovation",
+        "healthcare",
+        "technology",
+        "life sciences"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1762500825366-ba34b0c5352e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmYXZvcml0ZSUyMHJvYm90JTIwdmFjdXVtcyUyMHRpbWV8ZW58MHwwfHx8MTc2NTQ0NTg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
+      "thumbnail": "https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzdGFydHVwcyUyMGJ1aWxkaW5nJTIwaW5ub3ZhdGlvbnMlMjBtYWtlfGVufDB8MHx8fDE3NjYxMjQ0MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
     },
     {
-      "title": "This Is Your Final Week to Claim a Share of the $177 Million AT&T Data Breach Settlement",
-      "url": "https://www.cnet.com/news/att-privacy-breach-settlement-file-claim/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
+      "title": "These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits",
+      "url": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/",
+      "description": "Two 21-year-old dropouts have raised $2M to build Givefront, a fintech platform designed specifically for nonprofits.",
+      "author": "Tage Kene-Okafor",
+      "published_date": "2025-12-18T10:04:42-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "fintech",
+        "nonprofits",
+        "startups",
+        "funding",
+        "impact investing"
+      ],
+      "thumbnail": "https://pixabay.com/get/g926d9426f6b05ee42d1ebe7d3a79ac3f9677d6c232e1d0727868ab1867c97839246679fd1dad6f4e2995a072b6519ed9_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump Media is merging with fusion power company TAE Technologies in $6B+ deal",
+      "url": "https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/",
+      "description": "Trump Media is merging with fusion power company TAE Technologies in a $6B+ deal.",
+      "author": "Tim De Chant",
+      "published_date": "2025-12-18T09:05:00-08:00",
+      "category": "Trending",
+      "tags": [
+        "Trump Media",
+        "TAE Technologies",
+        "Merger",
+        "Deal",
+        "Fusion Energy"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1696041760189-d9296026e1c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0cnVtcCUyMG1lZGlhJTIwbWVyZ2luZyUyMGZ1c2lvbnxlbnwwfDB8fHwxNzY2MTI0NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources",
+      "url": "https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/",
+      "description": "TDK Ventures and Accel are reportedly backing Indian space startup EtherealX in its efforts to develop a reusable launch vehicle.",
+      "author": "Jagmeet Singh",
+      "published_date": "2025-12-18T08:30:00-08:00",
+      "category": "Technology",
+      "tags": [
+        "Space",
+        "Launch Vehicle",
+        "India",
+        "EtherealX",
+        "SpaceTech"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1667849521371-e78b4d603076?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx2ZW50dXJlcyUyMGFjY2VsJTIwYmFjayUyMGluZGlhfGVufDB8MHx8fDE3NjYxMjQ0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Tech provider for NHS England confirms data breach",
+      "url": "https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/",
+      "description": "A tech provider for NHS England has confirmed a data breach, raising concerns about patient data security.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "published_date": "2025-12-18T08:09:34-08:00",
       "category": "Trending",
       "tags": [
         "data breach",
-        "settlement",
-        "AT&T",
-        "privacy",
-        "legal"
+        "NHS",
+        "security",
+        "healthcare",
+        "UK"
       ],
-      "thumbnail": "https://pixabay.com/get/g41101d7a0cbe67d3ee9f111862f054e0b7ec7d27c4151d2325ffaa23337163018f5b250d82acb7d37756ef13afd641ef0fbdc8e60874bde21c86fdd5c73a9a6a_640.jpg",
-      "source": "CNET"
+      "thumbnail": "https://images.unsplash.com/photo-1720861659231-b3ce9e7c2fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0ZWNoJTIwcHJvdmlkZXIlMjBlbmdsYW5kJTIwY29uZmlybXN8ZW58MHwwfHx8MTc2NjEyNDQ0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
     },
     {
-      "title": "Today's NYT Mini Crossword Answers for Thursday, Dec. 11",
-      "url": "https://www.cnet.com/tech/todays-nyt-mini-crossword-answers-for-thursday-dec-11/",
+      "title": "Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game",
+      "url": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
+      "description": "Peripheral Labs is using self-driving car sensors to create a new immersive sports fan experience.",
+      "author": "Ivan Mehta",
+      "published_date": "2025-12-18T08:00:00-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "sports",
+        "immersive",
+        "sensors",
+        "AI",
+        "autonomous vehicles"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1619834043185-acbe47811e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwZXJpcGhlcmFsJTIwbGFicyUyMHRhcHMlMjBzZWxmfGVufDB8MHx8fDE3NjYxMjQ0NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "No keynotes, no BS — why this year’s best tech talks happened over cocktails at StrictlyVC",
+      "url": "https://techcrunch.com/2025/12/18/no-keynotes-no-bs-why-this-years-best-tech-talks-happened-over-cocktails-at-strictlyvc/",
+      "description": "An article discussing the shift towards more informal tech talks at events like StrictlyVC.",
+      "author": "TechCrunch Events",
+      "published_date": "2025-12-18T08:00:00-08:00",
+      "category": "Trending",
+      "tags": [
+        "Tech Events",
+        "StrictlyVC",
+        "Networking",
+        "Tech Talks",
+        "Startup"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1700700743424-4d31d1d2a1d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxrZXlub3RlcyUyMHllYXIlMjBiZXN0JTIwdGVjaHxlbnwwfDB8fHwxNzY2MTI0NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Rivian rolls out new ‘Universal Hands-Free’ driving feature",
+      "url": "https://techcrunch.com/2025/12/18/rivian-rolls-out-new-universal-hands-free-driving-feature/",
+      "description": "Rivian is rolling out a new \"Universal Hands-Free\" driving feature that allows drivers to control certain vehicle functions without using their hands.",
+      "author": "Sean O'Kane",
+      "published_date": "2025-12-18T07:57:39-08:00",
+      "category": "Technology",
+      "tags": [
+        "Rivian",
+        "Electric Vehicles",
+        "Autonomous Driving",
+        "Technology",
+        "Cars"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1745096268642-8659b927d100?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyaXZpYW4lMjByb2xscyUyMHVuaXZlcnNhbCUyMGhhbmRzfGVufDB8MHx8fDE3NjYxMjQ0NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple opens up its App Store to competition in Japan",
+      "url": "https://techcrunch.com/2025/12/18/apple-opens-up-its-app-store-to-competition-in-japan/",
+      "description": "Apple is allowing third-party app stores in Japan, a move that could challenge its dominance in the market.",
+      "author": "Sarah Perez",
+      "published_date": "2025-12-18T07:02:49-08:00",
+      "category": "Technology",
+      "tags": [
+        "Apple",
+        "App Store",
+        "Japan",
+        "Competition",
+        "Mobile"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618383111633-ada11ce9fe48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMG9wZW5zJTIwc3RvcmUlMjBjb21wZXRpdGlvbnxlbnwwfDB8fHwxNzY2MTI0NDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Luma releases a new AI model that lets users generate a video from a start and end frame",
+      "url": "https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/",
+      "description": "Luma has unveiled a new AI model allowing users to create videos by providing a start and end frame.",
+      "author": "Ivan Mehta",
+      "published_date": "2025-12-18T06:52:58-08:00",
+      "category": "AI & ML",
+      "tags": [
+        "AI",
+        "Video Generation",
+        "Artificial Intelligence",
+        "Luma",
+        "AI Model"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1764745168502-756d36aa3df6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsdW1hJTIwcmVsZWFzZXMlMjBtb2RlbCUyMGxldHN8ZW58MHwwfHx8MTc2NjEyNDQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Making life (and death) better despite regulatory barriers",
+      "url": "https://techcrunch.com/podcast/making-life-and-death-better-despite-regulatory-barriers/",
+      "description": "This TechCrunch podcast discusses how companies are innovating to improve healthcare outcomes despite regulatory hurdles.",
+      "author": "Isabelle Johannessen",
+      "published_date": "2025-12-18T06:35:00-08:00",
+      "category": "Trending",
+      "tags": [
+        "Healthcare",
+        "Innovation",
+        "Regulation",
+        "Tech",
+        "Startups"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1555335034-f805554d6ea2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtYWtpbmclMjBsaWZlJTIwZGVhdGglMjBiZXR0ZXJ8ZW58MHwwfHx8MTc2NjEyNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vibe-coding startup Lovable raises $330M at a $6.6B valuation",
+      "url": "https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/",
+      "description": "Lovable, a vibe-coding startup, has raised $330 million at a $6.6 billion valuation.",
+      "author": "Rebecca Szkutak",
+      "published_date": "2025-12-18T06:26:36-08:00",
+      "category": "Technology",
+      "tags": [
+        "startup",
+        "funding",
+        "valuation",
+        "tech",
+        "Lovable"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1518818608552-195ed130cdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx2aWJlJTIwY29kaW5nJTIwc3RhcnR1cCUyMGxvdmFibGV8ZW58MHwwfHx8MTc2NjEyNDQ3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Today's NYT Mini Crossword Answers for Friday, Dec. 19",
+      "url": "https://www.cnet.com/tech/todays-nyt-mini-crossword-answers-for-friday-dec-19/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": null,
       "published_date": null,
       "category": "Trending",
       "tags": [
-        "crossword",
-        "NYT",
-        "mini crossword",
-        "puzzles",
-        "entertainment"
+        "NYT Mini Crossword",
+        "Crossword",
+        "Puzzle",
+        "Games"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1603290989059-0e17d155543e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0b2RheSUyMG1pbmklMjBjcm9zc3dvcmQlMjBhbnN3ZXJzfGVufDB8MHx8fDE3NjUzNjE0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1603290989059-0e17d155543e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0b2RheSUyMG1pbmklMjBjcm9zc3dvcmQlMjBhbnN3ZXJzfGVufDB8MHx8fDE3NjYxMjQ0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
-      "title": "Today's Wordle Hints, Answer and Help for Dec. 11, #1636",
-      "url": "https://www.cnet.com/tech/todays-wordle-hints-answer-and-help-for-dec-11-1636/",
+      "title": "How to Fix Photo Distractions Using Apple's AI-Based Clean Up Tool",
+      "url": "https://www.cnet.com/tech/how-to-create-distraction-free-holiday-memories-with-apples-photo-clean-up-tool/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Apple",
+        "AI",
+        "Photo Editing",
+        "Clean Up",
+        "Holiday Memories"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1632582593957-e28f748ba619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwaG90byUyMGRpc3RyYWN0aW9ucyUyMHVzaW5nJTIwYXBwbGV8ZW58MHwwfHx8MTc2NjEyNDUwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "Thursday Night Football: How to Watch Rams vs. Seahawks Tonight for Free",
+      "url": "https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-rams-vs-seahawks-tonight-for-free/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "NFL",
+        "Thursday Night Football",
+        "Sports",
+        "Free Streaming",
+        "Rams"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1730652128205-f5e98e542786?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aHVyc2RheSUyMG5pZ2h0JTIwZm9vdGJhbGwlMjB3YXRjaHxlbnwwfDB8fHwxNzY2MTI0NTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "Apple Plans OLED iMac Upgrade, but the Wait Could Be Long",
+      "url": "https://www.cnet.com/tech/computing/apple-plans-oled-imac-upgrade-in-2027-2028-brighter-screen/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Apple",
+        "OLED",
+        "iMac",
+        "Display",
+        "Technology"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1744215328149-15d1a41339cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMHBsYW5zJTIwb2xlZCUyMGltYWN8ZW58MHwwfHx8MTc2NjEyNDUwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "Google Introduces New Android Features in Pixel Beta Update",
+      "url": "https://www.cnet.com/tech/google-introduces-new-android-features-in-pixel-beta-update/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Android",
+        "Google",
+        "Pixel",
+        "Features",
+        "Updates"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1580860749755-f49eb5509d55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBpbnRyb2R1Y2VzJTIwYW5kcm9pZCUyMGZlYXR1cmVzfGVufDB8MHx8fDE3NjYxMjQ1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "YouTube Boots 2 Channels for Posting Fake AI Film Trailers",
+      "url": "https://www.cnet.com/tech/services-and-software/youtube-boots-two-channels-for-posting-fake-ai-film-trailers/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "AI & ML",
+      "tags": [
+        "YouTube",
+        "AI",
+        "Film Trailers",
+        "Artificial Intelligence",
+        "Fake Content"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1649180543887-158357417159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx5b3V0dWJlJTIwYm9vdHMlMjBjaGFubmVscyUyMHBvc3Rpbmd8ZW58MHwwfHx8MTc2NjEyNDUxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "I Saw the Sequel to The Witness, and Its World-Merging Puzzles Look Masterful",
+      "url": "https://www.cnet.com/tech/gaming/i-saw-the-sequel-to-the-witness-and-its-world-merging-puzzles-look-masterful/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "The Witness",
+        "Puzzles",
+        "Gaming",
+        "Sequel",
+        "Adventure Games"
+      ],
+      "thumbnail": "https://pixabay.com/get/g7b89bc6bd1e6afdaefe73a39639d6c67ef494da268044900bda7593444a9da6e031c5b845b94e601cadf35904ebe4262fc213c9a156666413bfc459a875789eb_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "New Study Reveals Wordle's Top 10 Toughest Words of 2025",
+      "url": "https://www.cnet.com/tech/new-study-reveals-wordles-top-10-toughest-words-of-2025/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Wordle",
+        "Puzzle",
+        "Games",
+        "Brain Teasers",
+        "Online Games"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1695650424039-d712f5c0b37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzdHVkeSUyMHJldmVhbHMlMjB3b3JkbGUlMjB0b3VnaGVzdHxlbnwwfDB8fHwxNzY2MTI0NTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "I Didn’t Expect This All-in-One Kitchen Device to Win Me Over, and Now It’s My Go-To Gift",
+      "url": "https://www.cnet.com/deals/i-didnt-expect-this-all-in-one-kitchen-device-to-win-me-over-and-now-its-my-go-to-gift/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "deals",
+        "kitchen appliances",
+        "gifts",
+        "home essentials",
+        "shopping"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1710498174361-6f2a571e72e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaWRuJTIwZXhwZWN0JTIwa2l0Y2hlbiUyMGRldmljZXxlbnwwfDB8fHwxNzY2MTI0NTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "These Are 9 of the Best Things to Use ChatGPT For",
+      "url": "https://www.cnet.com/tech/services-and-software/9-of-the-best-things-to-use-chatgpt-for/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "AI & ML",
+      "tags": [
+        "ChatGPT",
+        "AI",
+        "Artificial Intelligence",
+        "Chatbots",
+        "OpenAI"
+      ],
+      "thumbnail": "https://pixabay.com/get/g2c7b87c53223c4c1e86acd45ce20c8fac6bf4eddb470727fb8539fa5c357ea3be818974bcf307f343d68b725502c889fa42867b6edcbce45f3f41d0187346cbf_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Today's NYT Connections Hints, Answers and Help for Dec. 19, #922",
+      "url": "https://www.cnet.com/tech/todays-nyt-connections-hints-answers-and-help-for-dec-19-922/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": null,
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Connections",
+        "NYT Games",
+        "Puzzle",
+        "Hints",
+        "Answers"
+      ],
+      "thumbnail": "https://pixabay.com/get/ga9b9dc5b381a5d005c1f56f5ab84c5274add19ba68438e7f5ed3bb8cf17770c7058d2f4705d9a7edba63ccf7236f1f1a_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Today's Wordle Hints, Answer and Help for Dec. 19, #1644",
+      "url": "https://www.cnet.com/tech/todays-wordle-hints-answer-and-help-for-dec-19-1644/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": null,
       "published_date": null,
@@ -765,74 +886,7 @@
         "Daily Challenge",
         "Hints"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1646636057262-59affd071d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0b2RheSUyMHdvcmRsZSUyMGhpbnRzJTIwYW5zd2VyfGVufDB8MHx8fDE3NjUzNjE0NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
-    },
-    {
-      "title": "Today's NYT Connections: Sports Edition Hints and Answers for Dec. 11, #444",
-      "url": "https://www.cnet.com/tech/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-11-444/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "NYT Connections",
-        "Puzzle Games",
-        "Word Games",
-        "Daily Games"
-      ],
-      "thumbnail": "https://pixabay.com/get/g141eae1467cc2f7f2222efce0e50b52ccb3e1593885cf8b8eaedb4b2f25ca5aa50fc3514db83b6dd18f2e7d53ec2d54ed227a16f25815041eb8125525d70df2d_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Study Finds Most Teens Use YouTube, Instagram and TikTok Daily",
-      "url": "https://www.cnet.com/news/study-finds-most-teens-use-youtube-instagram-and-tiktok-daily/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "teens",
-        "social media",
-        "YouTube",
-        "Instagram",
-        "TikTok"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1752650143532-71b9a6bae026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzdHVkeSUyMGZpbmRzJTIwdGVlbnMlMjB5b3V0dWJlfGVufDB8MHx8fDE3NjU0NDU4NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
-    },
-    {
-      "title": "Think Black Friday Spam Was Out of Control? You Have No Idea",
-      "url": "https://www.cnet.com/tech/think-black-friday-spam-was-out-of-control-you-have-no-idea/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Black Friday",
-        "Spam",
-        "Shopping",
-        "Deals",
-        "Cybersecurity"
-      ],
-      "thumbnail": "https://pixabay.com/get/g3548980d436a58d50fe22e568908167fe41c0fc88d4326fb85b5ebf0fc3a3804a4ad84f43ed7c049aaec7a6e2b6dd9aeeed029d3c9458f164e3c30a497643bb2_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Apple's $230 iPhone Pocket Has a Surprisingly Humble Origin Story",
-      "url": "https://www.cnet.com/tech/mobile/apples-iphone-pocket-is-a-230-gadget-mankini-we-tried-it-out-to-size-it-up/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Apple",
-        "iPhone",
-        "Gadget",
-        "Deal",
-        "Shopping"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1486746805218-28ede09ffa00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGlwaG9uZSUyMHBvY2tldCUyMHN1cnByaXNpbmdseXxlbnwwfDB8fHwxNzY1NDQ1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/ge7d23fe4b3720dba766a4aa71368975bbf1152ec12d73550277ceddf9193f8aa483885365dbc931f827aa4e5cbd6faf2_640.jpg",
       "source": "CNET"
     }
   ]
