@@ -73,12 +73,24 @@ class NewsScraperWithAI:
                     
                     # Try to find description/excerpt in the container
                     # Look for paragraph elements that might be descriptions
-                    for p in container.find_all('p', limit=5):
+                    description_found = False
+                    for p in container.find_all('p', limit=10):
                         text = p.get_text(strip=True)
                         # Check if it's a substantial description (not just a link or short text)
-                        if len(text) > 30 and text != article_data['title']:
-                            article_data['description'] = text
-                            break
+                        if len(text) > 30 and text != article_data['title'] and not description_found:
+                            # Avoid using overly long paragraphs that are likely full articles
+                            if len(text) < 500:
+                                article_data['description'] = text
+                                description_found = True
+                                break
+                    
+                    # If no description found, try parent containers
+                    if not description_found and container.parent:
+                        for p in container.parent.find_all('p', limit=5):
+                            text = p.get_text(strip=True)
+                            if len(text) > 30 and len(text) < 500 and text != article_data['title']:
+                                article_data['description'] = text
+                                break
                     
                     # Try to find author
                     # Look for common author patterns
@@ -146,13 +158,20 @@ class NewsScraperWithAI:
                 'source': 'TechCrunch'
             }
             
-            # Find description/excerpt
-            desc_elem = article_elem.find('p', class_=lambda x: x and ('excerpt' in str(x) or 'summary' in str(x)))
+            # Find description/excerpt - check multiple strategies
+            desc_elem = article_elem.find('p', class_=lambda x: x and ('excerpt' in str(x) or 'summary' in str(x) or 'subtitle' in str(x)))
+            
             if not desc_elem:
-                desc_elem = article_elem.find('p')
-            if desc_elem:
+                # Try to find first substantial paragraph
+                for p in article_elem.find_all('p', limit=5):
+                    desc_text = p.get_text(strip=True)
+                    if len(desc_text) > 30 and len(desc_text) < 500:
+                        article_data['description'] = desc_text
+                        desc_elem = True  # Mark as found
+                        break
+            elif desc_elem:
                 desc_text = desc_elem.get_text(strip=True)
-                if len(desc_text) > 30:
+                if len(desc_text) > 30 and len(desc_text) < 500:
                     article_data['description'] = desc_text
             
             # Find author
@@ -207,17 +226,21 @@ class NewsScraperWithAI:
                 'source': 'CNET'
             }
             
-            # Find description in parent container
+            # Find description in parent container or article wrapper
             container = h3.parent
-            for _ in range(5):
-                if not container:
+            description_found = False
+            
+            for _ in range(7):
+                if not container or description_found:
                     break
                 
-                desc_elem = container.find('p')
-                if desc_elem:
-                    desc_text = desc_elem.get_text(strip=True)
-                    if len(desc_text) > 30 and desc_text != article_data['title']:
+                # Search for all paragraphs in this container
+                for p in container.find_all('p', limit=5):
+                    desc_text = p.get_text(strip=True)
+                    # Look for substantial descriptions, avoiding titles and short text
+                    if len(desc_text) > 30 and len(desc_text) < 600 and desc_text != article_data['title']:
                         article_data['description'] = desc_text
+                        description_found = True
                         break
                 
                 container = container.parent
@@ -284,7 +307,7 @@ Return ONLY valid JSON, no explanation or markdown formatting."""
                 # Extract the response content
                 structured_content = response['message']['content']
                 
-                # Try to parse as JSON
+                # Try to parse as JSON with robust extraction
                 try:
                     # Remove markdown code blocks if present
                     if '```json' in structured_content:
@@ -292,7 +315,28 @@ Return ONLY valid JSON, no explanation or markdown formatting."""
                     elif '```' in structured_content:
                         structured_content = structured_content.split('```')[1].split('```')[0].strip()
                     
+                    # Extract JSON object from response - find first { and last }
+                    json_start = structured_content.find('{')
+                    json_end = structured_content.rfind('}')
+                    
+                    if json_start != -1 and json_end != -1 and json_start < json_end:
+                        structured_content = structured_content[json_start:json_end+1].strip()
+                    
                     structured_article = json.loads(structured_content)
+                    
+                    # Validate required fields, use original data as fallback
+                    if not structured_article.get('title'):
+                        structured_article['title'] = article.get('title', 'Untitled')
+                    if not structured_article.get('url'):
+                        structured_article['url'] = article.get('url', '')
+                    if not structured_article.get('description'):
+                        structured_article['description'] = article.get('description', '')
+                    if not structured_article.get('author'):
+                        structured_article['author'] = article.get('author', '')
+                    if not structured_article.get('published_date'):
+                        structured_article['published_date'] = article.get('published_date', None)
+                    if not structured_article.get('category'):
+                        structured_article['category'] = 'Trending'
                     
                     # Fetch thumbnail for the article
                     print(f"  → Fetching thumbnail...")
@@ -309,10 +353,28 @@ Return ONLY valid JSON, no explanation or markdown formatting."""
                         print(f"  ✗ No thumbnail found")
                     
                     structured_articles.append(structured_article)
-                except json.JSONDecodeError:
-                    print(f"  Warning: Could not parse Ollama response for article {idx}, using original data")
-                    article['thumbnail'] = None
-                    structured_articles.append(article)
+                except (json.JSONDecodeError, ValueError) as e:
+                    print(f"  Warning: Could not parse Ollama response for article {idx}: {str(e)[:50]}")
+                    # Use original data with all available fields
+                    enriched_article = {
+                        'title': article.get('title', 'Untitled'),
+                        'url': article.get('url', ''),
+                        'description': article.get('description', ''),
+                        'author': article.get('author', ''),
+                        'published_date': article.get('published_date', None),
+                        'category': 'Trending',
+                        'tags': article.get('tags', []),
+                        'source': article.get('source', self.source_name)
+                    }
+                    
+                    # Fetch thumbnail
+                    thumbnail = get_article_thumbnail(
+                        enriched_article.get('title', ''),
+                        enriched_article.get('category')
+                    )
+                    enriched_article['thumbnail'] = thumbnail
+                    
+                    structured_articles.append(enriched_article)
                 
             except Exception as e:
                 print(f"  Error processing with Ollama: {e}")

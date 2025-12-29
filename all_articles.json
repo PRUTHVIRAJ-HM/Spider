@@ -4,7 +4,7 @@
     "TechCrunch",
     "CNET"
   ],
-  "scraped_at": "2025-12-29T23:23:42.917116",
+  "scraped_at": "2025-12-29T23:36:08.286533",
   "total_articles": 52,
   "articles": [
     {
@@ -14,40 +14,33 @@
       "author": "Liz Lopatto",
       "published_date": "2025-12-29T13:00:00+00:00",
       "category": "Entertainment",
-      "tags": [
-        "The Verge",
-        "Liz Lopatto",
-        "Senior Internet Typist"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1756822084498-e76c94f0f700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx2ZXJnZSUyMHNlbmlvciUyMGludGVybmV0JTIwdHlwaXN0fGVufDB8MHx8fDE3NjcwMzA1MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
       "title": "How to tweak your online platform algorithms",
       "url": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms",
-      "description": "",
+      "description": "Learn how to customize the algorithms used by online platforms to get better recommendations.",
       "author": "",
       "published_date": "2025-12-29T16:30:00+00:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "algorithm",
+        "recommendation",
+        "online-platforms"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1670761301226-675b7cebd5b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0d2VhayUyMHlvdXIlMjBvbmxpbmUlMjBwbGF0Zm9ybXxlbnwwfDB8fHwxNzY3MDMwNTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
       "title": "Windows on Arm had another good year",
       "url": "https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia",
-      "description": "The latest Windows on Arm laptops have seen strong sales, thanks to the support of major chipmakers like Intel and AMD.",
-      "author": null,
+      "description": "",
+      "author": "",
       "published_date": "2025-12-29T13:00:00+00:00",
       "category": "Technology",
-      "tags": [
-        "Windows on Arm",
-        "laptops",
-        "Qualcomm",
-        "Intel",
-        "AMD",
-        "NVIDIA"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1603804972248-3f2b79ddfbf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx3aW5kb3dzJTIwYW5vdGhlciUyMGdvb2QlMjB5ZWFyfGVufDB8MHx8fDE3NjcwMzA1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
@@ -65,16 +58,12 @@
     {
       "title": "The Verge’s 2025 in review",
       "url": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
-      "description": "A look back at the biggest stories of 2025, from games to streaming and politics.",
+      "description": "",
       "author": "",
       "published_date": "2025-12-17T14:00:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "games",
-        "streaming",
-        "politics"
-      ],
-      "thumbnail": "https://pixabay.com/get/g0f0116b3f1497614fd135beeb3bd000c2daa7b689ccd0396eb0f0ef4a2f9f6dcb0b054a604b01e5b9cc60b0e563ec90fecc9e7c6ad3f78aaec9248123e8f389d_640.jpg",
+      "category": "Technology",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g3de8de23c6f96e600e7ce9c95c57fdbbb0ff6f84752ee09d2b83f875e63766d2f1ca3a4c9ec54154af7d3f7446895a1dfa07cad446fa97af02cd5978c26e88f9_640.jpg",
       "source": "The Verge"
     },
     {
@@ -89,17 +78,19 @@
       "source": "The Verge"
     },
     {
-      "title": "Turn your PC into a Super Nintendo with Epilogue’s new USB dock",
-      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
-      "description": "A tiny USB dock can turn any PC into a Super Nintendo console",
-      "author": "no author given",
-      "published_date": "2025-12-29T17:22:05+00:00",
       "category": "Technology",
+      "description": "Turn your PC into a Super Nintendo with Epilogue’s new USB dock",
+      "author": "",
+      "published_date": "2025-12-29T17:22:05+00:00",
       "tags": [
         "Super Nintendo",
+        "Epilogue",
         "USB dock",
-        "PC gaming"
+        "PC gaming",
+        "Retro gaming"
       ],
+      "title": "Turn your PC into a Super Nintendo with Epilogue’s new USB dock",
+      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
       "thumbnail": "https://images.unsplash.com/photo-1633466876697-1eb9c820028d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0dXJuJTIweW91ciUyMHN1cGVyJTIwbmludGVuZG98ZW58MHwwfHx8MTc2NzAzMDU4OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
@@ -107,30 +98,30 @@
       "title": "MAGA populist counterparts",
       "url": "https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans",
       "description": "Several polls from Gallup and Pewreveal that voters overwhelmingly view the rise of AI as a net negative:",
-      "author": null,
+      "author": "",
       "published_date": "2025-12-29T17:11:56+00:00",
       "category": "AI & ML",
-      "tags": [],
+      "tags": [
+        "ai-moratorium",
+        "midterm-elections",
+        "republicans"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1583225230520-78fe179d5c87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtYWdhJTIwcG9wdWxpc3QlMjBjb3VudGVycGFydHN8ZW58MHwwfHx8MTc2NzAzMDU5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
       "title": "Beats’ new Powerbeats Fit earbuds are down to $180",
       "url": "https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal",
-      "description": "The latest deals on tech gear this week include the Beats Powerbeats Fit, Apple Pencil, and more.",
-      "author": null,
+      "description": "",
+      "author": "",
       "published_date": "2025-12-29T15:53:03+00:00",
       "category": "Technology",
-      "tags": [
-        "Beats",
-        "Powerbeats Fit",
-        "earbuds"
-      ],
-      "thumbnail": "https://pixabay.com/get/g1f6dae2a355a707f7168fadd42391033bfcad59027dc1d6f53f74b1c4ee14b10f2e594c747f8dd52e46b4e447f5ed69863a4ec65ea1da53fb57c8eb4e990ae84_640.jpg",
+      "tags": [],
+      "thumbnail": "https://pixabay.com/get/g33240c61352a3b176b41ff71e02ed3ecc1b29400994a2963476b01ada44092ab93b37dce825acd8d1e6a756c4df3fd779d641fc1f9f2a58e6ef8843e4078adaf_640.jpg",
       "source": "The Verge"
     },
     {
-      "title": "Watch Marques Brownlee Get Very, Very, Very Small",
+      "title": "Watch Marques Brownlee Get Very Very Very Small",
       "url": "https://www.theverge.com/tech/850739/watch-marques-brownlee-get-very-very-very-small",
       "description": "In case you missed it over the holiday weekend, our friends over at MKBHD put together a cool explainer on transistors, semiconductors, Moore’s Law, and how remarkably tiny our electronics have become. It’s all useful info, but the production quality is just *chef’s kiss.* (The Epic Spaceman videoMarques shouts out at the end is also very much worth a watch.)",
       "author": "",
@@ -139,9 +130,11 @@
       "tags": [
         "transistors",
         "semiconductors",
-        "Moore's Law"
+        "Moore's Law",
+        "electronics",
+        "tiny electronics"
       ],
-      "thumbnail": "https://pixabay.com/get/g3dd43761661baaf9fe199f4c4f712a2f63aef32198f2cdb92b67336f80268a18b666010ce2a118eeb29414ff9ba87b1f_640.jpg",
+      "thumbnail": "https://pixabay.com/get/gd59609502da9dd0747b5b6d29c46aaab23b8ec3ad7549fc659609be0266561645f514077d8c947c6c253c1fc2d44604f_640.jpg",
       "source": "The Verge"
     },
     {
@@ -151,12 +144,16 @@
       "author": "",
       "published_date": "2025-12-29T14:50:20+00:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "camera",
+        "focal lens",
+        "experimental technology"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1614582785159-e476296cc2c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxleHBlcmltZW50YWwlMjBjYW1lcmElMjBmb2N1cyUyMGV2ZXJ5dGhpbmd8ZW58MHwwfHx8MTc2NzAzMDYzNHww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Adidas Minecraft Sneakers Now Available",
+      "title": "Adidas releases new Minecraft sneakers for $40-$95",
       "url": "https://www.theverge.com/news/850673/adidas-minecraft-sneakers-samba-xlg-campus-superstar-ii-handball-spezial-adilette",
       "description": "The company has added five sneakers to itsMinecraftcollection that launched alongside the movie, earlier this year. The new additions includeMinecraftthemed versions of the Adidas Samba XLG, Campus 00s, Superstar II, Handball Spezial, and Adilette slides which areall available nowin youth sizes for $40 to $95.",
       "author": "",
@@ -165,11 +162,9 @@
       "tags": [
         "Adidas",
         "Minecraft",
-        "Gaming",
-        "Sneakers",
-        "Fashion"
+        "Sneakers"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1608550742884-68021295cd82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhZGlkYXMlMjBtaW5lY3JhZnQlMjBzbmVha2VycyUyMGF2YWlsYWJsZXxlbnwwfDB8fHwxNzY3MDMwNjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1629955282615-8e86ac499410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhZGlkYXMlMjByZWxlYXNlcyUyMG1pbmVjcmFmdCUyMHNuZWFrZXJzfGVufDB8MHx8fDE3NjcwMzE0NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
@@ -180,21 +175,26 @@
       "published_date": "2025-12-28T13:00:00",
       "category": "Technology",
       "tags": [
-        "PS5 games",
-        "Best of 2025",
-        "Gaming"
+        "PS5",
+        "Games",
+        "2025"
       ],
       "thumbnail": "https://images.unsplash.com/photo-1604764237181-6b22cb04d2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwZ2FtZXN8ZW58MHwwfHx8MTc2NzAzMDY1NXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Framework announces another memory price hike – and it likely won’t be its last",
+      "title": "Framework announces another memory price hike — and it likely won’t be its last",
       "url": "https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes",
-      "description": "",
-      "author": null,
-      "published_date": "2025-12-26T18:13:03+00:00",
+      "description": "Framework, a startup known for selling RAM modules to consumers at below-cost prices, is raising the price of its DDR5 memory modules.",
+      "author": "",
+      "published_date": "2025-12-26T18:13:03",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "Framework",
+        "DDR5",
+        "RAM",
+        "Price Hike"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1622228872091-94cddc5dc467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmcmFtZXdvcmslMjBhbm5vdW5jZXMlMjBhbm90aGVyJTIwbWVtb3J5fGVufDB8MHx8fDE3NjcwMzA2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
@@ -203,9 +203,13 @@
       "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
       "description": "",
       "author": "",
-      "published_date": "2025-12-28T21:42:15",
+      "published_date": "2025-12-28T21:42:15+00:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "gaming",
+        "monitors",
+        "AI upscaling"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1661261400335-7dc71eb2b5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXMlMjB1bHRyYWdlYXIlMjBnYW1pbmclMjBtb25pdG9yc3xlbnwwfDB8fHwxNzY3MDMwNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
@@ -221,32 +225,29 @@
       "source": "The Verge"
     },
     {
-      "title": "Ubisoft shuts down ‖Rainbow Six Siege’ servers following hack",
+      "title": "Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack",
       "url": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
-      "description": "",
-      "author": "",
+      "description": "The popular tactical shooter was taken offline in response to a security breach.",
+      "author": "null",
       "published_date": "2025-12-28T16:42:07",
-      "category": "Technology",
+      "category": "Trending",
       "tags": [
-        "Rainbow Six Siege",
         "Ubisoft",
-        "hack"
+        "Rainbow Six Siege",
+        "hack",
+        "gaming"
       ],
-      "thumbnail": "https://pixabay.com/get/gbf1bc5ab438fa2137295c755d6f2dfddf9efc86fc9e9198ef5225cd393e9db693a9bae89d3a10c2b3327fe140e616029f2c9ba3415820c77b719fe44e1954fae_640.jpg",
+      "thumbnail": "https://pixabay.com/get/gc125229ce389e6c81b538e28775e1118cded6ba48706da43c23ce1ac277452a1f0854bd9f5ecb53eef0c6ff6765a894679a2aa5b2ef7da939e9b356ec4089b3c_640.jpg",
       "source": "The Verge"
     },
     {
       "title": "The best shows to watch on HBO Max from 2025",
       "url": "https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025",
-      "description": null,
-      "author": null,
+      "description": "",
+      "author": "",
       "published_date": "2025-12-29T13:30:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "HBO Max",
-        "Best Shows",
-        "TV"
-      ],
+      "category": "Technology",
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1586606806753-4be049463bf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwc2hvd3MlMjB3YXRjaHxlbnwwfDB8fHwxNzY3MDMwNzEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
@@ -257,37 +258,37 @@
       "author": "",
       "published_date": "2025-12-29T13:23:33+00:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "Xiaomi",
+        "camera zoom",
+        "Leica edition"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1619410766515-6263877c7bfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx4aWFvbWklMjB1bHRyYSUyMGxlaWNhJTIwZWRpdGlvbnxlbnwwfDB8fHwxNzY3MDMwNzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "second price hike",
+      "title": "Second Price Hike",
       "url": "https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes#comments",
-      "description": "As Framework announces itssecond price hiketied torising RAM costs, it’s worth taking a moment to give Apple its dues — it was hiking up memory prices long before it was cool.",
-      "author": null,
+      "description": "As Framework announces its second price hike tied to rising RAM costs, it’s worth taking a moment to give Apple its dues — it was hiking up memory prices long before it was cool.",
+      "author": "",
       "published_date": "2025-12-29T12:00:00+00:00",
       "category": "Technology",
       "tags": [
-        "DDR5",
-        "RAM price hikes",
-        "Apple"
+        "Framework",
+        "RAM",
+        "DDR5"
       ],
-      "thumbnail": "https://pixabay.com/get/g10c4e8056e6a1998e4c7d67d36d4ad806aeee2fce7c86d18e6658948b49163531fb3942d0d68bbb6b6983557369d2a80_640.jpg",
+      "thumbnail": "https://pixabay.com/get/g7deb92cfb544c7f59e4ff919892a1e8bc93439a334d7da04637914f70298b26a2e92ff073bc904049d82b0bab623a608_640.jpg",
       "source": "The Verge"
     },
     {
       "title": "Why the electrical grid needs more software",
       "url": "https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/",
-      "description": "The electrical grid is a complex system that requires sophisticated technology to manage energy distribution. Software plays a critical role in optimizing power grid operations and ensuring reliability.",
+      "description": "",
       "author": "Tim De Chant",
       "published_date": "2025-12-29T09:00:00-08:00",
       "category": "Technology",
-      "tags": [
-        "software",
-        "electrical grid",
-        "power distribution"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1596480330945-12a5380b9c59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxlbGVjdHJpY2FsJTIwZ3JpZCUyMG5lZWRzJTIwc29mdHdhcmV8ZW58MHwwfHx8MTc2NzAzMDcyNnww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
@@ -316,20 +317,20 @@
     {
       "title": "Samsung plans to bring Google Photos to its TVs in 2026",
       "url": "https://techcrunch.com/2025/12/29/samsung-plans-to-bring-google-photos-to-its-tvs-in-2026/",
-      "description": "Google Photos is coming to Samsung TVs in 2026",
+      "description": "",
       "author": "Ivan Mehta",
       "published_date": "2025-12-29T06:06:23-08:00",
       "category": "Technology",
       "tags": [
         "google photos",
         "samsung tvs",
-        "artificial intelligence"
+        "smart home"
       ],
-      "thumbnail": "https://pixabay.com/get/g1aa12d693dcbbbc06163c45f8da37b67a895daec8e62a9f48ee543b4fef589f3f0bae4d16a7f037b2994c5189345783d98f4b4a84388a5714ea0e5ecbc23e8fb_640.jpg",
+      "thumbnail": "https://pixabay.com/get/gbbc6281bcee22530587383371ac3dbe536c75542eb08d12b39a09500bec8c0327c69f6d31473b25c40ba2c117043e5dc0a72fb60c72d19dc10130b6aa1adbf23_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "title": "VCs predict strong enterprise AI adoption next year — again",
+      "title": "VCs predict strong enterprise AI adoption next year – again",
       "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
       "description": "",
       "author": "Rebecca Szkutak",
@@ -342,65 +343,59 @@
     {
       "title": "You’ve been targeted by government spyware. Now what?",
       "url": "https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/",
-      "description": "Hackers are using the same malware that targeted Ukraine to infiltrate the US, researchers say",
+      "description": "",
       "author": "Lorenzo Franceschi-Bicchierai",
       "published_date": "2025-12-29T02:00:00-08:00",
       "category": "Technology",
-      "tags": [
-        "spyware",
-        "government hacking",
-        "malware"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1617772718763-f4ddab89311b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0YXJnZXRlZCUyMGdvdmVybm1lbnQlMjBzcHl3YXJlfGVufDB8MHx8fDE3NjcwMzA3NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "url": "https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/",
       "title": "Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos",
-      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/",
+      "description": "",
       "author": "Connie Loizos",
       "published_date": "2025-12-28T18:20:00-08:00",
-      "thumbnail": null
+      "category": "Trending",
+      "tags": [],
+      "source": "TechCrunch",
+      "thumbnail": "https://images.unsplash.com/photo-1578096241494-6cc439ab21ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzYXVyb24lMjBoaWdoJTIwaG9tZSUyMHNlY3VyaXR5fGVufDB8MHx8fDE3NjcwMzE1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
     },
     {
       "title": "Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok",
       "url": "https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/",
-      "description": "A driver who was allegedly livestreaming on TikTok when he struck and killed a pedestrian has been charged with murder.",
+      "description": "",
       "author": "Anthony Ha",
       "published_date": "2025-12-28T13:52:52-08:00",
       "category": "Trending",
-      "tags": [
-        "livestreaming",
-        "pedestrian killed",
-        "police charge",
-        "tiktok"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1707081636696-75c28e7595a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwb2xpY2UlMjBjaGFyZ2UlMjBkcml2ZXIlMjBhbGxlZ2VkbHl8ZW58MHwwfHx8MTc2NzAzMDc0OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
       "title": "You may soon be able to change your Gmail address",
       "url": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/",
-      "description": "",
+      "description": "Google is expanding Gmail’s address feature in a move that could make it easier for users to switch email providers.",
       "author": "Anthony Ha",
       "published_date": "2025-12-28T13:29:59-08:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "Gmail",
+        "Google",
+        "email address change"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzb29uJTIwYWJsZSUyMGNoYW5nZSUyMHlvdXJ8ZW58MHwwfHx8MTc2NzAzMDc1MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
       "title": "A guide to choosing the right Apple Watch",
       "url": "https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/",
-      "description": "The Apple Watch SE is a great alternative to the flagship Series 8 and Series 7 models, but is it worth the price?",
+      "description": "",
       "author": "Aisha Malik",
       "published_date": "2025-12-28T12:00:00-08:00",
       "category": "Technology",
-      "tags": [
-        "Apple Watch SE",
-        "Smartwatch",
-        "Tech Deal"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1598179601656-f102bd7cb719?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxndWlkZSUyMGNob29zaW5nJTIwcmlnaHQlMjBhcHBsZXxlbnwwfDB8fHwxNzY3MDMwNzU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
@@ -432,23 +427,23 @@
       "description": "",
       "author": "Marina Temkin",
       "published_date": "2025-12-28T08:00:00-08:00",
-      "category": "Trending",
-      "tags": [
-        "health",
-        "wellness",
-        "startups"
-      ],
+      "category": "Health & Wellness",
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1695462131822-368776114494?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjB3ZWxsbmVzcyUyMHN0YXJ0dXBzJTIwZGlzcnVwdHxlbnwwfDB8fHwxNzY3MDMwNzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
       "title": "The Google Pixel Watch 4 made me like smartwatches again",
       "url": "https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/",
-      "description": "",
+      "description": "The Google Pixel Watch 4 made me like smartwatches again",
       "author": "Ivan Mehta",
       "published_date": "2025-12-28T08:00:00-08:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "Google Pixel Watch",
+        "Smartwatch",
+        "Wearable Tech"
+      ],
       "thumbnail": "https://images.unsplash.com/photo-1736269499428-204a6daf9bf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBwaXhlbCUyMHdhdGNoJTIwbWFkZXxlbnwwfDB8fHwxNzY3MDMwNzY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
@@ -461,9 +456,9 @@
       "category": "AI & ML",
       "tags": [
         "OpenAI",
-        "Head of Preparedness"
+        "Preparedness"
       ],
-      "thumbnail": "https://pixabay.com/get/g8972521a88eae61dd8301262c3cb4a2d96a57e9c1c4f2ece50e3423524f135db46dd9153928ea84f1f32cf1dd8b4f0072d4473d0186bd4fa05d5abd28f474f62_640.jpg",
+      "thumbnail": "https://pixabay.com/get/g8cd5393bdb09fdc393d4c2c0cd28e04a05f8f51e112b9e143176d142eb9045c472cfcc320ecde08e59f7269620e13cf329a029ab461b25a73084e919b8527198_640.jpg",
       "source": "TechCrunch"
     },
     {
@@ -473,31 +468,37 @@
       "author": "Marina Temkin",
       "published_date": "2025-12-28T07:00:00-08:00",
       "category": "Technology",
-      "tags": [],
+      "tags": [
+        "fintech",
+        "real estate",
+        "proptech"
+      ],
       "thumbnail": "https://images.unsplash.com/flagged/photo-1558954157-aa76c0d246c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmaW50ZWNoJTIwcmVhbCUyMGVzdGF0ZSUyMHByb3B0ZWNofGVufDB8MHx8fDE3NjcwMzA3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "url": "https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/",
       "title": "Best Apple Watch apps for boosting your productivity",
-      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/",
+      "description": "Discover the top Apple Watch apps to help you boost your productivity and stay organized.",
       "author": "Aisha Malik",
       "published_date": "2025-12-27T18:00:00-08:00",
-      "thumbnail": null
+      "category": "Technology",
+      "tags": [
+        "Apple Watch",
+        "Productivity",
+        "Apps"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1626793167849-9d7c65d0932d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwYXBwbGUlMjB3YXRjaCUyMGFwcHN8ZW58MHwwfHx8MTc2NzAzMTUyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
     },
     {
       "title": "India startup funding hits $11B in 2025 as investors grow more selective",
       "url": "https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/",
-      "description": "India’s startup ecosystem is seeing a slowdown, but the total investment in startups has still grown to $11 billion in 2025. That’s according to data from Crunchbase, which shows that investors are growing more selective in their investments.",
+      "description": "",
       "author": "Jagmeet Singh",
-      "published_date": "2025-12/27T17:00:00-08:00",
+      "published_date": "2025-12-27T17:00:00-08:00",
       "category": "Technology",
-      "tags": [
-        "startup funding",
-        "India",
-        "investors",
-        "Crunchbase"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1667849521371-e78b4d603076?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxpbmRpYSUyMHN0YXJ0dXAlMjBmdW5kaW5nJTIwaGl0c3xlbnwwfDB8fHwxNzY3MDMwNzc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
@@ -508,60 +509,61 @@
       "author": "Anthony Ha",
       "published_date": "2025-12-27T12:39:07-08:00",
       "category": "Trending",
-      "tags": [],
-      "thumbnail": "https://pixabay.com/get/g0656ae643b38bec8fea7822e8ecccc447c3b316203aca1448be0d4da78ed8dac9a771f518402055195adfe869cd24bb110ce2339b42e1be72a10f12175f909bb_640.jpg",
+      "tags": [
+        "FaZe Clan",
+        "influencers depart",
+        "uncertain future"
+      ],
+      "thumbnail": "https://pixabay.com/get/gc9ed4874509bff0afb77c7dc253f2fd1c221d3a4a4189a164632583e29f143e489d8ae5b148393ab0e81e50b11b5198c80c404f0ff7c623dfda93718cde4117d_640.jpg",
       "source": "TechCrunch"
     },
     {
       "title": "Trump administration seeks to deport hate speech researcher previously sued by X",
       "url": "https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/",
-      "description": "The Trump administration is targeting a researcher who has been sued for his criticism of tech companies.",
+      "description": "The Trump administration is seeking to deport a hate speech researcher who was previously sued by X.",
       "author": "Anthony Ha",
       "published_date": "2025-12-27T12:13:32-08:00",
       "category": "Trending",
       "tags": [
         "Trump administration",
+        "hate speech",
         "deportation",
-        "hate speech researcher"
+        "researcher"
       ],
       "thumbnail": "https://images.unsplash.com/photo-1687200692898-0df7bbd6a135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0cnVtcCUyMGFkbWluaXN0cmF0aW9uJTIwc2Vla3MlMjBkZXBvcnR8ZW58MHwwfHx8MTc2NzAzMDc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "The Trick to Scoring Amazon Prime Deals for Free",
-      "url": "https://www.cnet.com/tech/the-trick-to-scoring-amazon-prime-deals-for-free/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "null",
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "Amazon Prime",
-        "deals",
-        "free"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1648091856220-fbe246f2ad94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0cmljayUyMHNjb3JpbmclMjBhbWF6b24lMjBwcmltZXxlbnwwfDB8fHwxNzY3MDMwNzkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
-    },
-    {
       "title": "Duolingo's Free Plan Is Getting One of My Favorite Learning Features",
       "url": "https://www.cnet.com/tech/services-and-software/duolingos-explain-my-answer-free/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
+      "author": "no",
       "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "Duolingo",
-        "Learning Features",
-        "Education Tech"
-      ],
+      "category": "Trending",
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1679042346932-f1131ce3c31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkdW9saW5nbyUyMGZyZWUlMjBwbGFuJTIwZ2V0dGluZ3xlbnwwfDB8fHwxNzY3MDMwNzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "The Trick to Scoring Amazon Prime Deals for Free",
+      "url": "https://www.cnet.com/tech/the-trick-to-scoring-amazon-prime-deals-for-free/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": "",
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Amazon Prime",
+        "Deals",
+        "Free Stuff"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1648091856220-fbe246f2ad94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0cmljayUyMHNjb3JpbmclMjBhbWF6b24lMjBwcmltZXxlbnwwfDB8fHwxNzY3MDMwNzkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
       "title": "Score a Rare Discount On Beats' New Powerbeats Fit Earbuds",
       "url": "https://www.cnet.com/deals/beats-powerbeats-fit-deal/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
+      "author": "",
       "published_date": null,
       "category": "Trending",
       "tags": [],
@@ -573,7 +575,7 @@
       "url": "https://www.cnet.com/tech/cash-app-taxes-review-2025/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
-      "published_date": "",
+      "published_date": null,
       "category": "Technology",
       "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjYXNoJTIwdGF4ZXMlMjByZXZpZXclMjBmcmVlfGVufDB8MHx8fDE3NjcwMzA3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -583,13 +585,13 @@
       "title": "FreeTaxUSA Review: Affordable Prices for Simple Filers",
       "url": "https://www.cnet.com/tech/freetaxusa-service-review/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "None",
-      "published_date": "2022-02-03T12:30:00Z",
+      "author": "",
+      "published_date": null,
       "category": "Technology",
       "tags": [
         "tax software",
         "free tax filing",
-        "affordable pricing"
+        "financial aid"
       ],
       "thumbnail": "https://images.unsplash.com/photo-1543273984-c84d0cc090a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmcmVldGF4dXNhJTIwcmV2aWV3JTIwYWZmb3JkYWJsZSUyMHByaWNlc3xlbnwwfDB8fHwxNzY3MDMwODAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
@@ -599,13 +601,9 @@
       "url": "https://www.cnet.com/tech/jackson-hewitt-review-2025/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
-      "published_date": "",
+      "published_date": null,
       "category": "Technology",
-      "tags": [
-        "online tax filing",
-        "Jackson Hewitt",
-        "tax software"
-      ],
+      "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1655961929020-26376d6a93a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxqYWNrc29uJTIwaGV3aXR0JTIwb25saW5lJTIwcmV2aWV3fGVufDB8MHx8fDE3NjcwMzA4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
@@ -621,40 +619,38 @@
       "source": "CNET"
     },
     {
-      "title": "Discover Your iPhone's Hidden Potential: 24 iOS Settings to Tweak Right Now",
+      "title": "Discover Your iPhone",
       "url": "https://www.cnet.com/tech/mobile/discover-your-iphones-hidden-potential-24-ios-settings-to-tweak-right-now/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "iOS",
-        "iPhone",
-        "Settings"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1730818028738-21c19c7103fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNjb3ZlciUyMHlvdXIlMjBpcGhvbmUlMjBoaWRkZW58ZW58MHwwfHx8MTc2NzAzMDgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://images.unsplash.com/photo-1557189590-1a173a3efc12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNjb3ZlciUyMHlvdXIlMjBpcGhvbmV8ZW58MHwwfHx8MTc2NzAzMTU1OXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
-      "url": "https://www.cnet.com/deals/google-tv-streamer-4k-deal/",
       "title": "We Love the Google TV Streamer 4K and It's Back Down to Its Record Low of $75",
-      "source": "CNET",
+      "url": "https://www.cnet.com/deals/google-tv-streamer-4k-deal/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "thumbnail": null
+      "author": "",
+      "published_date": null,
+      "category": "Trending",
+      "tags": [],
+      "thumbnail": "https://images.unsplash.com/photo-1657647269833-fc3861d7eb03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsb3ZlJTIwZ29vZ2xlJTIwc3RyZWFtZXIlMjBiYWNrfGVufDB8MHx8fDE3NjcwMzE1NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
     },
     {
       "title": "TurboTax Review: Easy to Use For Most Filers in Tax Year 2025",
       "url": "https://www.cnet.com/tech/turbo-tax-review/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": null,
+      "author": "",
       "published_date": null,
       "category": "Technology",
       "tags": [
+        "tax software",
         "TurboTax",
-        "Tax Software",
-        "Tax Year 2025",
-        "Review",
-        "CNET"
+        "tax season"
       ],
       "thumbnail": "https://images.unsplash.com/photo-1668091818168-61a18ea51275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0dXJib3RheCUyMHJldmlldyUyMGVhc3klMjBmaWxlcnN8ZW58MHwwfHx8MTc2NzAzMDgxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
@@ -664,19 +660,19 @@
       "url": "https://www.cnet.com/tech/services-and-software/robot-coffee-cups-self-driving-trivets-ai-researchers-made-it-happen/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
-      "published_date": "",
+      "published_date": null,
       "category": "Technology",
       "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1605147448660-5b2f600df48b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyb2JvdCUyMGNvZmZlZSUyMGN1cHMlMjBzZWxmfGVufDB8MHx8fDE3NjcwMzA4MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
-      "title": "H&R Block Review: CNET’s Best Overall in Tax Year 2025",
+      "title": "H\\u00BCR Block Review: CNET’s Best Overall in Tax Year 2025",
       "url": "https://www.cnet.com/tech/hr-block-review/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
-      "published_date": "",
-      "category": "Trending",
+      "published_date": null,
+      "category": "Technology",
       "tags": [],
       "thumbnail": "https://images.unsplash.com/photo-1578575778893-ffb05e883278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxibG9jayUyMHJldmlldyUyMGNuZXQlMjBiZXN0fGVufDB8MHx8fDE3NjcwMzA4MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
