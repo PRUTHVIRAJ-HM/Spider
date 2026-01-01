@@ -274,18 +274,21 @@ class NewsScraperWithAI:
 please clean and structure it into a proper JSON format with these fields:
 - title (string): The article title
 - url (string): The article URL
-- description (string): A brief description or excerpt
-- author (string): The author name (if available)
+- description (string): A brief description or excerpt (1-2 sentences). If no description is provided in the raw data, generate one based on the title and context.
+- author (string): The author name (if available, otherwise empty string)
 - published_date (string): Publication date in ISO format if possible
 - category (string): Choose ONLY ONE category from this exact list: "Trending", "Technology", "Education", "Careers", "AI & ML". Pick the most appropriate one based on the article's content.
-- tags (array): Extract 3-5 relevant tags/keywords
+- tags (array): Extract 3-5 relevant tags/keywords from the title and description
 
-IMPORTANT: The category field MUST be exactly one of these values: "Trending", "Technology", "Education", "Careers", "AI & ML"
-- Use "Technology" for general tech news, gadgets, devices, software, apps, companies
-- Use "AI & ML" for artificial intelligence, machine learning, neural networks, AI tools
-- Use "Education" for learning, educational tech, online courses, student-related content
-- Use "Careers" for job-related, workplace, professional development content
-- Use "Trending" for viral content, breaking news, or topics that don't fit other categories
+CRITICAL RULES:
+1. The description field must NEVER be empty. If the raw data has no description, create a brief 1-2 sentence description based on the title.
+2. The tags array must contain at least 3 relevant keywords extracted from the title/description.
+3. The category field MUST be exactly one of these values: "Trending", "Technology", "Education", "Careers", "AI & ML"
+   - Use "Technology" for general tech news, gadgets, devices, software, apps, companies
+   - Use "AI & ML" for artificial intelligence, machine learning, neural networks, AI tools
+   - Use "Education" for learning, educational tech, online courses, student-related content
+   - Use "Careers" for job-related, workplace, professional development content
+   - Use "Trending" for viral content, breaking news, or topics that don't fit other categories
 
 Raw data:
 {json.dumps(article, indent=2)}
@@ -324,13 +327,34 @@ Return ONLY valid JSON, no explanation or markdown formatting."""
                     
                     structured_article = json.loads(structured_content)
                     
-                    # Validate required fields, use original data as fallback
+                    # Validate required fields with strict rules, use original data as fallback
                     if not structured_article.get('title'):
                         structured_article['title'] = article.get('title', 'Untitled')
                     if not structured_article.get('url'):
                         structured_article['url'] = article.get('url', '')
-                    if not structured_article.get('description'):
-                        structured_article['description'] = article.get('description', '')
+                    
+                    # Description validation - must not be empty
+                    description = structured_article.get('description', '').strip()
+                    if not description or len(description) < 10:
+                        # Try original description
+                        original_desc = article.get('description', '').strip()
+                        if original_desc and len(original_desc) >= 10:
+                            structured_article['description'] = original_desc
+                        else:
+                            # Generate from title as last resort
+                            title = structured_article.get('title', '')
+                            structured_article['description'] = f"Article about {title.lower()}" if title else "No description available"
+                    
+                    # Tags validation - must have at least 3 tags
+                    tags = structured_article.get('tags', [])
+                    if not tags or len(tags) < 3:
+                        # Generate basic tags from title
+                        title_words = structured_article.get('title', '').lower().split()
+                        # Filter out common words
+                        stop_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'from', 'is', 'are', 'was', 'were'}
+                        meaningful_words = [w for w in title_words if w not in stop_words and len(w) > 3][:5]
+                        structured_article['tags'] = meaningful_words if meaningful_words else [source]
+                    
                     if not structured_article.get('author'):
                         structured_article['author'] = article.get('author', '')
                     if not structured_article.get('published_date'):
