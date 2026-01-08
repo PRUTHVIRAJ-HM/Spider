@@ -4,842 +4,705 @@
     "TechCrunch",
     "CNET"
   ],
-  "scraped_at": "2026-01-01T14:24:06.848286",
-  "total_articles": 54,
+  "scraped_at": "2026-01-08T11:14:08.283226",
+  "total_articles": 46,
   "articles": [
     {
-      "title": "The year politics became brainrot",
-      "url": "https://www.theverge.com/policy/849609/charlie-kirk-shooting-ideology-literacy-politics",
-      "description": "Political violence has become illegible, and increasingly, politics and language have too.",
+      "title": "Snatching Maduro was all about the spectacle",
+      "url": "https://www.theverge.com/policy/858075/trump-venezuela-maduro-kidnapping-spectacle",
+      "description": "US President Donald Trump played a role in the dramatic and violent scene that unfolded in Venezuela last week, according to sources.",
       "author": "",
-      "published_date": "2025-12-31T13:30:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "politics",
-        "ideology",
-        "literacy"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1668706971199-37e30a4e6298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx5ZWFyJTIwcG9saXRpY3MlMjBiZWNhbWUlMjBicmFpbnJvdHxlbnwwfDB8fHwxNzY3MjU3NDI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Net neutrality was back, until it wasn’t",
-      "url": "https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025",
-      "description": "A brief look back at the history of net neutrality and its impact on the internet.",
-      "author": "",
-      "published_date": "2025-12-31T15:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "net-neutrality",
-        "fcc",
-        "retrospective"
-      ],
-      "thumbnail": "https://pixabay.com/get/g001e6733d66fae6575c5bc492fcd3fbe00e7314553c60854b9e0eb5d492c31c65e1361aa4f7e401c983dcb2c22266ac6_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "The Canon EOS R6 Mark III is great, but this lens is amazing",
-      "url": "https://www.theverge.com/gadgets/850602/canon-eos-r6-mark-iii-rf-45mm-12-camera-lens-impressions-review",
-      "description": "The Canon EOS R6 Mark III is a solid camera, but the new RF-45mm f/1.2 lens is truly exceptional.",
-      "author": "",
-      "published_date": "2025-12-30T14:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "Canon EOS R6 Mark III",
-        "RF-45mm f/1.2 lens",
-        "camera lens",
-        "camera gear"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1654572832144-ce085b87620b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjYW5vbiUyMG1hcmslMjBncmVhdCUyMGxlbnN8ZW58MHwwfHx8MTc2NzI1NzQzNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "This smart garden turned my black thumb green",
-      "url": "https://www.theverge.com/tech/850224/gardyn-studio-2-review-smart-indoor-garden",
-      "description": "A smart indoor garden turns your plant into a work of art, and it's perfect for those with a black thumb. The Gardyn Studio 2 is a self-watering planter that uses AI to monitor and care for plants.",
-      "author": "",
-      "published_date": "2025-12-30T15:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "smart garden",
-        "Gardyn Studio 2",
-        "indoor gardening"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1753491920668-02d0b426a235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGdhcmRlbiUyMHR1cm5lZCUyMGJsYWNrfGVufDB8MHx8fDE3NjcyNTc0Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "LG is announcing its own Frame-style TV at CES",
-      "url": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
-      "description": "LG will unveil a new Frame TV line at the Consumer Electronics Show in Las Vegas, with prices starting at $999 for a 55-inch model. The new TVs are designed to blend into any room.",
-      "author": "",
-      "published_date": "2025-12-30T01:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "LG",
-        "Frame TV",
-        "CES"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1765137138067-89abe3f4ba71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbm5vdW5jaW5nJTIwZnJhbWUlMjBzdHlsZXxlbnwwfDB8fHwxNzY3MjU3NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "The Verge’s 2025 in review",
-      "url": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
-      "description": "A look back at The Verge's top stories from 2025, covering games and streaming as they intersect with politics.",
-      "author": "",
-      "published_date": "2025-12-17T14:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "The",
-        "Verge",
-        "review",
-        "games",
-        "streaming"
-      ],
-      "thumbnail": "https://pixabay.com/get/g63a96f6a012bfb7835eddfa87b68ab598a24cff7f8b43ecebaa00aefc52b3a6bbfef100063146cc85ea7f8033de51bf3beee47fd2aa3abd640788f11a8c98970_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
-      "url": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
-      "description": "Instagram's head Adam Mosseri has said that users cannot trust their own perceptions due to advancements in AI and images.",
-      "author": "",
-      "published_date": "2025-12-31T22:54:10+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "Instagram",
-        "AI",
-        "images",
-        "perception"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1633720079704-49c912bd3cff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0cnVzdCUyMHlvdXIlMjBleWVzJTIwdGVsbHxlbnwwfDB8fHwxNzY3MjU3NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Like the Woolly Mammoth",
-      "url": "https://www.theverge.com/2021/9/15/22673392/woolly-mammoth-de-extinction-colossal-biodiversity-climate-change",
-      "description": "Scientists have had to contend with a spate of misinformation this year about efforts to purportedly resurrect long-lost species like the woolly mammoth.",
-      "author": "",
-      "published_date": "2021-09-15T00:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "woolly mammoth",
-        "de-extinction",
-        "biodiversity"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1540033099821-12e799384463?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsaWtlJTIwd29vbGx5JTIwbWFtbW90aHxlbnwwfDB8fHwxNzY3MjU3NDU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Feed Is Dead",
-      "url": "https://www.theverge.com/news/851954/feed-is-dead",
-      "description": "Instagram head Adam Mosseri says, “People stopped sharing personal moments to feed years ago,” in aNew Year’s Eve postabout the future of the platform as generative AI produces more realistic-looking content.",
-      "author": "",
-      "published_date": "2025-12-31T15:37:28+00:00",
-      "category": "Trending",
-      "tags": [
-        "AI",
-        "Generative AI",
-        "Instagram",
-        "Social Media"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1687050084491-518c194b1d6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmZWVkJTIwZGVhZHxlbnwwfDB8fHwxNzY3MjU3NDU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Leaked video shows the Galaxy S26 Ultra’s new camera island",
-      "url": "https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak",
-      "description": "Samsung has leaked a video of its upcoming Galaxy S26 Ultra, showcasing a new camera island.",
-      "author": "",
-      "published_date": "2025-12-31T14:51:29+00:00",
-      "category": "Technology",
-      "tags": [
-        "Galaxy S26 Ultra",
-        "Camera Island",
-        "Samsung Leak"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1628317887507-3c3e2ddd3281?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsZWFrZWQlMjB2aWRlbyUyMHNob3dzJTIwZ2FsYXh5fGVufDB8MHx8fDE3NjcyNTc0NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price",
-      "url": "https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale",
-      "description": "The Dreame X40 Ultra robovac is a high-end robot vacuum cleaner that offers advanced navigation and cleaning capabilities. With this deal, you can get it for nearly its best price.",
-      "author": "",
-      "published_date": "2025-12-31T14:23:43+00:00",
-      "category": "Technology",
-      "tags": [
-        "Dreame X40 Ultra",
-        "robovac",
-        "robot vacuum cleaner"
-      ],
-      "thumbnail": "https://pixabay.com/get/g93008b575f9f10c0b71755514d9afead08301314972c933e08551b9e99d5a3d28a0fceaaa81616022f5275404eacd675_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "The 11 best Nintendo Switch 2 games we played in 2025",
-      "url": "https://www.theverge.com/games/845401/nintendo-switch-2-best-games",
-      "description": "We're taking a closer look at the best games for the Nintendo Switch 2, which promises to be a powerhouse of gaming fun.",
-      "author": "",
-      "published_date": "2025-12-31T13:00:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "Nintendo Switch 2",
-        "best games",
-        "gaming",
-        "Nintendo"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1598383849929-c1dc7ec6b1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwbmludGVuZG8lMjBzd2l0Y2glMjBnYW1lc3xlbnwwfDB8fHwxNzY3MjU3NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "GameSir put a tiny force feedback steering wheel on its new Swift Drive controller",
-      "url": "https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback",
-      "description": "A compact, wireless steering wheel has been added to GameSir's new Turbo Drive Switch controller.",
-      "author": "",
-      "published_date": "2025-12-30T15:59:41",
-      "category": "Technology",
-      "tags": [
-        "GameSir",
-        "Swift Drive",
-        "Steering wheel",
-        "Wireless force feedback"
-      ],
-      "thumbnail": "https://pixabay.com/get/ge49aa04a9ddca32f017bba84c9fd72ea46cc90752174a1615140d6b9ff81bf886be6af27862294c8d1646bb38d4964bf_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anker’s portable backup battery is an even better investment now that it’s nearly half off",
-      "url": "https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale",
-      "description": "Get a high-capacity power bank for streaming devices and TVs, with up to 20 hours of battery life, at an unbeatable price.",
-      "author": "",
-      "published_date": "2025-12-30T15:47:34",
-      "category": "Trending",
-      "tags": [
-        "Portable backup battery",
-        "Streaming devices",
-        "TVs"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1596877445530-ad74838754c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbmtlciUyMHBvcnRhYmxlJTIwYmFja3VwJTIwYmF0dGVyeXxlbnwwfDB8fHwxNzY3MjU3NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "delayed Trump Mobile phone",
-      "url": "https://www.theverge.com/gadgets/843498/trump-phone",
-      "description": "TheFinancial Timesreportingon thedelayed Trump Mobile phonethat’s definitely not made in the USA:",
-      "author": "",
-      "published_date": "2025-12-31T10:05:33+00:00",
-      "category": "Technology",
+      "published_date": "2026-01-07T23:38:18+00:00",
+      "category": "Politics",
       "tags": [
         "Trump",
-        "Mobile",
-        "phone"
+        "Venezuela",
+        "Maduro"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1609083762501-0909862f864d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkZWxheWVkJTIwdHJ1bXAlMjBtb2JpbGUlMjBwaG9uZXxlbnwwfDB8fHwxNzY3MjU3NDgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/g778b2c18c7fd03eddf1e7fc0aa1d619302324b226eed329494a3dc591a364898493dbc49db21caf48447e4b618fdb7fb1c804d62fee9e79400f749bc7427b7ec_640.jpg",
       "source": "The Verge"
     },
     {
-      "title": "investigating the PayPal-owned shopping extension",
-      "url": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
-      "description": "After going a year between his first and second videosinvestigating the PayPal-owned shopping extension, MegaLag didn’t make us wait longfor part three.",
+      "title": "OpenAI launches ChatGPT Health, encouraging users to connect their medical records",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records",
+      "description": "ChatGPT Health connects medical records to a conversational AI tool",
       "author": "",
-      "published_date": "2025-12-31T02:14:11+00:00",
-      "category": "Technology",
-      "tags": [
-        "PayPal",
-        "shopping extension",
-        "coupon scam"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1732258356976-a84f6e18621c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxpbnZlc3RpZ2F0aW5nJTIwcGF5cGFsJTIwb3duZWQlMjBzaG9wcGluZ3xlbnwwfDB8fHwxNzY3MjU3NDg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Pocket Vert",
-      "url": "https://www.theverge.com/news/826148/ayaneo-pocket-vert-handheld-android-touchpad-thumbstick-controls",
-      "description": "A premium Android handheld with a CNC-machined metal body, high-res screen, and diamond-shaped shoulder buttons.",
-      "author": "",
-      "published_date": "2025-12-30T21:50:52+00:00",
-      "category": "Technology",
-      "tags": [
-        "Android",
-        "Handheld",
-        "Vertical Display"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1601370690183-1c7796ecec61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwb2NrZXQlMjB2ZXJ0fGVufDB8MHx8fDE3NjcyNTc0ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
-      "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
-      "description": "A pair of former cybersecurity employees have pleaded guilty to carrying out a series of devastating ransomware attacks, according to the indictment.",
-      "author": "",
-      "published_date": "2025-12-30T18:32:27+00:00",
-      "category": "Technology",
-      "tags": [
-        "Cybersecurity",
-        "Ransomware",
-        "Blackcat"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1698019783485-f07e5c5d5647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwZW1wbG95ZWVzJTIwcGxlYWQlMjBndWlsdHl8ZW58MHwwfHx8MTc2NzI1NzQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
-      "url": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
-      "description": "The OneXSugar Wallet is a gaming handheld that combines a wallet with a compact folding screen, offering users a unique blend of functionality and portability.",
-      "author": "",
-      "published_date": "2025-12-30T17:52:38+00:00",
-      "category": "Technology",
-      "tags": [
-        "gaming",
-        "handheld",
-        "folding screen",
-        "OneXSugar Wallet"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1585401586477-2a671e1cae4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvbmV4c3VnYXIlMjB3YWxsZXQlMjBmaXJzdCUyMGdhbWluZ3xlbnwwfDB8fHwxNzY3MjU3NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Aflac says a data breach impacted 22.65 million of its customers",
-      "url": "https://www.theverge.com/news/851364/aflac-says-a-data-breach-impacted-22-65-million-of-its-customers",
-      "description": "In June,Aflac discloseda data breach involving a “sophisticated cybercrime group” that stole names, social security numbers, contact information, health data, and more from its systems. The insurance provider hasnow revealedjust how many people are affected, adding that it is currently “not aware of any fraudulent use of personal information.”",
-      "author": "",
-      "published_date": "2025-12-30T16:42:19+00:00",
-      "category": "Trending",
-      "tags": [
-        "data breach",
-        "Aflac",
-        "cybercrime",
-        "personal data",
-        "insurance"
-      ],
-      "thumbnail": "https://pixabay.com/get/g333566a474500e2b4b85e7e2bacdb29baea32e6f9453f13d4b2ac618a4f9e0c49183cb6514fdec7939f86a4b9c3383b284974b89e6e61417eafcdaa08e1fe299_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "‖College dropout’ has become the most coveted startup founder credential",
-      "url": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
-      "description": "A college dropout has recently become a highly sought-after trait in entrepreneurs, with many startups now prioritizing founders without a degree over those with one.",
-      "author": "Marina Temkin",
-      "published_date": "2025-12-31T18:44:02-08:00",
-      "category": "Trending",
-      "tags": [
-        "startup",
-        "founder",
-        "credential"
-      ],
-      "thumbnail": "https://images.unsplash.com/flagged/photo-1558153267-7e0ae5162b18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb2xsZWdlJTIwZHJvcG91dCUyMGJlY29tZSUyMGNvdmV0ZWR8ZW58MHwwfHx8MTc2NzI1NzUwNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Competing in the post-Humane AI wearables era with Sandbar CEO Mina Fahmi",
-      "url": "https://techcrunch.com/podcast/competing-in-the-post-humane-ai-wearables-era-with-sandbar-ceo-mina-fahmi/",
-      "description": "Maggie Nye sits down with Mina Fahmi, CEO of Sandbar, to explore the implications of AI on wearable technology and how companies can stay ahead in this rapidly changing landscape.",
-      "author": "Maggie Nye",
-      "published_date": "2025-12-31T09:43:30-08:00",
-      "category": "Technology",
-      "tags": [
-        "AI wearables",
-        "Sandbar CEO",
-        "post-Humane AI"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1585501955565-0c058863198e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb21wZXRpbmclMjBwb3N0JTIwaHVtYW5lJTIwd2VhcmFibGVzfGVufDB8MHx8fDE3NjcyNTc1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Fizz CEO on why anonymous social is winning with Gen Z",
-      "url": "https://techcrunch.com/podcast/fizz-ceo-on-why-anonymous-social-is-winning-with-gen-z/",
-      "description": "A podcast discussing the rise of anonymous social platforms among Gen Z, featuring Fizz CEO Dominic-Madori Davis.",
-      "author": "Dominic-Madori Davis",
-      "published_date": "2025-12-31T09:20:49-08:00",
-      "category": "Trending",
-      "tags": [
-        "anonymous social",
-        "Gen Z",
-        "social platforms"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1637728833185-bba566ba2e84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmaXp6JTIwYW5vbnltb3VzJTIwc29jaWFsJTIwd2lubmluZ3xlbnwwfDB8fHwxNzY3MjU3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Investors predict AI is coming for labor in 2026",
-      "url": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
-      "description": "According to a new report, investors believe that artificial intelligence will have a significant impact on the labor market in 2026.",
-      "author": "Rebecca Szkutak",
-      "published_date": "2025-12-31T08:40:00-08:00",
+      "published_date": "2026-01-07T19:00:00+00:00",
       "category": "AI & ML",
       "tags": [
-        "Artificial Intelligence",
-        "Labor Market",
-        "Investors' Predictions"
+        "ChatGPT",
+        "Medical Records",
+        "Artificial Intelligence"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1600469100827-f66c8aa3c815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxpbnZlc3RvcnMlMjBwcmVkaWN0JTIwY29taW5nJTIwbGFib3J8ZW58MHwwfHx8MTc2NzI1NzUxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
+      "thumbnail": "https://images.unsplash.com/photo-1676299081847-824916de030a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvcGVuYWklMjBsYXVuY2hlcyUyMGNoYXRncHQlMjBoZWFsdGh8ZW58MHwwfHx8MTc2Nzg1MDg3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
     },
     {
-      "title": "These are the best gadgets for your pet right now",
-      "url": "https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/",
-      "description": "Get the latest tech gadgets that will make your furry friend's life better and more enjoyable.",
-      "author": "Lauren Forristal",
-      "published_date": "2025-12-31T08:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "gadgets",
-        "pets",
-        "tech"
-      ],
-      "thumbnail": "https://pixabay.com/get/g37085641d4ee593a6f27e52d12802ea46cfb7c0fa3be5684261e3d02049f451a4af9f1ca6e35ffa69a2dddc543f7a5e3d80bdc7167d01662c01db3454e79fc21_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Tade Oyerinde and Teddy Solomon talk about building engaged audiences at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2025/12/31/tade-oyerinde-and-teddy-solomon-talk-about-building-engaged-audiences-at-techcrunch-disrupt/",
-      "description": "TechCrunch Disrupt is a popular conference that brings together innovators and disruptors in tech, and Tade Oyerinde and Teddy Solomon are among the many talented individuals who have taken the stage to share their stories. From building engaged audiences to navigating the ever-changing tech landscape.",
-      "author": "Dominic-Madori Davis",
-      "published_date": "2025-12-31T08:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "building-engaged-audiences",
-        "techcrunch-disrupt",
-        "innovators"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1612475901988-dc61c02a9525?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0YWRlJTIwb3llcmluZGUlMjB0ZWRkeSUyMHNvbG9tb258ZW58MHwwfHx8MTc2NzI1NzUyNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Every fusion startup that has raised over $100M",
-      "url": "https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/",
-      "description": "This report examines all the fusion startups that have secured funding of $100 million or more.",
-      "author": "Tim De Chant",
-      "published_date": "2025-12-31T07:05:21-08:00",
+      "title": "CES 2026 live: all the news, announcements, and innovations from the show floor and beyond",
+      "url": "https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements",
+      "description": "Get ready for a week of high-tech gadget unveilings at CES 2026. Here's everything you need to know.",
+      "author": "",
+      "published_date": "2026-01-08T03:48:43+00:00",
       "category": "Trending",
       "tags": [
-        "fusion",
-        "startup",
+        "CES",
+        "Gadgets",
+        "Innovations",
+        "Technology",
+        "News",
+        "Announcements"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1742805382149-3c2f0cd0f300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsaXZlJTIwbmV3cyUyMGFubm91bmNlbWVudHMlMjBpbm5vdmF0aW9uc3xlbnwwfDB8fHwxNzY3ODUwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "I played with the Lego Smart Brick",
+      "url": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick",
+      "description": "The Lego Smart Brick is a toy that lets you build digital models. We spent some time playing with it to see if it's fun and useful.",
+      "author": "",
+      "published_date": "2026-01-07T12:00:00+00:00",
+      "category": "Technology",
+      "tags": [
+        "Lego Smart Brick",
+        "digital models",
+        "toy"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1728550958364-1e0348a09508?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwbGF5ZWQlMjBsZWdvJTIwc21hcnQlMjBicmlja3xlbnwwfDB8fHwxNzY3ODUwODc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "The weirdest tech we’ve seen at CES 2026",
+      "url": "https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements",
+      "description": "At CES 2026, we saw some of the strangest tech announcements from companies like Lenovo and HP.",
+      "author": "",
+      "published_date": "2026-01-07T12:30:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "CES 2026",
+        "weirdest tech",
+        "Lenovo",
+        "HP"
+      ],
+      "thumbnail": "https://pixabay.com/get/gfe24ce6d55beb6e97556f960caf0dad27ce1579a891e1a3c645276ab24f61241967b5da944fa4ed0d3f82f9143d843809961592eb2759eccbd08178340ac973f_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Netflix is bringing back some big franchises in 2026",
+      "url": "https://www.theverge.com/streaming/856756/netflix-2026-releases-bridgerton-one-piece-3-body",
+      "description": "Netflix will revive popular shows like Bridgerton and One Piece with new seasons in 2026.",
+      "author": "",
+      "published_date": "2026-01-07T14:00:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "Netflix",
+        "Bridgerton",
+        "One Piece"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxuZXRmbGl4JTIwYnJpbmdpbmclMjBiYWNrJTIwZnJhbmNoaXNlc3xlbnwwfDB8fHwxNzY3ODUwODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Samsung's Profits Surge on Memory Chip Crisis",
+      "url": "https://www.theverge.com/tech/858348/samsung-profits-surge-on-memory-chip-crisis",
+      "description": "The chip shortage created by our desire to watch AI-generated videos of Trump and Maduro dance in matching Nike sweatsuits, has nearly tripled Samsung’s profits for the quarter, as memory prices surged 40-50 percent.",
+      "author": "",
+      "published_date": "2026-01-08T05:23:38+00:00",
+      "category": "Technology",
+      "tags": [
+        "Samsung",
+        "memory chip",
+        "chip shortage"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1696041756125-257354c459a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzYW1zdW5nJTIwcHJvZml0cyUyMHN1cmdlJTIwbWVtb3J5fGVufDB8MHx8fDE3Njc4NTA4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Fly Wing: A Folding VTOL Fighter Jet That Wants to Bring Ace Combat to Life",
+      "url": "https://www.theverge.com/tech/858006/theres-nothing-at-ces-i-want-to-try-more-than-the-fly-wing-x-wing-fighter",
+      "description": "This folding VTOL foam aircraft gives you a first-person view from inside a tiny toy fighter jet cockpit. A head-tracking DJI drone camera beams video to DJI goggles over DJI's long-range O4 wireless tech; Fly Wing claims 60-minute battery life and nearly 75mph top speed. $2,000, tentatively in March, for the complete kit.",
+      "author": "",
+      "published_date": "2026-01-08T03:48:43+00:00",
+      "category": "Technology",
+      "tags": [
+        "Fly Wing",
+        "VTOL",
+        "Folding Fighter Jet",
+        "Ace Combat",
+        "DJI Drone"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1644620990884-0e6e8743f71a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx3aW5nJTIwZm9sZGluZyUyMHZ0b2wlMjBmaWdodGVyfGVufDB8MHx8fDE3Njc4NTA4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Asus ROG Zephyrus Duo 15 Review: A Pricey First Effort",
+      "url": "https://www.theverge.com/21431381/asus-rog-zephyrus-duo-15-review",
+      "description": "After 2020’s pricey first effort, Asus is trying the Zephyrus Duo formula again.",
+      "author": "",
+      "published_date": "2026-01-08T03:02:29+00:00",
+      "category": "Technology",
+      "tags": [
+        "Asus",
+        "ROG Zephyrus Duo 15",
+        "Review"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1717130603333-88e0a4053eb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhc3VzJTIwemVwaHlydXMlMjByZXZpZXclMjBwcmljZXl8ZW58MHwwfHx8MTc2Nzg1MDg5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nintendo Switch Hulu App Removed from eShop",
+      "url": "https://www.theverge.com/2017/11/11/16633818/nintendo-switch-hulu-app-perfectly-good-streaming-gadget",
+      "description": "The Hulu app is no longer available in the Nintendo Switch eShop with support for the application ending on February 5, 2026.",
+      "author": "",
+      "published_date": "2026-01-08T01:00:42+00:00",
+      "category": "Technology",
+      "tags": [
+        "Nintendo",
+        "Hulu",
+        "Nintendo Switch"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1662466984611-bf96022e423e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaCUyMGh1bHUlMjByZW1vdmVkfGVufDB8MHx8fDE3Njc4NTA5MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Disney Plus is getting vertical video",
+      "url": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
+      "description": "Vertical videos are set to become a regular feature on Disney Plus.",
+      "author": "",
+      "published_date": "2026-01-08T00:51:26+00:00",
+      "category": "Technology",
+      "tags": [
+        "DisneyPlus",
+        "VerticalVideo",
+        "StreamingServices"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1574145714156-5b87ca393057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNuZXklMjBwbHVzJTIwZ2V0dGluZyUyMHZlcnRpY2FsfGVufDB8MHx8fDE3Njc4NTA5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "The best iPad deals you can get right now",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "description": "Save up to $100 on the latest iPads, and snag a free pair of AirPods.",
+      "author": "",
+      "published_date": "2026-01-08T00:01:00+00:00",
+      "category": "Technology",
+      "tags": [
+        "iPad",
+        "deals",
+        "Apple"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1621750291306-c9afba316115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwaXBhZCUyMGRlYWxzJTIwcmlnaHR8ZW58MHwwfHx8MTc2Nzg1MDkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Lego announces Smart Brick, the \\u2017most significant evolution\\u2019 in 50 years",
+      "url": "https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years",
+      "description": "Lego is introducing a new smart brick that will be the most significant evolution in 50 years, according to its CEO Kjeld Kirk Kristiansen.",
+      "author": "",
+      "published_date": "2026-01-05T19:00:00Z",
+      "category": "Technology",
+      "tags": [
+        "Lego",
+        "Smart Brick",
+        "Evolution"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1681415851723-dca11d0ec9a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsZWdvJTIwYW5ub3VuY2VzJTIwc21hcnQlMjBicmlja3xlbnwwfDB8fHwxNzY3ODUwOTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "The best tech announced at CES 2026 so far",
+      "url": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
+      "description": "Get ready for the latest gadgets and innovations from CES 2026. We're rounding up some of the most notable tech announcements, including new smartphones, smart home devices, and more.",
+      "author": "",
+      "published_date": "2026-01-05T14:29:14",
+      "category": "Technology",
+      "tags": [
+        "CES 2026",
+        "Smartphones",
+        "Smart Home Devices"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1761044591996-7a05341a3e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwdGVjaCUyMGFubm91bmNlZHxlbnwwfDB8fHwxNzY3ODUwOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "US abandons UN climate change framework in move to 'free itself from UN red tape'",
+      "url": "https://www.theverge.com/news/858178/us-abandons-un-climate-change-framework-international-organizations",
+      "description": "The US has formally abandoned the United Nations Framework Convention on Climate Change and other initiatives tackling environmental and human rights issues.",
+      "author": "",
+      "published_date": "2026-01-08T00:00:27+00:00",
+      "category": "Trending",
+      "tags": [
+        "climate change",
+        "UN",
+        "environmental issues"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1569163139394-de4e5f43e5ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhYmFuZG9ucyUyMGNsaW1hdGUlMjBjaGFuZ2UlMjBmcmFtZXdvcmt8ZW58MHwwfHx8MTc2Nzg1MDkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Ford’s AI voice assistant is coming later this year, L3 driving in 2028",
+      "url": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026",
+      "description": "Ford has confirmed that its Level 3 autonomous driving system will be available later this year, and it plans to roll out the technology to L3 vehicles by 2028.",
+      "author": "",
+      "published_date": "2026-01-08T00:00:00+00:00",
+      "category": "Technology",
+      "tags": [
+        "Ford",
+        "AI voice assistant",
+        "Level 3 automation"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1617298005771-f37aa5d7d0cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmb3JkJTIwdm9pY2UlMjBhc3Npc3RhbnQlMjBjb21pbmd8ZW58MHwwfHx8MTc2Nzg1MDkyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Chase is taking over Apple’s credit card",
+      "url": "https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs",
+      "description": "JPMorgan Chase will take the reins of Apple's credit card service, replacing American Express.",
+      "author": "",
+      "published_date": "2026-01-07T23:57:54+00:00",
+      "category": "Technology",
+      "tags": [
+        "Apple",
+        "JPMorgan Chase",
+        "credit card"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1668697092034-82edc78d1a8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjaGFzZSUyMHRha2luZyUyMG92ZXIlMjBhcHBsZXxlbnwwfDB8fHwxNzY3ODUwOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Bluetti now charges power stations at up to 1200W in your car",
+      "url": "https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car",
+      "description": "Bluetti has just announced that its portable power stations can now be charged from a car, at up to 1,200W. This means you can easily top up your power station while on the go.",
+      "author": "",
+      "published_date": "2026-01-07T23:00:00+00:00",
+      "category": "Technology",
+      "tags": [
+        "Bluetti",
+        "Power Station",
+        "Portable Charging"
+      ],
+      "thumbnail": "https://pixabay.com/get/gfdf46eb5c60faf07326e640d766cccfcc35617ece85c9a96677ff693c9ec941dd71b179b302b1222deb38ebc43750776890775f896251cc5cc1f40b72c6ac9c6_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "The best deals on MacBooks right now",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "description": "Get the latest MacBook Air Pro, Mac Mini, and iMac deals from The Verge.",
+      "author": "",
+      "published_date": "2026-01-07T22:59:01+00:00",
+      "category": "Technology",
+      "tags": [
+        "MacBook Air Pro",
+        "deals",
+        "The Verge"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1621903763043-96e6aa765e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwZGVhbHMlMjBtYWNib29rcyUyMHJpZ2h0fGVufDB8MHx8fDE3Njc4NTA5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Logitech caused its mice to freak out by not renewing a certificate",
+      "url": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
+      "description": "Logitech's mice have stopped working on Macs due to a certification issue with Logi Options.",
+      "author": "",
+      "published_date": "2026-01-07T12:10:34",
+      "category": "Technology",
+      "tags": [
+        "Logitech",
+        "mice",
+        "MacOS"
+      ],
+      "thumbnail": "https://pixabay.com/get/g94d0062ad4f6a254f53d61e40e0fae8b33fa0994de58b7776520adbd36999907f274ce53d09ac3ec3c2bd3679f72472b6caf036dbcf04d29f09af3374025f475_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Waymo is rebranding its Zeekr robotaxi",
+      "url": "https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/",
+      "description": "Self-driving car company Waymo has been working on a new robotaxi service called Zeekr. Zeekr will allow users to hail a self-driving taxi at the touch of a button.",
+      "author": "Kirsten Korosec",
+      "published_date": "2026-01-07T18:43:12-08:00",
+      "category": "Technology",
+      "tags": [
+        "Waymo",
+        "Zeekr",
+        "robotaxi"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1648737966636-2fc3a5fffc8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MXwxfHNlYXJjaHwxfHxUZWNobm9sb2d5fGVufDB8MHx8fDE3Njc4NTA5NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
+      "url": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
+      "description": "",
+      "author": "Connie Loizos",
+      "published_date": "2026-01-07T17:32:00-08:00",
+      "category": "Trending",
+      "tags": [],
+      "source": "TechCrunch",
+      "thumbnail": "https://images.unsplash.com/photo-1674027326238-8a505791cdea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBjaGFyYWN0ZXIlMjBuZWdvdGlhdGUlMjBmaXJzdHxlbnwwfDB8fHwxNzY3ODUwOTUyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
+      "url": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
+      "description": "Ford is developing a new AI-powered BlueCruise system that will enable hands-free driving",
+      "author": "Sean O'Kane",
+      "published_date": "2026-01-07T16:00:00-08:00",
+      "category": "Technology",
+      "tags": [
+        "BlueCruise",
+        "AI-assistant",
+        "hands-free driving"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1633966094374-f611a9cd450b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmb3JkJTIwYXNzaXN0YW50JTIwaGFuZHMlMjBmcmVlfGVufDB8MHx8fDE3Njc4NTA5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm",
+      "url": "https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/",
+      "description": "Discord and Mercor investor Niko Bonatsos is leaving General Catalyst to start a new venture capital firm.",
+      "author": "Marina Temkin",
+      "published_date": "2026-01-07T15:31:29-08:00",
+      "category": "Technology",
+      "tags": [
+        "Discord",
+        "venture capital",
+        "Niko Bonatsos"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1673382550395-4b6c390377d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNjb3JkJTIwbWVyY29yJTIwaW52ZXN0b3IlMjBuaWtvfGVufDB8MHx8fDE3Njc4NTA5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Larry Page loosens business ties to CA amid state’s proposed wealth tax, report",
+      "url": "https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/",
+      "description": "Google co-founder Larry Page has loosened his business ties to California amid the state's proposed wealth tax, according to a report.",
+      "author": "Dominic-Madori Davis",
+      "published_date": "2026-01-07T15:23:45-08:00",
+      "category": "Trending",
+      "tags": [
+        "Larry Page",
+        "wealth tax",
+        "Google"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1573141597928-403fcee0e056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsYXJyeSUyMHBhZ2UlMjBsb29zZW5zJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc2Nzg1MDk2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Yes, LinkedIn banned AI agent startup Artisan, but now it’s back",
+      "url": "https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/",
+      "description": "LinkedIn recently banned an artificial intelligence-powered job search platform called Artisan. Despite the initial ban, the startup has now been reinstated.",
+      "author": "Julie Bort",
+      "published_date": "2026-01-07T14:04:30-08:00",
+      "category": "Technology",
+      "tags": [
+        "LinkedIn",
+        "Artisan",
+        "AI agent startup"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1585288766827-c62e98d70191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsaW5rZWRpbiUyMGJhbm5lZCUyMGFnZW50JTIwc3RhcnR1cHxlbnwwfDB8fHwxNzY3ODUwOTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says",
+      "url": "https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/",
+      "description": "Roku is launching a new $3 monthly streaming service called Howdy, which will be available on other platforms beyond its own devices.",
+      "author": "Sarah Perez",
+      "published_date": "2026-01-07T13:38:22-08:00",
+      "category": "Trending",
+      "tags": [
+        "Roku",
+        "streaming service",
+        "Howdy"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1753191257759-dc63a3851ec9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyb2t1JTIwc3RyZWFtaW5nJTIwc2VydmljZSUyMGhvd2R5fGVufDB8MHx8fDE3Njc4NTA5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
+      "url": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
+      "description": "ChatGPT Health is OpenAI's new platform to help users monitor their physical and mental health using AI",
+      "author": "Amanda Silberling",
+      "published_date": "2026-01-07T13:08:23-08:00",
+      "category": "Technology",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Health",
+        "Health",
+        "Artificial Intelligence"
+      ],
+      "thumbnail": "https://pixabay.com/get/gaff6f9d9d6567d6abf7a00daf7ad487824b78096d38c337cfabccdd09792ad712fbfed162c6d371001c4f89a878f4bad19ac1caf7d2549177a958d527ed120f7_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lux Capital lands $1.5B for its largest fund ever",
+      "url": "https://techcrunch.com/2026/01/07/lux-capital-lands-1-5-billion-for-its-largest-fund-ever/",
+      "description": "Lux Capital has secured $1.5 billion for its largest fund yet, marking a significant milestone in the venture capital firm's history.",
+      "author": "Marina Temkin",
+      "published_date": "2026-01-07T12:09:07-08:00",
+      "category": "Technology",
+      "tags": [
+        "Lux Capital",
+        "venture capital",
         "funding"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1742677259982-406be412bcfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmdXNpb24lMjBzdGFydHVwJTIwcmFpc2VkJTIwb3ZlcnxlbnwwfDB8fHwxNzY3MjU3NTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1624631590217-d32471384767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjYXBpdGFsJTIwbGFuZHMlMjBsYXJnZXN0JTIwZnVuZHxlbnwwfDB8fHwxNzY3ODUwOTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "The 10 top government, legal startups from Disrupt Startup Battlefield",
-      "url": "https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/",
-      "description": "This article highlights the top government and legal startups that made it to the Disrupt Startup Battlefield. From innovative solutions for regulatory compliance to cutting-edge technologies for law enforcement, these startups are poised to shape the future of governance.",
-      "author": "Dominic-Madori Davis",
-      "published_date": "2025-12-31T07:01:00-08:00",
+      "title": "AMC previews its new show, ‗The Audacity,’ focused on Silicon Valley",
+      "url": "https://techcrunch.com/2026/01/07/amc-previews-its-new-show-the-audacity-focused-on-silicon-valley/",
+      "description": "AMC is taking a look at its new show, ‗The Audacity,’ which focuses on Silicon Valley. The show is expected to explore the challenges and triumphs of tech industry leaders in the region.",
+      "author": "Sarah Perez",
+      "published_date": "2026-01-07T11:43:45-08:00",
       "category": "Technology",
       "tags": [
-        "government",
-        "legal",
-        "startup",
-        "disrupt",
-        "battlefield"
+        "AMC",
+        "The Audacity",
+        "Silicon Valley"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb3Zlcm5tZW50JTIwbGVnYWwlMjBzdGFydHVwcyUyMGRpc3J1cHR8ZW58MHwwfHx8MTc2NzI1NzUzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/g6b0a5cc5f962692408b688d10c6fb9a1ae757f6aa7dfeb0b9f9221dc7d54ca8443f5553e5ad78d99eb9ea1784212f9ffdd52850d774ea47a38194d252548d5ac_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "title": "The dumbest things that happened in tech this year",
-      "url": "https://techcrunch.com/2025/12/31/the-dumbest-things-that-happened-in-tech-this-year/",
-      "description": "A look back at the most egregious tech mistakes of 2025, from security breaches to product launches gone wrong.",
-      "author": "Amanda Silberling",
-      "published_date": "2025-12-31T06:00:00-08:00",
-      "category": "Trending",
-      "tags": [
-        "tech",
-        "mistakes",
-        "year in review"
-      ],
-      "thumbnail": "https://pixabay.com/get/g727c0a8d0ee40b535469202e869df1bac5d10700b4b47c49d31da4b1416fc08e31a7e1e5d32d348bc4d4a11a3ce1294d12456fd953ceb6c844d34e3ddc74f32c_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "The phone is dead. Long live . . . what exactly?",
-      "url": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
-      "description": "TechCrunch is a leading technology news and information website, focusing on innovative business ideas, technological advancements, breaking news, analysis.",
-      "author": "Connie Loizos",
-      "published_date": "2025-12-30T21:37:03-08:00",
-      "category": "Trending",
-      "tags": [
-        "Artificial Intelligence",
-        "Tech News",
-        "Smartphones"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1730818027558-e59f8e6b175c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGRlYWQlMjBsb25nJTIwbGl2ZXxlbnwwfDB8fHwxNzY3MjU3NTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025",
-      "url": "https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/",
-      "description": "A record number of European deep tech university spinouts have reached unicorn or centaur status, with valuations reaching $1 billion or revenue exceeding $100 million in 2025.",
-      "author": "Anna Heim",
-      "published_date": "2025-12-30T10:00:00-08:00",
-      "category": "Trending",
-      "tags": [
-        "European",
-        "deep tech",
-        "university spinouts",
-        "unicorn",
-        "centaur",
-        "valuations",
-        "revenue"
-      ],
-      "thumbnail": "https://pixabay.com/get/g02a46c26d0862969a213701532c1b0b9bca92bf507cc6d3d03c2f9d8c91ad995707b446b4254bed2eeb0eb42e18b3a47_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "12 investors dish on what 2026 will bring for climate tech",
-      "url": "https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/",
-      "description": "Climate tech is on the horizon for 2026, according to a group of investors who shared their predictions with TechCrunch.",
-      "author": "Tim De Chant",
-      "published_date": "2025-12-30T09:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "climate tech",
-        "investors",
-        "predictions",
-        "2026"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1704793027965-da6e888e89fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxpbnZlc3RvcnMlMjBkaXNoJTIwYnJpbmclMjBjbGltYXRlfGVufDB8MHx8fDE3NjcyNTc1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "The best AI-powered dictation apps of 2025",
-      "url": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
-      "description": "Discover the top AI-powered dictation apps for 2025, from speech-to-text software to voice recognition tools. Find the best app for your needs and take your productivity to the next level.",
-      "author": "Ivan Mehta",
-      "published_date": "2025-12-30T08:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "AI-powered dictation apps",
-        "speech-to-text software",
-        "voice recognition tools"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1649091245850-71ad5a18e117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwcG93ZXJlZCUyMGRpY3RhdGlvbiUyMGFwcHN8ZW58MHwwfHx8MTc2NzI1NzU1NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
-      "url": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
-      "description": "VCs predict enterprises will spend more on AI in 2026, through fewer vendors",
-      "author": "Rebecca Szkutak",
-      "published_date": "2025-12-30T07:30:24-08:00",
-      "category": "Technology",
-      "tags": [
-        "AI",
-        "Venture Capital",
-        "Artificial Intelligence",
-        "Enterprise Technology"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1650821414390-276561abd95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwcmVkaWN0JTIwZW50ZXJwcmlzZXMlMjBzcGVuZCUyMGZld2VyfGVufDB8MHx8fDE3NjcyNTc1NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "The top 26 consumer/edtech companies from Disrupt Startup Battlefield",
-      "url": "https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/",
-      "description": "A list of the top consumer edtech startups competing in this year's Disrupt Startup Battlefield",
+      "title": "Discord’s IPO could happen in March",
+      "url": "https://techcrunch.com/2026/01/07/discords-ipo-could-happen-in-march/",
+      "description": "Discord is reportedly planning to go public through an initial public offering (IPO) in early 2024, but some sources suggest that this date may be pushed back to March 2026.",
       "author": "Julie Bort",
-      "published_date": "2025-12-30T07:00:00-08:00",
-      "category": "Education",
-      "tags": [
-        "consumer",
-        "edtech",
-        "startups",
-        "Disrupt",
-        "Startup",
-        "Battlefield"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1654861577468-dd7a0c2fcbfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb25zdW1lciUyMGVkdGVjaCUyMGNvbXBhbmllcyUyMGRpc3J1cHR8ZW58MHwwfHx8MTc2NzI1NzU2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Here’s what you should know about the US TikTok deal",
-      "url": "https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/",
-      "description": "The US government is set to review the acquisition of TikTok by Oracle and Walmart. The deal aims to address concerns about data privacy and national security.",
-      "author": "Lauren Forristal",
-      "published_date": "2025-12-30T06:00:00-08:00",
+      "published_date": "2026-01-07T11:18:22-08:00",
       "category": "Trending",
       "tags": [
-        "US TikTok deal",
-        "data privacy",
-        "national security"
+        "Discord",
+        "IPO",
+        "TechCrunch"
       ],
-      "thumbnail": "https://pixabay.com/get/gd0038d4a0d208a8d254735c9981f1016075c920967dbad1bd3e9e9ce4cbb812aeafff5a931f25723b7140ba50608d8da4cdcb2b0d949b174d3e7381cb28caefe_640.jpg",
+      "thumbnail": "https://images.unsplash.com/photo-1582647790126-0fd37ff34f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNjb3JkJTIwaGFwcGVuJTIwbWFyY2h8ZW58MHwwfHx8MTc2Nzg1MDk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Meta just bought Manus, an AI startup everyone has been talking about",
-      "url": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
-      "description": "Meta has acquired Manus, a leading AI startup that provides AI-powered tools for developers and businesses.",
-      "author": "Connie Loizos",
-      "published_date": "2025-12-29T21:39:08-08:00",
-      "category": "Technology",
+      "title": "Shopify competitor Swap raises $100M six months after raising $40M",
+      "url": "https://techcrunch.com/2026/01/07/shopify-competitor-swap-raises-100m-six-months-after-raising-40m/",
+      "description": "Shopify competitor Swap has raised $100 million just six months after its previous funding round, which saw it raise $40 million.",
+      "author": "Julie Bort",
+      "published_date": "2026-01-07T11:10:33-08:00",
+      "category": "Trending",
       "tags": [
-        "Meta",
-        "AI",
-        "startup"
+        "Shopify",
+        "funding",
+        "Swap"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1696041758578-db4b9b94a4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtZXRhJTIwYm91Z2h0JTIwbWFudXMlMjBzdGFydHVwfGVufDB8MHx8fDE3NjcyNTc1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1586880244543-0528a802be97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzaG9waWZ5JTIwY29tcGV0aXRvciUyMHN3YXAlMjByYWlzZXN8ZW58MHwwfHx8MTc2Nzg1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "How to make your startup stand out in a crowded market, according to investors",
-      "url": "https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/",
-      "description": "TechCrunch is the premier source of tech industry news, insights, and information, offering articles on emerging tech topics, gadgets, software, apps, companies, venture capital, startups, and more.",
-      "author": "Dominic-Madori Davis",
-      "published_date": "2025-12-29T13:00:00-08:00",
+      "title": "Where VCs think AI startups can win, even with OpenAI in the game",
+      "url": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
+      "description": "TechCrunch's 2026 predictions on how AI startups will innovate despite OpenAI's dominance.",
+      "author": "Theresa Loconsolo",
+      "published_date": "2026-01-07T10:53:35-08:00",
       "category": "Technology",
       "tags": [
+        "ai",
         "startups",
-        "investors",
-        "founder pitch"
+        "vc",
+        "openai"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1635144432103-47f3a18bae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtYWtlJTIweW91ciUyMHN0YXJ0dXAlMjBzdGFuZHxlbnwwfDB8fHwxNzY3MjU3NTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1638366170162-915f9e09ee42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aGluayUyMHN0YXJ0dXBzJTIwZXZlbiUyMG9wZW5haXxlbnwwfDB8fHwxNzY3ODUwOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Social media follower counts have never mattered less, creator economy execs say",
-      "url": "https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/",
-      "description": "The social media landscape is changing, and follower counts may not be as important as previously thought. Creator economy executives are speaking out about the shift.",
-      "author": "Amanda Silberling",
-      "published_date": "2025-12-29T12:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "social media",
-        "follower counts",
-        "creator economy"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1618987892200-a2f7a3d05529?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGZvbGxvd2VyJTIwY291bnRzfGVufDB8MHx8fDE3NjcyNTc1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "2025 was the year AI got a vibe check",
-      "url": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
-      "description": "In 2025, AI made its presence felt in various aspects of our lives. From fashion to finance, AI was used to create more stylish and efficient systems.",
+      "title": "Anthropic reportedly raising $10B at $350B valuation",
+      "url": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
+      "description": "AI startup Anthropic is reportedly raising a massive $10 billion at a $350 billion valuation.",
       "author": "Rebecca Bellan",
-      "published_date": "2025-12-29T11:00:00-08:00",
+      "published_date": "2026-01-07T10:36:53-08:00",
       "category": "AI & ML",
       "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "Machine Learning"
+        "Anthropic",
+        "AI startup",
+        "valuation"
       ],
-      "thumbnail": "https://pixabay.com/get/g73a854765def2446235b7c07c1d5c926b7bc6b0db72741408ec916d87c99d57553693d5ceb6b959977ca146901e9177e2bcab6f3b2d4aab27a9ecf1ac1ae9e2f_640.jpg",
+      "thumbnail": "https://images.unsplash.com/photo-1618129272309-318daf7c3bf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbnRocm9waWMlMjByZXBvcnRlZGx5JTIwcmFpc2luZyUyMHZhbHVhdGlvbnxlbnwwfDB8fHwxNzY3ODUwOTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Here Are the 7 Best Places to Sell Your Tech Clutter This New Year",
-      "url": "https://www.cnet.com/tech/best-places-to-sell-electronics/",
-      "description": "Get ready to declutter and cash in on your old gadgets. Our shopping experts scour the web for the best deals on electronics, from smartphones to laptops to tablets.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
+      "title": "VC predicts the consumer AI products OpenAI ’won’t want to kill’",
+      "url": "https://techcrunch.com/podcast/investing-in-the-consumer-ai-products-openai-wont-want-to-kill/",
+      "description": "A venture capitalist makes a bold prediction about the future of AI-powered consumer products.",
+      "author": "Rebecca Bellan",
+      "published_date": "2026-01-07T10:15:00-08:00",
+      "category": "Technology",
       "tags": [
-        "sell",
-        "electronics",
-        "tech"
+        "AI",
+        "OpenAI",
+        "Consumer AI"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1580342664746-c2fe217cd671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwcGxhY2VzJTIwc2VsbCUyMHlvdXJ8ZW58MHwwfHx8MTc2NzI1NzU5MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
+      "thumbnail": "https://pixabay.com/get/gb5ae74cae2a4e3a77edd398ed091ee9e926bb8bcd78e6148a5346313c6c8be5fb8a9d4bbaf17266a8e68ba7b945c9211bb0e026e43b1a53198a199362d689dd1_640.jpg",
+      "source": "TechCrunch"
     },
     {
-      "title": "Stranger Things Ending Got You Down? This Quirky '80s Horror Movie on Tubi Is the Antidote",
-      "url": "https://www.cnet.com/tech/services-and-software/stranger-things-ending-netflix-80s-horror-movie-free-tubi-gate/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
+      "title": "Skylight debuts Calendar 2 to keep your family organized",
+      "url": "https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/",
+      "description": "Skylight has unveiled its latest tool for keeping families on top of their schedules: Calendar 2. The new feature is designed to help parents stay organized and in sync with their family members.",
+      "author": "Sarah Perez",
+      "published_date": "2026-01-07T10:00:00-08:00",
+      "category": "Technology",
       "tags": [
-        "Stranger Things",
-        "80s Horror Movie",
-        "Tubi"
+        "Skylight",
+        "Calendar 2",
+        "Family Organization"
       ],
-      "thumbnail": "https://pixabay.com/get/g5c91466214d4212724c32d8cbd7e733ee37940137fd7af2e04db6ef65e9f84bb12c81e7c6bd919af4c24be984da1b41fe26ad3cfccac393970ebe4a6b525fac1_640.jpg",
-      "source": "CNET"
+      "thumbnail": "https://images.unsplash.com/photo-1597768164194-b804b42bd61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxza3lsaWdodCUyMGRlYnV0cyUyMGNhbGVuZGFyJTIwa2VlcHxlbnwwfDB8fHwxNzY3ODUxMDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
     },
     {
-      "title": "Today's NYT Mini Crossword Answers for Thursday, Jan. 1",
-      "url": "https://www.cnet.com/tech/todays-nyt-mini-crossword-answers-for-thursday-jan-1/",
+      "title": "Google Classroom’s new tool uses Gemini to transform lessons into podcast episodes",
+      "url": "https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
+      "description": "Google Classroom is adding a new feature that lets teachers turn their lessons into podcast episodes, complete with voiceover recordings and audio clips. The tool uses Gemini AI to create the podcasts.",
+      "author": "Lauren Forristal",
+      "published_date": "2026-01-07T09:55:35-08:00",
+      "category": "Technology",
+      "tags": [
+        "Google Classroom",
+        "Gemini AI",
+        "podcast episodes"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1587882242636-596ab6349e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBjbGFzc3Jvb20lMjB0b29sJTIwdXNlc3xlbnwwfDB8fHwxNzY3ODUxMDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Caterpillar taps Nvidia to bring AI to its construction equipment",
+      "url": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
+      "description": "Construction equipment company Caterpillar is partnering with Nvidia to integrate artificial intelligence into its products.",
+      "author": "Rebecca Szkutak",
+      "published_date": "2026-01-07T09:00:00-08:00",
+      "category": "Technology",
+      "tags": [
+        "Artificial Intelligence",
+        "Construction Equipment",
+        "Nvidia"
+      ],
+      "thumbnail": "https://pixabay.com/get/gab68a1df8fea943af12704d34c235015a5a77a4b4ccc1199ef0381cf2a6a1d36873349902d9635cf6bab6a831794a7d7f2397a740dae0471ecc0cb44f9743f33_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How Quilt solved the heat pump’s biggest challenge",
+      "url": "https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/",
+      "description": "Quilt, a startup that specializes in heat pump design and manufacturing, has announced that it has successfully solved one of the biggest challenges facing heat pumps: ice formation. The company’s innovative approach to reducing the risk of ice buildup could help increase the efficiency and reliability of these energy-efficient devices.",
+      "author": "Tim De Chant",
+      "published_date": "2026-01-07T08:00:00-08:00",
+      "category": "Technology",
+      "tags": [
+        "heat pumps",
+        "ice formation",
+        "Quilt",
+        "startup"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1760445799125-b7441f91cc07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxxdWlsdCUyMHNvbHZlZCUyMGhlYXQlMjBwdW1wfGVufDB8MHx8fDE3Njc4NTEwMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "WhatsApp rolls out new group chat features, including member tags",
+      "url": "https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/",
+      "description": "WhatsApp has introduced a new feature that allows users to add tags to their group chats.",
+      "author": "Aisha Malik",
+      "published_date": "2026-01-07T07:31:09-08:00",
+      "category": "Technology",
+      "tags": [
+        "group chat features",
+        "member tags",
+        "WhatsApp",
+        "messaging app"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1762330469727-156f5369e4f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx3aGF0c2FwcCUyMHJvbGxzJTIwZ3JvdXAlMjBjaGF0fGVufDB8MHx8fDE3Njc4NTEwMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Today's NYT Mini Crossword Answers for Thursday, Jan. 8",
+      "url": "https://www.cnet.com/tech/todays-nyt-mini-crossword-answers-for-thursday-jan-8/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": null,
       "category": "Trending",
       "tags": [
         "NYT Mini Crossword",
-        "Crossword Puzzle",
+        "Crossword Answers",
         "Tech Deals"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1603290989059-0e17d155543e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0b2RheSUyMG1pbmklMjBjcm9zc3dvcmQlMjBhbnN3ZXJzfGVufDB8MHx8fDE3NjcyNTc1OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1603290989059-0e17d155543e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0b2RheSUyMG1pbmklMjBjcm9zc3dvcmQlMjBhbnN3ZXJzfGVufDB8MHx8fDE3Njc4NTEwMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
-      "title": "Today's NYT Connections: Sports Edition Hints and Answers for Jan. 1, #465",
-      "url": "https://www.cnet.com/tech/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-1-465/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Sports",
-        "Edition",
-        "Hints"
-      ],
-      "thumbnail": "https://pixabay.com/get/ge2acf345130d66800171970277745f1e362be0423b1bbdadcf82670e96364a72ff21cacd17bf64056f051a64d9197787d4f2d7a214a095478abd29fa1b15d331_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Today's NYT Strands Hints, Answers and Help for Jan. 1, #669",
-      "url": "https://www.cnet.com/tech/todays-nyt-strands-hints-answers-and-help-for-jan-1-669/",
+      "title": "I Just Had a 10-Minute Conversation in Polish (I Don't Speak Any Polish)",
+      "url": "https://www.cnet.com/tech/ces-2026-vasco-language-translator/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": null,
       "category": "Technology",
       "tags": [
-        "NYT",
-        "Strands",
-        "Tech"
+        "Polish",
+        "Conversation",
+        "Language Translated"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1665930490023-a139c2bb7420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0b2RheSUyMHN0cmFuZHMlMjBoaW50cyUyMGFuc3dlcnN8ZW58MHwwfHx8MTc2NzI1NzYwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1562255510-81104e9a3ea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtaW51dGUlMjBjb252ZXJzYXRpb24lMjBwb2xpc2glMjBzcGVha3xlbnwwfDB8fHwxNzY3ODUxMDM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
-      "title": "Today's Wordle Hints, Answer and Help for Jan. 1, #1,657",
-      "url": "https://www.cnet.com/tech/todays-wordle-hints-answer-and-help-for-jan-1-1657/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Wordle",
-        "Tech",
-        "Deals"
-      ],
-      "thumbnail": "https://pixabay.com/get/gd01553fb36a2b7fc74fe295bda1034d133df534fbe104051caddf22e944a89f060f0a7bbb612a2e008353b31148ed4db_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Today's NYT Connections Hints, Answers and Help for Jan. 1, #935",
-      "url": "https://www.cnet.com/tech/todays-nyt-connections-hints-answers-and-help-for-jan-1-935/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "NYT",
-        "Connections",
-        "Tech"
-      ],
-      "thumbnail": "https://pixabay.com/get/g3937f36d039270746becd07ccccc5de88ba7ca6d245db417237b2d0da2724a3019355e1bf40084192056fcc00d572c7d_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Want to Vacuum Seal Your Groceries? Avoid These 7 Foods",
-      "url": "https://www.cnet.com/news/never-vacuum-seal-these-7-foods/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "Vacuum Sealing",
-        "Groceries",
-        "Foods",
-        "Shopping",
-        "Tech"
-      ],
-      "thumbnail": "https://pixabay.com/get/g8e8a18bc96fc001dfa664a028b1bdbf8201d0b5da38eef17dd1bfe02bf2f73745cf074c475a2c0f29531783fa491af35ebd45b84194f008174eb57d3cc8b66c4_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Sip or Skip? Expert Tips for How Long Opened Wine Really Lasts",
-      "url": "https://www.cnet.com/news/how-long-can-you-keep-an-open-bottle-of-wine/",
-      "description": "CNET's shopping experts help you find the best deals on tech, home and entertainment products. Our shopping experts unearth the best tech and home essential deals every day.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "wine",
-        "open bottle",
-        "expert tips"
-      ],
-      "thumbnail": "https://pixabay.com/get/g8e4f38812ee81176d19a3dcbaf8c3e6c8a3d8c50b3095018af953c693b181ee6d0ea174cf8534c1d0a8235a23e30f351f9ec4cb8b1fcf953113aa6cedf76f69b_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Want a Delicious Dinner? Don't Cook These 5 Foods in Your Nonstick Pan",
-      "url": "https://www.cnet.com/news/stop-putting-these-5-foods-in-a-nonstick-pan/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "title": "This Modular Watch Band Lets You Hide Your Apple Watch Under Your Rolex",
+      "url": "https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/",
+      "description": "This watch band lets you hide your Apple Watch under a Rolex, giving it the illusion of being a traditional timepiece. It's a clever solution for those who want to wear both watches at once without drawing attention.",
       "author": "",
       "published_date": null,
       "category": "Technology",
       "tags": [
-        "nonstick pan",
-        "cooking",
-        "food",
-        "delicious dinner"
+        "watch",
+        "Apple Watch",
+        "Rolex",
+        "smartwatch",
+        "tech"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1692288843207-786c8cb62e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx3YW50JTIwZGVsaWNpb3VzJTIwZGlubmVyJTIwY29va3xlbnwwfDB8fHwxNzY3MjU3NjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1733437389749-7ea6b0643cc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtb2R1bGFyJTIwd2F0Y2glMjBiYW5kJTIwbGV0c3xlbnwwfDB8fHwxNzY3ODUxMDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
-      "title": "Samsung’s Small-Screen Galaxy Z Flip 7 Is $200 Off Instantly or Free With a New Line",
-      "url": "https://www.cnet.com/deals/samsung-galaxy-z-flip-7-deals/",
-      "description": "CNET may earn a commission on purchases made through links in this article. Our shopping experts unearth the best tech and home essential deals every day.",
+      "title": "New Foldable Phones Are Already Shaking Up the 2026 Smartphone Market",
+      "url": "https://www.cnet.com/tech/mobile/commentary-foldable-phones-in-2026/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": null,
       "category": "Trending",
       "tags": [
-        "Samsung Galaxy Z Flip 7",
-        "Deal",
-        "Tech"
+        "foldable phones",
+        "smartphone market",
+        "tech"
       ],
-      "thumbnail": "https://pixabay.com/get/g7897088e295131e86743122e7fbcee92efdfe216272e2d039f69c2aaad8762ebb090c72242f751d48769adf14357c762ae2fc29c2d5de16967774326b8b3f096_640.jpg",
+      "thumbnail": "https://images.unsplash.com/photo-1726592222670-ba7a65748d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmb2xkYWJsZSUyMHBob25lcyUyMGFscmVhZHklMjBzaGFraW5nfGVufDB8MHx8fDE3Njc4NTEwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     },
     {
-      "title": "Windows 10 Users Can Still Get Free Security Updates. Here's How",
-      "url": "https://www.cnet.com/tech/windows-10-users-free-extended-security-updates/",
-      "description": "For Windows 10 users, free extended security updates are available until October 2025",
+      "title": "2026 Will Be the Year of World Models. Here",
+      "url": "https://www.cnet.com/tech/services-and-software/2026-will-be-the-year-of-world-models-heres-why-they-matter-more-than-llms/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day.",
+      "author": "",
+      "published_date": "2026-01-01",
+      "category": "Trending",
+      "tags": [
+        "World Models",
+        "LLMs",
+        "Artificial Intelligence"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1498831624351-bb3e382fe091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx5ZWFyJTIwd29ybGQlMjBtb2RlbHN8ZW58MHwwfHx8MTc2Nzg1MTA0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "These Are the Coolest Laptops We've Seen at CES 2026",
+      "url": "https://www.cnet.com/tech/computing/these-are-the-coolest-laptops-weve-seen-at-ces-2026/",
+      "description": "CNET's shopping experts showcase the best tech and home essential deals every day.",
       "author": "",
       "published_date": null,
       "category": "Technology",
       "tags": [
-        "Windows 10",
-        "Security Updates",
-        "Extended Security"
+        "CES",
+        "CES 2026",
+        "laptops"
       ],
-      "thumbnail": "https://pixabay.com/get/g72803b7ccce4cc5376d765bacccc591233df3249cfbd6c5efaf936f2017337e25f49c1f5d4f1e92bbe4bb027f0626e8ef8b8d8eaa1c6290ffb0e9cbdc3551a7d_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Walmart Deals of the Day: Grab a $22 Renpho Smart Scale for a Healthier 2026",
-      "url": "https://www.cnet.com/deals/walmart-deals-of-the-day-december-31/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "Walmart Deals",
-        "Renpho Smart Scale",
-        "Healthier 2026"
-      ],
-      "thumbnail": "https://pixabay.com/get/gb0618c3a0680c5ea9e509832c08d15857569b7034d0cc555fd58664e29640ca8bdb91d49507876adbdb3ce80bac1d4ae6aa8ebbcc8df50d34e280c5bf6c35cab_640.jpg",
-      "source": "CNET"
-    },
-    {
-      "title": "Trump Fails to Deliver on Promise of $500 Gold Phone in 2025. Could We See It Next Year?",
-      "url": "https://www.cnet.com/tech/mobile/trump-phone-delayed-until-2026/",
-      "description": "A high-end smartphone with a gold finish and 500-dollar price tag was originally set to be released in 2025.",
-      "author": "",
-      "published_date": "2024-01-01",
-      "category": "Technology",
-      "tags": [
-        "Trump Phone",
-        "Gold Smartphone",
-        "New Year",
-        "Release Date"
-      ],
-      "thumbnail": "https://pixabay.com/get/gefd7ccca1e8c385d66b1737e9a8d00c8954af3c412ead806fb277d958010701fbfc7a3eeeaf92dd4dfe66c256192bcbf9746428097e3c483ac9fb35c54076112_640.jpg",
+      "thumbnail": "https://images.unsplash.com/photo-1634947096506-6d9f114cf64e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb29sZXN0JTIwbGFwdG9wcyUyMHNlZW58ZW58MHwwfHx8MTc2Nzg1MTA0OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "CNET"
     }
   ]
