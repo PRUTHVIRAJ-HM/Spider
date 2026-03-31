@@ -4,705 +4,899 @@
     "TechCrunch",
     "CNET"
   ],
-  "scraped_at": "2026-01-08T11:14:08.283226",
-  "total_articles": 46,
+  "scraped_at": "2026-03-31T22:10:23.738953",
+  "total_articles": 53,
   "articles": [
     {
-      "title": "Snatching Maduro was all about the spectacle",
-      "url": "https://www.theverge.com/policy/858075/trump-venezuela-maduro-kidnapping-spectacle",
-      "description": "US President Donald Trump played a role in the dramatic and violent scene that unfolded in Venezuela last week, according to sources.",
+      "title": "Apple II Forever!",
+      "url": "https://www.theverge.com/tech/900677/apple-ii-personal-computer",
+      "description": "Apple would never have survived a decade without Steve Wozniak’s marvelous machine.",
       "author": "",
-      "published_date": "2026-01-07T23:38:18+00:00",
-      "category": "Politics",
-      "tags": [
-        "Trump",
-        "Venezuela",
-        "Maduro"
-      ],
-      "thumbnail": "https://pixabay.com/get/g778b2c18c7fd03eddf1e7fc0aa1d619302324b226eed329494a3dc591a364898493dbc49db21caf48447e4b618fdb7fb1c804d62fee9e79400f749bc7427b7ec_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Health, encouraging users to connect their medical records",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records",
-      "description": "ChatGPT Health connects medical records to a conversational AI tool",
-      "author": "",
-      "published_date": "2026-01-07T19:00:00+00:00",
-      "category": "AI & ML",
-      "tags": [
-        "ChatGPT",
-        "Medical Records",
-        "Artificial Intelligence"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1676299081847-824916de030a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvcGVuYWklMjBsYXVuY2hlcyUyMGNoYXRncHQlMjBoZWFsdGh8ZW58MHwwfHx8MTc2Nzg1MDg3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "CES 2026 live: all the news, announcements, and innovations from the show floor and beyond",
-      "url": "https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements",
-      "description": "Get ready for a week of high-tech gadget unveilings at CES 2026. Here's everything you need to know.",
-      "author": "",
-      "published_date": "2026-01-08T03:48:43+00:00",
-      "category": "Trending",
-      "tags": [
-        "CES",
-        "Gadgets",
-        "Innovations",
-        "Technology",
-        "News",
-        "Announcements"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1742805382149-3c2f0cd0f300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsaXZlJTIwbmV3cyUyMGFubm91bmNlbWVudHMlMjBpbm5vdmF0aW9uc3xlbnwwfDB8fHwxNzY3ODUwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "I played with the Lego Smart Brick",
-      "url": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick",
-      "description": "The Lego Smart Brick is a toy that lets you build digital models. We spent some time playing with it to see if it's fun and useful.",
-      "author": "",
-      "published_date": "2026-01-07T12:00:00+00:00",
+      "published_date": "2026-03-30T12:00:00+00:00",
       "category": "Technology",
       "tags": [
-        "Lego Smart Brick",
-        "digital models",
-        "toy"
+        "Apple II",
+        "Steve Wozniak",
+        "personal computer",
+        "legacy"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1728550958364-1e0348a09508?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxwbGF5ZWQlMjBsZWdvJTIwc21hcnQlMjBicmlja3xlbnwwfDB8fHwxNzY3ODUwODc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1654580824383-94caa443394b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGZvcmV2ZXJ8ZW58MHwwfHx8MTc3NDk3NDg1OXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "The weirdest tech we’ve seen at CES 2026",
-      "url": "https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements",
-      "description": "At CES 2026, we saw some of the strangest tech announcements from companies like Lenovo and HP.",
+      "title": "For $200 more, you can get a MacBook Air",
+      "url": "https://www.theverge.com/tech/901698/macbook-air-history",
+      "description": "The article explains how spending an extra $200 can get you a newer MacBook Air. It outlines the upgrades and why the price bump may be worth it.",
       "author": "",
-      "published_date": "2026-01-07T12:30:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "CES 2026",
-        "weirdest tech",
-        "Lenovo",
-        "HP"
-      ],
-      "thumbnail": "https://pixabay.com/get/gfe24ce6d55beb6e97556f960caf0dad27ce1579a891e1a3c645276ab24f61241967b5da944fa4ed0d3f82f9143d843809961592eb2759eccbd08178340ac973f_640.jpg",
-      "source": "The Verge"
-    },
-    {
-      "title": "Netflix is bringing back some big franchises in 2026",
-      "url": "https://www.theverge.com/streaming/856756/netflix-2026-releases-bridgerton-one-piece-3-body",
-      "description": "Netflix will revive popular shows like Bridgerton and One Piece with new seasons in 2026.",
-      "author": "",
-      "published_date": "2026-01-07T14:00:00+00:00",
-      "category": "Trending",
-      "tags": [
-        "Netflix",
-        "Bridgerton",
-        "One Piece"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxuZXRmbGl4JTIwYnJpbmdpbmclMjBiYWNrJTIwZnJhbmNoaXNlc3xlbnwwfDB8fHwxNzY3ODUwODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Samsung's Profits Surge on Memory Chip Crisis",
-      "url": "https://www.theverge.com/tech/858348/samsung-profits-surge-on-memory-chip-crisis",
-      "description": "The chip shortage created by our desire to watch AI-generated videos of Trump and Maduro dance in matching Nike sweatsuits, has nearly tripled Samsung’s profits for the quarter, as memory prices surged 40-50 percent.",
-      "author": "",
-      "published_date": "2026-01-08T05:23:38+00:00",
+      "published_date": "2026-03-30T13:05:19+00:00",
       "category": "Technology",
       "tags": [
-        "Samsung",
-        "memory chip",
-        "chip shortage"
+        "MacBook Air",
+        "price",
+        "Apple",
+        "upgrade",
+        "laptops"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1696041756125-257354c459a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzYW1zdW5nJTIwcHJvZml0cyUyMHN1cmdlJTIwbWVtb3J5fGVufDB8MHx8fDE3Njc4NTA4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtYWNib29rfGVufDB8MHx8fDE3NzQ5NzQ4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Fly Wing: A Folding VTOL Fighter Jet That Wants to Bring Ace Combat to Life",
-      "url": "https://www.theverge.com/tech/858006/theres-nothing-at-ces-i-want-to-try-more-than-the-fly-wing-x-wing-fighter",
-      "description": "This folding VTOL foam aircraft gives you a first-person view from inside a tiny toy fighter jet cockpit. A head-tracking DJI drone camera beams video to DJI goggles over DJI's long-range O4 wireless tech; Fly Wing claims 60-minute battery life and nearly 75mph top speed. $2,000, tentatively in March, for the complete kit.",
+      "title": "Steve Jobs and the greatest run of products in tech history",
+      "url": "https://www.theverge.com/tech/900655/steve-jobs-imac-ibook-ipod",
+      "description": "The article examines Steve Jobs' string of iconic products—from the iMac and iBook to the iPod—that defined an era of innovation in tech. It argues this period represents the greatest run of products in technology history.",
       "author": "",
-      "published_date": "2026-01-08T03:48:43+00:00",
+      "published_date": "2026-03-30T11:00:00+00:00",
       "category": "Technology",
       "tags": [
-        "Fly Wing",
-        "VTOL",
-        "Folding Fighter Jet",
-        "Ace Combat",
-        "DJI Drone"
+        "Steve Jobs",
+        "iMac",
+        "iPod",
+        "product lineup",
+        "tech history"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1644620990884-0e6e8743f71a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx3aW5nJTIwZm9sZGluZyUyMHZ0b2wlMjBmaWdodGVyfGVufDB8MHx8fDE3Njc4NTA4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1640767361828-8ad8f2c461ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzdGV2ZSUyMGpvYnMlMjBncmVhdGVzdCUyMHByb2R1Y3RzfGVufDB8MHx8fDE3NzQ5NzQ4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Asus ROG Zephyrus Duo 15 Review: A Pricey First Effort",
-      "url": "https://www.theverge.com/21431381/asus-rog-zephyrus-duo-15-review",
-      "description": "After 2020’s pricey first effort, Asus is trying the Zephyrus Duo formula again.",
+      "title": "These retractable studded tires might save our roads, ears, and lungs",
+      "url": "https://www.theverge.com/transportation/902561/nokian-hakkapeliitta-tire-retract-stud-winter",
+      "description": "Nokian's new retractable studded tires aim to improve winter driving by reducing road noise and particle emissions while still providing the grip needed for icy conditions.",
       "author": "",
-      "published_date": "2026-01-08T03:02:29+00:00",
+      "published_date": "2026-03-30T11:30:00+00:00",
       "category": "Technology",
       "tags": [
-        "Asus",
-        "ROG Zephyrus Duo 15",
-        "Review"
+        "retractable tires",
+        "studded tires",
+        "road safety",
+        "noise reduction",
+        "pollution"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1717130603333-88e0a4053eb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhc3VzJTIwemVwaHlydXMlMjByZXZpZXclMjBwcmljZXl8ZW58MHwwfHx8MTc2Nzg1MDg5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1764524325286-982e81b7a044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyZXRyYWN0YWJsZSUyMHN0dWRkZWQlMjB0aXJlcyUyMHNhdmV8ZW58MHwwfHx8MTc3NDk3NDg3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Nintendo Switch Hulu App Removed from eShop",
-      "url": "https://www.theverge.com/2017/11/11/16633818/nintendo-switch-hulu-app-perfectly-good-streaming-gadget",
-      "description": "The Hulu app is no longer available in the Nintendo Switch eShop with support for the application ending on February 5, 2026.",
+      "title": "Rank the 50 best Apple products",
+      "url": "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products",
+      "description": "The Verge invites readers to vote on the 50 best Apple products, spotlighting the company's most iconic devices and innovations. Share your picks and see how your favorites rank against the rest.",
       "author": "",
-      "published_date": "2026-01-08T01:00:42+00:00",
-      "category": "Technology",
-      "tags": [
-        "Nintendo",
-        "Hulu",
-        "Nintendo Switch"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1662466984611-bf96022e423e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxuaW50ZW5kbyUyMHN3aXRjaCUyMGh1bHUlMjByZW1vdmVkfGVufDB8MHx8fDE3Njc4NTA5MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Disney Plus is getting vertical video",
-      "url": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
-      "description": "Vertical videos are set to become a regular feature on Disney Plus.",
-      "author": "",
-      "published_date": "2026-01-08T00:51:26+00:00",
-      "category": "Technology",
-      "tags": [
-        "DisneyPlus",
-        "VerticalVideo",
-        "StreamingServices"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1574145714156-5b87ca393057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNuZXklMjBwbHVzJTIwZ2V0dGluZyUyMHZlcnRpY2FsfGVufDB8MHx8fDE3Njc4NTA5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "The best iPad deals you can get right now",
-      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
-      "description": "Save up to $100 on the latest iPads, and snag a free pair of AirPods.",
-      "author": "",
-      "published_date": "2026-01-08T00:01:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "iPad",
-        "deals",
-        "Apple"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1621750291306-c9afba316115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwaXBhZCUyMGRlYWxzJTIwcmlnaHR8ZW58MHwwfHx8MTc2Nzg1MDkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Lego announces Smart Brick, the \\u2017most significant evolution\\u2019 in 50 years",
-      "url": "https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years",
-      "description": "Lego is introducing a new smart brick that will be the most significant evolution in 50 years, according to its CEO Kjeld Kirk Kristiansen.",
-      "author": "",
-      "published_date": "2026-01-05T19:00:00Z",
-      "category": "Technology",
-      "tags": [
-        "Lego",
-        "Smart Brick",
-        "Evolution"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1681415851723-dca11d0ec9a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsZWdvJTIwYW5ub3VuY2VzJTIwc21hcnQlMjBicmlja3xlbnwwfDB8fHwxNzY3ODUwOTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "The best tech announced at CES 2026 so far",
-      "url": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
-      "description": "Get ready for the latest gadgets and innovations from CES 2026. We're rounding up some of the most notable tech announcements, including new smartphones, smart home devices, and more.",
-      "author": "",
-      "published_date": "2026-01-05T14:29:14",
-      "category": "Technology",
-      "tags": [
-        "CES 2026",
-        "Smartphones",
-        "Smart Home Devices"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1761044591996-7a05341a3e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwdGVjaCUyMGFubm91bmNlZHxlbnwwfDB8fHwxNzY3ODUwOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "US abandons UN climate change framework in move to 'free itself from UN red tape'",
-      "url": "https://www.theverge.com/news/858178/us-abandons-un-climate-change-framework-international-organizations",
-      "description": "The US has formally abandoned the United Nations Framework Convention on Climate Change and other initiatives tackling environmental and human rights issues.",
-      "author": "",
-      "published_date": "2026-01-08T00:00:27+00:00",
-      "category": "Trending",
-      "tags": [
-        "climate change",
-        "UN",
-        "environmental issues"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1569163139394-de4e5f43e5ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhYmFuZG9ucyUyMGNsaW1hdGUlMjBjaGFuZ2UlMjBmcmFtZXdvcmt8ZW58MHwwfHx8MTc2Nzg1MDkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Ford’s AI voice assistant is coming later this year, L3 driving in 2028",
-      "url": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026",
-      "description": "Ford has confirmed that its Level 3 autonomous driving system will be available later this year, and it plans to roll out the technology to L3 vehicles by 2028.",
-      "author": "",
-      "published_date": "2026-01-08T00:00:00+00:00",
-      "category": "Technology",
-      "tags": [
-        "Ford",
-        "AI voice assistant",
-        "Level 3 automation"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1617298005771-f37aa5d7d0cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmb3JkJTIwdm9pY2UlMjBhc3Npc3RhbnQlMjBjb21pbmd8ZW58MHwwfHx8MTc2Nzg1MDkyMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "The Verge"
-    },
-    {
-      "title": "Chase is taking over Apple’s credit card",
-      "url": "https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs",
-      "description": "JPMorgan Chase will take the reins of Apple's credit card service, replacing American Express.",
-      "author": "",
-      "published_date": "2026-01-07T23:57:54+00:00",
+      "published_date": "2026-03-27T10:00:00+00:00",
       "category": "Technology",
       "tags": [
         "Apple",
-        "JPMorgan Chase",
-        "credit card"
+        "products",
+        "ranking",
+        "tech",
+        "devices"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1668697092034-82edc78d1a8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjaGFzZSUyMHRha2luZyUyMG92ZXIlMjBhcHBsZXxlbnwwfDB8fHwxNzY3ODUwOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1611529695235-cbe25cddec4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyYW5rJTIwYmVzdCUyMGFwcGxlJTIwcHJvZHVjdHN8ZW58MHwwfHx8MTc3NDk3NDg4MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Bluetti now charges power stations at up to 1200W in your car",
-      "url": "https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car",
-      "description": "Bluetti has just announced that its portable power stations can now be charged from a car, at up to 1,200W. This means you can easily top up your power station while on the go.",
+      "title": "There is no ethical consumption of HBO’s Harry Potter series",
+      "url": "httpshttps://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
+      "description": "The article argues that watching HBO's upcoming Harry Potter series raises ethical concerns, questioning whether audiences can support the project given the surrounding controversies.",
       "author": "",
-      "published_date": "2026-01-07T23:00:00+00:00",
+      "published_date": "2026-03-29T14:00:00+00:00",
+      "category": "Trending",
+      "tags": [
+        "HBO",
+        "Harry Potter",
+        "ethical consumption",
+        "controversy"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1625675337903-ee71413606a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxldGhpY2FsJTIwY29uc3VtcHRpb24lMjBoYXJyeSUyMHBvdHRlcnxlbnwwfDB8fHwxNzc0OTc0ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "its iOS 26.4 betas",
+      "url": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+      "description": "Apple started testing encrypted RCS messaging with its iOS 26.4 betas, noting the feature would arrive in a future update. The first iOS 26.5 developer beta now includes encrypted RCS, suggesting a public launch may be imminent.",
+      "author": "",
+      "published_date": "2026-03-31T00:34:59+00:00",
       "category": "Technology",
       "tags": [
-        "Bluetti",
-        "Power Station",
-        "Portable Charging"
+        "iOS",
+        "encrypted RCS",
+        "beta",
+        "Apple",
+        "messages"
       ],
-      "thumbnail": "https://pixabay.com/get/gfdf46eb5c60faf07326e640d766cccfcc35617ece85c9a96677ff693c9ec941dd71b179b302b1222deb38ebc43750776890775f896251cc5cc1f40b72c6ac9c6_640.jpg",
+      "thumbnail": "https://pixabay.com/get/g1683d09903a0d215c4915f251ecf987d68c28cc1aecf7372cdbeadec790c6ef575974d3ca367eb308bc937fa95e080528499df20143a4fd5c987c28bcda1246c_640.jpg",
       "source": "The Verge"
     },
     {
-      "title": "The best deals on MacBooks right now",
-      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-      "description": "Get the latest MacBook Air Pro, Mac Mini, and iMac deals from The Verge.",
+      "title": "150 million users later, Roblox competitor Rec Room is shutting down",
+      "url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
+      "description": "Online multiplayer platform Rec Room, once hailed as a major competitor to Roblox and boasting 150 million users, announced it will shut down. The closure marks the end of the social‑gaming service after years of growth.",
       "author": "",
-      "published_date": "2026-01-07T22:59:01+00:00",
+      "published_date": "2026-03-31T00:29:33+00:00",
+      "category": "Trending",
+      "tags": [
+        "Rec Room",
+        "Roblox",
+        "shutdown",
+        "gaming",
+        "150 million users"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1656639969809-ebc544c96955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtaWxsaW9uJTIwdXNlcnMlMjBsYXRlciUyMHJvYmxveHxlbnwwfDB8fHwxNzc0OTc0ODk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale",
+      "url": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
+      "description": "The Verge highlights top spring cleaning gadgets—including vacuums, tools, and air purifiers—available at discounted prices during Amazon’s Big Spring Sale.",
+      "author": "",
+      "published_date": "2026-03-30T23:28:48+00:00",
       "category": "Technology",
       "tags": [
-        "MacBook Air Pro",
-        "deals",
-        "The Verge"
+        "spring cleaning",
+        "Amazon sale",
+        "gadgets",
+        "deals"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1621903763043-96e6aa765e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxiZXN0JTIwZGVhbHMlMjBtYWNib29rcyUyMHJpZ2h0fGVufDB8MHx8fDE3Njc4NTA5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1647381518264-97ff1835026f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmYXZvcml0ZSUyMHNwcmluZyUyMGNsZWFuaW5nJTIwZGVhbHN8ZW58MHwwfHx8MTc3NDk3NDkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Logitech caused its mice to freak out by not renewing a certificate",
-      "url": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
-      "description": "Logitech's mice have stopped working on Macs due to a certification issue with Logi Options.",
+      "title": "The origin story of Apple’s long-running relationship with Foxconn",
+      "url": "https://www.theverge.com/tech/898077/apple-in-china-patrick-mcgee-foxconn",
+      "description": "An excerpt from Patrick McGee’s Apple in China.",
       "author": "",
-      "published_date": "2026-01-07T12:10:34",
+      "published_date": "2026-03-30T13:00:00+00:00",
       "category": "Technology",
       "tags": [
-        "Logitech",
-        "mice",
-        "MacOS"
+        "Apple",
+        "Foxconn",
+        "China",
+        "manufacturing",
+        "supply chain"
       ],
-      "thumbnail": "https://pixabay.com/get/g94d0062ad4f6a254f53d61e40e0fae8b33fa0994de58b7776520adbd36999907f274ce53d09ac3ec3c2bd3679f72472b6caf036dbcf04d29f09af3374025f475_640.jpg",
+      "thumbnail": "https://images.unsplash.com/photo-1552255349-450c59a5ec8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvcmlnaW4lMjBzdG9yeSUyMGFwcGxlJTIwbG9uZ3xlbnwwfDB8fHwxNzc0OTc0OTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "The Verge"
     },
     {
-      "title": "Waymo is rebranding its Zeekr robotaxi",
-      "url": "https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/",
-      "description": "Self-driving car company Waymo has been working on a new robotaxi service called Zeekr. Zeekr will allow users to hail a self-driving taxi at the touch of a button.",
+      "title": "Apple @ 50",
+      "url": "https://www.theverge.com/tech/899623/apple-50-anniversary",
+      "description": "Apple celebrates its 50th anniversary, looking back at the company's evolution and impact on technology.",
+      "author": "",
+      "published_date": "2026-03-30T13:05:16+00:00",
+      "category": "Technology",
+      "tags": [
+        "Apple",
+        "Anniversary",
+        "50th",
+        "Technology"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhcHBsZXxlbnwwfDB8fHwxNzc0OTc0OTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Eidos Montreal is laying off 124 employees",
+      "url": "https://www.theverge.com/games/903684/eidos-montreal-is-laying-off-124-employees",
+      "description": "The Embracer-owned studio behind Marvel’s Guardians of the Galaxy and Deus Ex: Mankind Divided announced it is laying off 124 employees, citing changing project needs across production and support teams. Studio head David Anfossi is also departing.",
+      "author": "",
+      "published_date": "2026-03-30T20:22:57+00:00",
+      "category": "Technology",
+      "tags": [
+        "Eidos Montreal",
+        "layoffs",
+        "Embracer Group",
+        "gaming industry",
+        "Deus Ex"
+      ],
+      "thumbnail": "https://pixabay.com/get/gc8f22b943208511b50cf8d7f1da67232fef925fb1a77eef2c54d11f3a057c0dbc1e3a8d36e3940d181d7d26c2d43aa55_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Bambu Lab Settles with Pop Mart Over 3D Print File Takedown",
+      "url": "https://www.theverge.com/gadgets/903652/bambu-settle-pop-mart-3d-print-file-takedown",
+      "description": "Bambu Lab reached a settlement with Pop Mart over the unauthorized distribution of 3D‑print files, just before a Chinese courtroom would have forced it to defend the hosting of those files. The company removed the files, issued a public apology, and the case suggests other IP rights holders may increase pressure on the 3D‑printing community.",
+      "author": "",
+      "published_date": "2026-03-30T20:03:29+00:00",
+      "category": "Technology",
+      "tags": [
+        "Bambu Lab",
+        "Pop Mart",
+        "3D printing",
+        "IP",
+        "takedown"
+      ],
+      "thumbnail": "https://pixabay.com/get/g608df1bcb77fde33e1b963fa7b991477f1ea6bcab706dc94b0b7bc4236eadf3f5c63544f4dfa59bcae5a94c76b19326b55fa882bbe70fe3c54d8fe0b2bbfdc06_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Android Auto Google amps EV charging routes",
+      "url": "https://www.theverge.com/transportation/903631/android-auto-google-amps-ev-charging-routes",
+      "description": "“We’re bringing Maps’ AI-powered EV charging features to over 350 car models with Android Auto,” the company writes. It should predict where, when, and how long you’ll need to charge — after you punch in charge level manually. Google doesn’t mention battery preconditioning, though both Apple and Google are pursuing that vehicle‑by‑vehicle.",
+      "author": "",
+      "published_date": "2026-03-30T19:52:07+00:00",
+      "category": "Technology",
+      "tags": [
+        "Android Auto",
+        "EV charging",
+        "Google Maps",
+        "AI-powered",
+        "Electric vehicles"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1728684247135-e9156b483fd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbmRyb2lkJTIwYXV0byUyMGdvb2dsZSUyMGFtcHN8ZW58MHwwfHx8MTc3NDk3NDkzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "like Alibaba",
+      "url": "https://www.theverge.com/news/611992/apple-intelligence-ai-china-alibaba-iphone",
+      "description": "After users in China reported seeing Apple Intelligence on their iPhones, Bloomberg’s Mark Gurman said these AI-powered features launched in “error” and Apple has since taken them offline. The Chinese government now requires Apple to partner with local companies like Alibaba to power AI features in the country.",
+      "author": "",
+      "published_date": "2026-03-30T19:51:14+00:00",
+      "category": "AI & ML",
+      "tags": [
+        "Apple Intelligence",
+        "Alibaba",
+        "iPhone",
+        "AI",
+        "China"
+      ],
+      "thumbnail": "https://pixabay.com/get/ga5a9dd10b9688c6b700a47a37c6f28be36355efe3113fd61a16de75e6fce0ed52976a28b3d8d6823e742ae7e2fcd56dd0cff2e733d035123e808b2eefd8c2d56_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "description": "Too much compute, too much competition, and skeptical investors.",
+      "author": "",
+      "published_date": "2026-03-28T12:00:00+00:00",
+      "category": "AI & ML",
+      "tags": [
+        "OpenAI",
+        "Sora",
+        "AI video generation",
+        "compute"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxvcGVuYWklMjBraWxsZWQlMjBzb3JhfGVufDB8MHx8fDE3NzQ5NzQ5NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale",
+      "url": "https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal",
+      "description": "Aqara's U400 smart lock, the first to support Apple Home Key and Ultra‑Wideband (UWB), is now available at a reduced price as part of Amazon’s Big Spring Sale. The deal brings advanced home‑entry tech to a wider audience without breaking the bank.",
+      "author": "",
+      "published_date": "2026-03-30T19:47:46+00:00",
+      "category": "Technology",
+      "tags": [
+        "Apple Home Key",
+        "UWB",
+        "smart lock",
+        "Amazon sale",
+        "Aqara"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1763189581701-88933a791a41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmaXJzdCUyMGFwcGxlJTIwaG9tZSUyMHJlYWR5fGVufDB8MHx8fDE3NzQ5NzQ5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple’s Finder Guy Is So Dang Cute",
+      "url": "https://www.theverge.com/tech/903595/apples-finder-guy-is-so-dang-cute",
+      "description": "The little character inspired by the Finder logo has been briefly featured as part of Apple’s marketing for the MacBook Neo, but on Monday, the company uploaded three new videos to its TikTok account starring the mascot. I love it.",
+      "author": "",
+      "published_date": "2026-03-30T19:29:22+00:00",
+      "category": "Technology",
+      "tags": [
+        "Apple",
+        "Finder Guy",
+        "TikTok",
+        "MacBook Neo"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1764350041907-487d4bfefaf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGZpbmRlciUyMGRhbmclMjBjdXRlfGVufDB8MHx8fDE3NzQ5NzQ5NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "KitchenAid redesigned its iconic mixer so you can set an exact speed",
+      "url": "https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light",
+      "description": "KitchenAid has updated its classic Artisan stand mixer with a new speed‑control feature that lets users set precise RPMs, offering more accuracy for mixing tasks.",
+      "author": "",
+      "published_date": "2026-03-30T12:00:00",
+      "category": "Technology",
+      "tags": [
+        "KitchenAid",
+        "Artisan",
+        "Mixer",
+        "Speed Control",
+        "Kitchen Appliance"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1595644258096-69155da290fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxraXRjaGVuYWlkJTIwcmVkZXNpZ25lZCUyMGljb25pYyUyMG1peGVyfGVufDB8MHx8fDE3NzQ5NzQ5NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "The Verge"
+    },
+    {
+      "title": "Vivo launches X300 Ultra flagship ‘designed for professional photography’",
+      "url": "https://www.theverge.com/tech/903250/vivo-x300-ultra-flagship-china-launch-specs",
+      "description": "Vivo has unveiled its new X300 Ultra flagship smartphone, promoted as a device built specifically for professional photography, featuring advanced camera hardware and software.",
+      "author": "",
+      "published_date": "2026-03-30T12:30:00",
+      "category": "Technology",
+      "tags": [
+        "Vivo",
+        "X300 Ultra",
+        "flagship",
+        "photography",
+        "smartphone"
+      ],
+      "thumbnail": "https://pixabay.com/get/g6ea6e0de80fc3a5031dbf133d0c34f897780278c87a31c2617ed225a06761c71b39ec8e82942f8f6d818e31e146689e632692f4e6c5f41645b175debe0aa869c_640.jpg",
+      "source": "The Verge"
+    },
+    {
+      "title": "Uber increases stake in WeRide as robotaxi partnership ramps up in Dubai",
+      "url": "https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/",
+      "description": "Uber has raised its investment in Chinese autonomous‑vehicle startup WeRide, expanding their robotaxi collaboration in Dubai.",
       "author": "Kirsten Korosec",
-      "published_date": "2026-01-07T18:43:12-08:00",
+      "published_date": "2026-03-31T09:26:26-07:00",
+      "category": "Technology",
+      "tags": [
+        "Uber",
+        "WeRide",
+        "robotaxi",
+        "Dubai",
+        "autonomous vehicles"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1658141630350-6fa92640220c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx1YmVyJTIwaW5jcmVhc2VzJTIwc3Rha2UlMjB3ZXJpZGV8ZW58MHwwfHx8MTc3NDk3NDk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hacker hijacks Axios open-source project, used by millions, to push malware",
+      "url": "https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/",
+      "description": "A security breach was discovered in the popular Axios open-source library, where a hacker injected malicious code that could affect millions of applications. The incident highlights the growing risk of supply‑chain attacks targeting widely used JavaScript tools.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "published_date": "2026-03-31T09:01:11-07:00",
+      "category": "Technology",
+      "tags": [
+        "Axios",
+        "malware",
+        "open-source",
+        "security",
+        "supply-chain attack"
+      ],
+      "thumbnail": "https://pixabay.com/get/g119b0026acc8803b967bb89c0fe17238316c4a8fb799f2feee599c010908fee4f6ad6d11b1586a87a6265c2a5703f247_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FedEx chooses partnerships over proprietary tech for its automation strategy",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "description": "FedEx is opting to work with external partners rather than develop its own technology to drive automation across its logistics network, aiming for faster innovation and cost efficiency.",
+      "author": "Rebecca Szkutak",
+      "published_date": "2026-03-31T08:46:50-07:00",
+      "category": "Technology",
+      "tags": [
+        "FedEx",
+        "automation",
+        "partnerships",
+        "logistics",
+        "tech strategy"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1726085446325-62188b53f4b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmZWRleCUyMGNob29zZXMlMjBwYXJ0bmVyc2hpcHMlMjBvdmVyfGVufDB8MHx8fDE3NzQ5NzQ5OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "description": "Nomadic, a startup focused on autonomous‑vehicle data management, secured $8.4 million in funding to build tools that can handle the massive streams of data generated by self‑driving cars.",
+      "author": "Tim Fernholz",
+      "published_date": "2026-03-31T08:00:00-07:00",
+      "category": "Technology",
+      "tags": [
+        "Nomadic",
+        "autonomous vehicles",
+        "data processing",
+        "fundraising",
+        "$8.4 million"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1571560177313-f5d85c9806da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxub21hZGljJTIwcmFpc2VzJTIwbWlsbGlvbiUyMHdyYW5nbGV8ZW58MHwwfHx8MTc3NDk3NTAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Health data giant CareCloud says hackers accessed patients’ medical records",
+      "url": "https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/",
+      "description": "CareCloud, a leading electronic health record provider, confirmed that hackers breached its systems and accessed patients' medical records, highlighting growing cybersecurity risks in the healthcare sector.",
+      "author": "Zack Whittaker",
+      "published_date": "2026-03-31T07:50:02-07:00",
+      "category": "Technology",
+      "tags": [
+        "CareCloud",
+        "data breach",
+        "medical records",
+        "healthcare",
+        "cybersecurity"
+      ],
+      "thumbnail": "https://pixabay.com/get/g334b4f9a9efd87a6456d8007bea413642ab078f7e4a93bf2d5164eabf2f9ed30a0e50bf4a59ec4d9f6935ff394c694cccd8b0f9cc4c659c868b26c04fda73766_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Rivian spinoff Also will build autonomous delivery vehicles for DoorDash",
+      "url": "https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/",
+      "description": "Rivian's new spinoff unit has secured a partnership with DoorDash to develop autonomous delivery vehicles, expanding its presence in the self‑driving logistics space.",
+      "author": "Sean O'Kane",
+      "published_date": "2026-03-31T07:32:08-07:00",
+      "category": "Technology",
+      "tags": [
+        "Rivian",
+        "autonomous",
+        "delivery",
+        "DoorDash",
+        "spinoff"
+      ],
+      "thumbnail": "https://pixabay.com/get/g2c0a9cc752d37d6a8b72838afff2776b135765aa46192e8c0929a3bb4c73b5750145108c2dbbae07b60e74be17b48c2d8b6abb62668223e9c165f079a834d8d2_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Roku launches a standalone app for Howdy, its $2.99 streaming service",
+      "url": "https://techcrunch.com/2026/03/31/roku-launches-a-standalone-app-for-howdy-its-2-99-streaming-service/",
+      "description": "Roku has released a new standalone application for its Howdy streaming service, allowing users to access the $2.99 per month offering directly without needing a Roku device.",
+      "author": "Aisha Malik",
+      "published_date": "2026-03-31T07:23:48-07:00",
+      "category": "Technology",
+      "tags": [
+        "Roku",
+        "Howdy",
+        "streaming service",
+        "standalone app",
+        "subscription"
+      ],
+      "thumbnail": "https://pixabay.com/get/gc8319353c394cdac447cc0cb06f8525b6dde3d42f097d4af10bf84885dfc423b025cd799bf19bd64bd3cf67f97134922f45324226c22603977c4170e990e0e6d_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta launches two new Ray-Ban glasses designed for prescription wearers",
+      "url": "https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/",
+      "description": "Meta has introduced two new Ray‑Ban smart glasses that support prescription lenses, expanding its wearable lineup for users who need corrective eyewear.",
+      "author": "Aisha Malik",
+      "published_date": "2026-03-31T07:15:19-07:00",
+      "category": "Technology",
+      "tags": [
+        "Meta",
+        "Ray-Ban",
+        "smart glasses",
+        "prescription lenses",
+        "wearables"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1696041758578-db4b9b94a4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtZXRhJTIwbGF1bmNoZXMlMjBnbGFzc2VzJTIwZGVzaWduZWR8ZW58MHwwfHx8MTc3NDk3NTAyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The company behind ClassPass and Mindbody just got a lot bigger with a $7.5B merger",
+      "url": "https://techcrunch.com/2026/03/31/the-company-behind-classpass-and-mindbody-just-got-a-lot-bigger-with-a-7-5b-merger/",
+      "description": "ClassPass and Mindbody have merged in a $7.5 billion deal, creating a much larger wellness and fitness platform that broadens services for consumers and partners.",
+      "author": "Lauren Forristal",
+      "published_date": "2026-03-31T07:00:00-07:00",
+      "category": "Technology",
+      "tags": [
+        "ClassPass",
+        "Mindbody",
+        "merger",
+        "wellness",
+        "fitness"
+      ],
+      "thumbnail": "https://pixabay.com/get/gc141b4dc819cba2a3c8d4c4ed087f4670647efd3ff93b910dc8afbbf9eb755769d5b94ae5f1c409826f2f90741f88247_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+      "description": "Runway has announced a new $10 million fund along with a Builders program designed to help early‑stage AI startups accelerate their growth and development.",
+      "author": "Rebecca Bellan",
+      "published_date": "2026-03-31T07:00:00-07:00",
+      "category": "AI & ML",
+      "tags": [
+        "Runway",
+        "AI startups",
+        "fund",
+        "Builders program",
+        "early-stage"
+      ],
+      "thumbnail": "https://images.unsplash.com/flagged/photo-1568988039441-11f295d74d89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxleGNsdXNpdmUlMjBydW53YXklMjBsYXVuY2hlcyUyMGZ1bmR8ZW58MHwwfHx8MTc3NDk3NTA0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Waymo starts robotaxi services at San Antonio International Airport",
+      "url": "https://techcrunch.com/2026/03/31/waymo-starts-robotaxi-services-at-san-antonio-international-airport/",
+      "description": "Waymo has launched its autonomous robotaxi service at San Antonio International Airport, providing self-driving rides for passengers to and from the terminals.",
+      "author": "Sean O'Kane",
+      "published_date": "2026-03-31T06:25:11-07:00",
       "category": "Technology",
       "tags": [
         "Waymo",
-        "Zeekr",
-        "robotaxi"
+        "robotaxi",
+        "autonomous vehicles",
+        "San Antonio Airport"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1648737966636-2fc3a5fffc8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MXwxfHNlYXJjaHwxfHxUZWNobm9sb2d5fGVufDB8MHx8fDE3Njc4NTA5NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://images.unsplash.com/photo-1694729101068-a2c621f877b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx3YXltbyUyMHN0YXJ0cyUyMHJvYm90YXhpJTIwc2VydmljZXN8ZW58MHwwfHx8MTc3NDk3NTA1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "source": "TechCrunch"
     },
     {
-      "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
-      "url": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
-      "description": "",
-      "author": "Connie Loizos",
-      "published_date": "2026-01-07T17:32:00-08:00",
-      "category": "Trending",
-      "tags": [],
-      "source": "TechCrunch",
-      "thumbnail": "https://images.unsplash.com/photo-1674027326238-8a505791cdea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBjaGFyYWN0ZXIlMjBuZWdvdGlhdGUlMjBmaXJzdHxlbnwwfDB8fHwxNzY3ODUwOTUyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-    },
-    {
-      "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
-      "url": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
-      "description": "Ford is developing a new AI-powered BlueCruise system that will enable hands-free driving",
-      "author": "Sean O'Kane",
-      "published_date": "2026-01-07T16:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "BlueCruise",
-        "AI-assistant",
-        "hands-free driving"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1633966094374-f611a9cd450b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmb3JkJTIwYXNzaXN0YW50JTIwaGFuZHMlMjBmcmVlfGVufDB8MHx8fDE3Njc4NTA5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm",
-      "url": "https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/",
-      "description": "Discord and Mercor investor Niko Bonatsos is leaving General Catalyst to start a new venture capital firm.",
-      "author": "Marina Temkin",
-      "published_date": "2026-01-07T15:31:29-08:00",
-      "category": "Technology",
-      "tags": [
-        "Discord",
-        "venture capital",
-        "Niko Bonatsos"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1673382550395-4b6c390377d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNjb3JkJTIwbWVyY29yJTIwaW52ZXN0b3IlMjBuaWtvfGVufDB8MHx8fDE3Njc4NTA5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Larry Page loosens business ties to CA amid state’s proposed wealth tax, report",
-      "url": "https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/",
-      "description": "Google co-founder Larry Page has loosened his business ties to California amid the state's proposed wealth tax, according to a report.",
-      "author": "Dominic-Madori Davis",
-      "published_date": "2026-01-07T15:23:45-08:00",
-      "category": "Trending",
-      "tags": [
-        "Larry Page",
-        "wealth tax",
-        "Google"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1573141597928-403fcee0e056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsYXJyeSUyMHBhZ2UlMjBsb29zZW5zJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc2Nzg1MDk2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Yes, LinkedIn banned AI agent startup Artisan, but now it’s back",
-      "url": "https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/",
-      "description": "LinkedIn recently banned an artificial intelligence-powered job search platform called Artisan. Despite the initial ban, the startup has now been reinstated.",
-      "author": "Julie Bort",
-      "published_date": "2026-01-07T14:04:30-08:00",
-      "category": "Technology",
-      "tags": [
-        "LinkedIn",
-        "Artisan",
-        "AI agent startup"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1585288766827-c62e98d70191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxsaW5rZWRpbiUyMGJhbm5lZCUyMGFnZW50JTIwc3RhcnR1cHxlbnwwfDB8fHwxNzY3ODUwOTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says",
-      "url": "https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/",
-      "description": "Roku is launching a new $3 monthly streaming service called Howdy, which will be available on other platforms beyond its own devices.",
-      "author": "Sarah Perez",
-      "published_date": "2026-01-07T13:38:22-08:00",
-      "category": "Trending",
-      "tags": [
-        "Roku",
-        "streaming service",
-        "Howdy"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1753191257759-dc63a3851ec9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyb2t1JTIwc3RyZWFtaW5nJTIwc2VydmljZSUyMGhvd2R5fGVufDB8MHx8fDE3Njc4NTA5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
-      "url": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
-      "description": "ChatGPT Health is OpenAI's new platform to help users monitor their physical and mental health using AI",
-      "author": "Amanda Silberling",
-      "published_date": "2026-01-07T13:08:23-08:00",
-      "category": "Technology",
-      "tags": [
-        "OpenAI",
-        "ChatGPT Health",
-        "Health",
-        "Artificial Intelligence"
-      ],
-      "thumbnail": "https://pixabay.com/get/gaff6f9d9d6567d6abf7a00daf7ad487824b78096d38c337cfabccdd09792ad712fbfed162c6d371001c4f89a878f4bad19ac1caf7d2549177a958d527ed120f7_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Lux Capital lands $1.5B for its largest fund ever",
-      "url": "https://techcrunch.com/2026/01/07/lux-capital-lands-1-5-billion-for-its-largest-fund-ever/",
-      "description": "Lux Capital has secured $1.5 billion for its largest fund yet, marking a significant milestone in the venture capital firm's history.",
-      "author": "Marina Temkin",
-      "published_date": "2026-01-07T12:09:07-08:00",
-      "category": "Technology",
-      "tags": [
-        "Lux Capital",
-        "venture capital",
-        "funding"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1624631590217-d32471384767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjYXBpdGFsJTIwbGFuZHMlMjBsYXJnZXN0JTIwZnVuZHxlbnwwfDB8fHwxNzY3ODUwOTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AMC previews its new show, ‗The Audacity,’ focused on Silicon Valley",
-      "url": "https://techcrunch.com/2026/01/07/amc-previews-its-new-show-the-audacity-focused-on-silicon-valley/",
-      "description": "AMC is taking a look at its new show, ‗The Audacity,’ which focuses on Silicon Valley. The show is expected to explore the challenges and triumphs of tech industry leaders in the region.",
-      "author": "Sarah Perez",
-      "published_date": "2026-01-07T11:43:45-08:00",
-      "category": "Technology",
-      "tags": [
-        "AMC",
-        "The Audacity",
-        "Silicon Valley"
-      ],
-      "thumbnail": "https://pixabay.com/get/g6b0a5cc5f962692408b688d10c6fb9a1ae757f6aa7dfeb0b9f9221dc7d54ca8443f5553e5ad78d99eb9ea1784212f9ffdd52850d774ea47a38194d252548d5ac_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Discord’s IPO could happen in March",
-      "url": "https://techcrunch.com/2026/01/07/discords-ipo-could-happen-in-march/",
-      "description": "Discord is reportedly planning to go public through an initial public offering (IPO) in early 2024, but some sources suggest that this date may be pushed back to March 2026.",
-      "author": "Julie Bort",
-      "published_date": "2026-01-07T11:18:22-08:00",
-      "category": "Trending",
-      "tags": [
-        "Discord",
-        "IPO",
-        "TechCrunch"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1582647790126-0fd37ff34f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxkaXNjb3JkJTIwaGFwcGVuJTIwbWFyY2h8ZW58MHwwfHx8MTc2Nzg1MDk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Shopify competitor Swap raises $100M six months after raising $40M",
-      "url": "https://techcrunch.com/2026/01/07/shopify-competitor-swap-raises-100m-six-months-after-raising-40m/",
-      "description": "Shopify competitor Swap has raised $100 million just six months after its previous funding round, which saw it raise $40 million.",
-      "author": "Julie Bort",
-      "published_date": "2026-01-07T11:10:33-08:00",
-      "category": "Trending",
-      "tags": [
-        "Shopify",
-        "funding",
-        "Swap"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1586880244543-0528a802be97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzaG9waWZ5JTIwY29tcGV0aXRvciUyMHN3YXAlMjByYWlzZXN8ZW58MHwwfHx8MTc2Nzg1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Where VCs think AI startups can win, even with OpenAI in the game",
-      "url": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
-      "description": "TechCrunch's 2026 predictions on how AI startups will innovate despite OpenAI's dominance.",
-      "author": "Theresa Loconsolo",
-      "published_date": "2026-01-07T10:53:35-08:00",
-      "category": "Technology",
-      "tags": [
-        "ai",
-        "startups",
-        "vc",
-        "openai"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1638366170162-915f9e09ee42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aGluayUyMHN0YXJ0dXBzJTIwZXZlbiUyMG9wZW5haXxlbnwwfDB8fHwxNzY3ODUwOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic reportedly raising $10B at $350B valuation",
-      "url": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
-      "description": "AI startup Anthropic is reportedly raising a massive $10 billion at a $350 billion valuation.",
-      "author": "Rebecca Bellan",
-      "published_date": "2026-01-07T10:36:53-08:00",
+      "title": "Speechify’s Windows app uses local models for transcription and dictation",
+      "url": "https://techcrunch.com/2026/03/31/speechifys-windows-app-uses-local-models-for-transcription-and-dictation/",
+      "description": "Speechify has released a Windows application that leverages on‑device AI models to provide fast transcription and dictation without sending data to the cloud.",
+      "author": "Ivan Mehta",
+      "published_date": "2026-03-31T06:11:59-07:00",
       "category": "AI & ML",
       "tags": [
-        "Anthropic",
-        "AI startup",
-        "valuation"
+        "Speechify",
+        "Windows app",
+        "local models",
+        "transcription",
+        "dictation"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1618129272309-318daf7c3bf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbnRocm9waWMlMjByZXBvcnRlZGx5JTIwcmFpc2luZyUyMHZhbHVhdGlvbnxlbnwwfDB8fHwxNzY3ODUwOTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/ga8ac25ca5e476f7810056113875eb218a10e352123eac98ef26ba6407dc3617d536f65ad669448c82e3912c9e351028d_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "title": "VC predicts the consumer AI products OpenAI ’won’t want to kill’",
-      "url": "https://techcrunch.com/podcast/investing-in-the-consumer-ai-products-openai-wont-want-to-kill/",
-      "description": "A venture capitalist makes a bold prediction about the future of AI-powered consumer products.",
-      "author": "Rebecca Bellan",
-      "published_date": "2026-01-07T10:15:00-08:00",
+      "title": "With its new app store, Ring bets on AI to go beyond home security",
+      "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+      "description": "Ring has launched a new app store that leverages artificial intelligence to extend its services beyond traditional home security, giving developers a platform to create innovative smart‑home experiences.",
+      "author": "Sarah Perez",
+      "published_date": "2026-03-31T06:00:00-07:00",
+      "category": "AI & ML",
+      "tags": [
+        "Ring",
+        "app store",
+        "AI",
+        "home security",
+        "smart home"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1655609616855-32d1e6476e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzdG9yZSUyMHJpbmclMjBiZXRzJTIwYmV5b25kfGVufDB8MHx8fDE3NzQ5NzUwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google is now letting users in the US change their Gmail address",
+      "url": "https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/",
+      "description": "Google has launched a new feature that allows users in the United States to change their Gmail address without needing to create a new account, making email management more flexible.",
+      "author": "Ivan Mehta",
+      "published_date": "2026-03-31T05:30:26-07:00",
       "category": "Technology",
+      "tags": [
+        "Gmail",
+        "email address change",
+        "Google",
+        "US users",
+        "feature"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1663090859310-97a1af639a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBsZXR0aW5nJTIwdXNlcnMlMjBjaGFuZ2V8ZW58MHwwfHx8MTc3NDk3NTA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Airbnb is introducing a private car pick-up service",
+      "url": "https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/",
+      "description": "Airbnb is rolling out a private car pick‑up service that allows guests to schedule rides directly through the platform, streamlining travel to and from listings. The move expands Airbnb’s travel ecosystem beyond lodging.",
+      "author": "Ivan Mehta",
+      "published_date": "2026-03-31T02:00:00-07:00",
+      "category": "Technology",
+      "tags": [
+        "Airbnb",
+        "private car service",
+        "pick-up",
+        "travel",
+        "platform"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1657256031855-68029292ff34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhaXJibmIlMjBpbnRyb2R1Y2luZyUyMHByaXZhdGUlMjBwaWNrfGVufDB8MHx8fDE3NzQ5NzUwNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Silicon Valley congressional race is getting ugly",
+      "url": "https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/",
+      "description": "The contest for the congressional seat covering Silicon Valley has turned increasingly hostile, with candidates and their backers engaging in aggressive and negative campaigning.",
+      "author": "Connie Loizos",
+      "published_date": "2026-03-31T00:23:06-07:00",
+      "category": "Trending",
+      "tags": [
+        "Silicon Valley",
+        "congressional race",
+        "politics",
+        "election",
+        "campaign"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1678564205744-3dc5913fc3fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxzaWxpY29uJTIwdmFsbGV5JTIwY29uZ3Jlc3Npb25hbCUyMHJhY2V8ZW58MHwwfHx8MTc3NDk3NTA4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Allbirds is selling for $39M. It raised nearly 10 times that amount in its IPO.",
+      "url": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
+      "description": "Sustainable footwear brand Allbirds has been put up for sale at $39 million, a fraction of the valuation it secured during its IPO. The deal highlights a steep drop from the roughly ten‑fold amount raised when the company went public.",
+      "author": "Connie Loizos",
+      "published_date": "2026-03-30T22:30:20-07:00",
+      "category": "Trending",
+      "tags": [
+        "Allbirds",
+        "sale",
+        "IPO",
+        "valuation",
+        "acquisition"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1687904673507-a821982057ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxhbGxiaXJkcyUyMHNlbGxpbmclMjByYWlzZWQlMjBuZWFybHl8ZW58MHwwfHx8MTc3NDk3NTA4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "description": "A recent Quinnipiac poll finds that 15% of Americans would consider working for an AI boss, highlighting shifting attitudes toward artificial intelligence in the workplace.",
+      "author": "Graham Starr",
+      "published_date": "2026-03-30T16:41:48-07:00",
+      "category": "AI & ML",
+      "tags": [
+        "AI boss",
+        "American workers",
+        "Quinnipiac poll",
+        "AI adoption",
+        "workplace"
+      ],
+      "thumbnail": "https://pixabay.com/get/g67337fac97ca27b1ff3a06376ee8b23f668282f27566a0600f8c08fc0d2a6708bfc97fac3a94580cb22f8db6af4d5aa0ecb75ef874e7a60059d4d34d234e6328_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "description": "AI gateway provider LiteLLM announced it is severing its partnership with the controversial startup Delve, citing concerns over the latter's practices and potential impact on its platform.",
+      "author": "Julie Bort",
+      "published_date": "2026-03-30T16:08:12-07:00",
+      "category": "AI & ML",
+      "tags": [
+        "LiteLLM",
+        "Delve",
+        "AI gateway",
+        "startup",
+        "controversy"
+      ],
+      "thumbnail": "https://pixabay.com/get/g95549ef1bf9d603c2aacf26559cea5244264be00f32a313b4a5a6820ff81d3200dd5065dcc037e52b409a0ad905f6bda0300810c37969b1baa8a8640ef5e4d7a_640.jpg",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
+      "url": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+      "description": "A former Coatue partner has secured a $65 million seed round to launch an enterprise AI agent startup, aiming to deliver AI-driven assistants for businesses.",
+      "author": "Julie Bort",
+      "published_date": "2026-03-30T14:53:09-07:00",
+      "category": "AI & ML",
       "tags": [
         "AI",
-        "OpenAI",
-        "Consumer AI"
+        "enterprise",
+        "seed funding",
+        "startup",
+        "Coatue"
       ],
-      "thumbnail": "https://pixabay.com/get/gb5ae74cae2a4e3a77edd398ed091ee9e926bb8bcd78e6148a5346313c6c8be5fb8a9d4bbaf17266a8e68ba7b945c9211bb0e026e43b1a53198a199362d689dd1_640.jpg",
+      "thumbnail": "https://pixabay.com/get/g806837483a6cc30a8bc30ea82d05ff340516b131af71ccfcb7e52617f2402cdceaa11448ef2b3308976052478cf78fa8d929276bff198abc816a35249ceb6e66_640.jpg",
       "source": "TechCrunch"
     },
     {
-      "title": "Skylight debuts Calendar 2 to keep your family organized",
-      "url": "https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/",
-      "description": "Skylight has unveiled its latest tool for keeping families on top of their schedules: Calendar 2. The new feature is designed to help parents stay organized and in sync with their family members.",
-      "author": "Sarah Perez",
-      "published_date": "2026-01-07T10:00:00-08:00",
+      "title": "Get Ready for Summer With $50 Off This Ninja Creami Home Ice Cream Maker",
+      "url": "https://www.cnet.com/deals/ninja-creami-scoop-and-swirl-deal/",
+      "description": "CNET is featuring a summer-ready deal that gives $50 off the Ninja Creami home ice cream maker, letting you churn fresh frozen desserts at the push of a button.",
+      "author": "",
+      "published_date": null,
       "category": "Technology",
       "tags": [
-        "Skylight",
-        "Calendar 2",
-        "Family Organization"
+        "Ninja Creami",
+        "ice cream maker",
+        "summer deal",
+        "$50 off"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1597768164194-b804b42bd61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxza3lsaWdodCUyMGRlYnV0cyUyMGNhbGVuZGFyJTIwa2VlcHxlbnwwfDB8fHwxNzY3ODUxMDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
+      "thumbnail": "https://images.unsplash.com/photo-1627045513740-0cf717d8520f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxyZWFkeSUyMHN1bW1lciUyMG5pbmphJTIwY3JlYW1pfGVufDB8MHx8fDE3NzQ5NzUxMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
     },
     {
-      "title": "Google Classroom’s new tool uses Gemini to transform lessons into podcast episodes",
-      "url": "https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
-      "description": "Google Classroom is adding a new feature that lets teachers turn their lessons into podcast episodes, complete with voiceover recordings and audio clips. The tool uses Gemini AI to create the podcasts.",
-      "author": "Lauren Forristal",
-      "published_date": "2026-01-07T09:55:35-08:00",
-      "category": "Technology",
-      "tags": [
-        "Google Classroom",
-        "Gemini AI",
-        "podcast episodes"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1587882242636-596ab6349e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBjbGFzc3Jvb20lMjB0b29sJTIwdXNlc3xlbnwwfDB8fHwxNzY3ODUxMDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Caterpillar taps Nvidia to bring AI to its construction equipment",
-      "url": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
-      "description": "Construction equipment company Caterpillar is partnering with Nvidia to integrate artificial intelligence into its products.",
-      "author": "Rebecca Szkutak",
-      "published_date": "2026-01-07T09:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "Artificial Intelligence",
-        "Construction Equipment",
-        "Nvidia"
-      ],
-      "thumbnail": "https://pixabay.com/get/gab68a1df8fea943af12704d34c235015a5a77a4b4ccc1199ef0381cf2a6a1d36873349902d9635cf6bab6a831794a7d7f2397a740dae0471ecc0cb44f9743f33_640.jpg",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "How Quilt solved the heat pump’s biggest challenge",
-      "url": "https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/",
-      "description": "Quilt, a startup that specializes in heat pump design and manufacturing, has announced that it has successfully solved one of the biggest challenges facing heat pumps: ice formation. The company’s innovative approach to reducing the risk of ice buildup could help increase the efficiency and reliability of these energy-efficient devices.",
-      "author": "Tim De Chant",
-      "published_date": "2026-01-07T08:00:00-08:00",
-      "category": "Technology",
-      "tags": [
-        "heat pumps",
-        "ice formation",
-        "Quilt",
-        "startup"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1760445799125-b7441f91cc07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxxdWlsdCUyMHNvbHZlZCUyMGhlYXQlMjBwdW1wfGVufDB8MHx8fDE3Njc4NTEwMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "WhatsApp rolls out new group chat features, including member tags",
-      "url": "https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/",
-      "description": "WhatsApp has introduced a new feature that allows users to add tags to their group chats.",
-      "author": "Aisha Malik",
-      "published_date": "2026-01-07T07:31:09-08:00",
-      "category": "Technology",
-      "tags": [
-        "group chat features",
-        "member tags",
-        "WhatsApp",
-        "messaging app"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1762330469727-156f5369e4f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx3aGF0c2FwcCUyMHJvbGxzJTIwZ3JvdXAlMjBjaGF0fGVufDB8MHx8fDE3Njc4NTEwMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Today's NYT Mini Crossword Answers for Thursday, Jan. 8",
-      "url": "https://www.cnet.com/tech/todays-nyt-mini-crossword-answers-for-thursday-jan-8/",
+      "title": "I Found Over 50 Spring Deals at Best Buy Worth Buying Before They're Gone",
+      "url": "https://www.cnet.com/deals/best-buy-spring-sale-deals-2026-3-31/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": "",
+      "published_date": "2026-03-31",
+      "category": "Technology",
+      "tags": [
+        "Best Buy",
+        "Spring Deals",
+        "Technology",
+        "Shopping",
+        "Deals"
+      ],
+      "thumbnail": "https://pixabay.com/get/g296f3ad2e994a44579c1e910c780320b55e9a8201e710f9d9af4882323ecc697b731010aa5f917e7f7a1d273fad41c9879694050867033e17c3f7365034fcf36_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Here's Our First Look at Overwatch's Next Hero (The Rumors Are Probably True)",
+      "url": "https://www.cnet.com/tech/gaming/overwatch-first-look-hero-51/",
+      "description": "CNET offers an early preview of Overwatch's upcoming hero, detailing its abilities and visual design while confirming that the circulating rumors about the character appear to be accurate.",
+      "author": "",
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Overwatch",
+        "new hero",
+        "gaming",
+        "rumors",
+        "first look"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1721052029393-4843b2e7f88b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmaXJzdCUyMGxvb2slMjBvdmVyd2F0Y2glMjBuZXh0fGVufDB8MHx8fDE3NzQ5NzUxNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "CNET's Editors Sound Off About Our Favorite Apple Events, Devices and Flops",
+      "url": "https://www.cnet.com/tech/cnets-editors-sound-off-about-our-favorite-apple-events-devices-and-flops/",
+      "description": "CNET editors share their opinions on the most notable Apple event highlights, standout devices, and major misses.",
+      "author": "",
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Apple",
+        "Events",
+        "Devices",
+        "Flops",
+        "CNET"
+      ],
+      "thumbnail": "https://pixabay.com/get/g79360d674037642c6b99a26d97dd3dc4b99852d1330efd9fb0effe6f1720e2e2541d103ec30ef35d87a799b8b1e0c3b7c798b0bcfd4605ed0edbdc50b5581bf8_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Your LG TV Can Look Even Better if You Change These 6 Settings",
+      "url": "https://www.cnet.com/tech/home-entertainment/six-lg-tv-settings-for-best-picture-quality/",
+      "description": "Learn how to improve your LG TV’s picture quality by adjusting six key settings for optimal color, contrast, and motion handling.",
+      "author": "",
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "LG TV",
+        "picture quality",
+        "settings",
+        "home entertainment",
+        "display"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1718087036737-62d69f635ba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx5b3VyJTIwbG9vayUyMGV2ZW4lMjBiZXR0ZXJ8ZW58MHwwfHx8MTc3NDk3NTE2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "England vs. Japan Livestream: How to Watch International Friendly Soccer Free",
+      "url": "https://www.cnet.com/tech/services-and-software/england-vs-japan-livestream-how-to-watch-international-friendly-soccer-for-free/",
+      "description": "This guide explains how fans can stream the England vs. Japan international friendly soccer match online for free, outlining the platforms and steps needed to access the broadcast.",
       "author": "",
       "published_date": null,
       "category": "Trending",
       "tags": [
-        "NYT Mini Crossword",
-        "Crossword Answers",
-        "Tech Deals"
+        "England vs Japan",
+        "livestream",
+        "soccer",
+        "free",
+        "watch"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1603290989059-0e17d155543e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0b2RheSUyMG1pbmklMjBjcm9zc3dvcmQlMjBhbnN3ZXJzfGVufDB8MHx8fDE3Njc4NTEwMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/gf5c0f5b236bbe41037fabec73a404d5b156dfc123f79e0f43e0795df994a2c7fd6a2411f9dcd4cb9baa0cb064f3ed347_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "I Just Had a 10-Minute Conversation in Polish (I Don't Speak Any Polish)",
-      "url": "https://www.cnet.com/tech/ces-2026-vasco-language-translator/",
+      "title": "Sweden vs. Poland: Watch World Cup 2026 Playoff Final",
+      "url": "https://www.cnet.com/tech/services-and-software/sweden-vs-poland-watch-world-cup-2026-playoff-final/",
+      "description": "Find out how to watch the Sweden vs. Poland playoff final that decides a spot in the 2026 World Cup, including streaming options and live broadcast details.",
+      "author": "",
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "Sweden",
+        "Poland",
+        "World Cup 2026",
+        "playoff final",
+        "live stream"
+      ],
+      "thumbnail": "https://pixabay.com/get/gc08b3759b1d13257fa5f883f5cfbca7f10831f247757c9e115c987d1c0ab09149c6139ddb9d3e5dfea88df7a6f60f38b17aea127b822cda5a243e74fef7d9c4e_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Bosnia-Herzegovina vs. Italy: Watch World Cup 2026 Playoff Final",
+      "url": "https://www.cnet.com/tech/services-and-software/bosnia-herzegovina-vs-italy-watch-world-cup-2026-playoff-semifinal-for-free/",
+      "description": "CNET explains how to stream the Bosnia‑Herzegovina vs. Italy World Cup 2026 playoff final for free, covering platform options and viewing tips.",
+      "author": "",
+      "published_date": null,
+      "category": "Trending",
+      "tags": [
+        "World Cup 2026",
+        "Bosnia-Herzegovina",
+        "Italy",
+        "playoff",
+        "watch online"
+      ],
+      "thumbnail": "https://pixabay.com/get/g4d2b2e4ff3e617331155a06bc1358ba4e2fcf85e677ba358501d4815f5a43daaa87b66750c04e9fed8bd158a070711d2cc00c9f7486cef8d205de81edcba0230_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Time Is Running Out to Shop These 25+ Home and Kitchen Deals Before the Amazon Spring Sale Ends",
+      "url": "https://www.cnet.com/deals/best-amazon-spring-sale-kitchen-and-household-deals-2026-3-31/",
+      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
+      "author": "",
+      "published_date": "2026-03-31",
+      "category": "Trending",
+      "tags": [
+        "Amazon",
+        "Spring Sale",
+        "Home",
+        "Kitchen",
+        "Deals"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1714667256947-8d2b9c406ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx0aW1lJTIwcnVubmluZyUyMHNob3AlMjBob21lfGVufDB8MHx8fDE3NzQ5NzUxOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "source": "CNET"
+    },
+    {
+      "title": "How to Watch Sydney Sweeney's Thriller 'The Housemaid' at Home",
+      "url": "https://www.cnet.com/tech/services-and-software/watch-sydney-sweeneys-the-housemaid/",
+      "description": "This guide explains how to stream Sydney Sweeney's thriller 'The Housemaid' at home, covering the platforms where it’s available and any associated costs.",
+      "author": "",
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Sydney Sweeney",
+        "The Housemaid",
+        "streaming",
+        "thriller",
+        "how to watch"
+      ],
+      "thumbnail": "https://pixabay.com/get/g61c714313e53131f60529ef9dac784a099e5a6d2a0f830e1d3fa250100b2fcf523674f7368ca1bd26de1b5463f750a851041b032242cef0368be64e69a64fb39_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "Only Hours Remain to Snag the Best Amazon Spring Sale Deals Left on Video Doorbells, Security Cameras and More",
+      "url": "https://www.cnet.com/deals/best-amazon-spring-sale-smart-home-security-deals-2026/",
+      "description": "CNET highlights the remaining Amazon Spring Sale discounts on video doorbells, security cameras, and other smart home devices, urging shoppers to act quickly before the offers expire.",
+      "author": "",
+      "published_date": null,
+      "category": "Technology",
+      "tags": [
+        "Amazon",
+        "Spring Sale",
+        "Video Doorbell",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "thumbnail": "https://pixabay.com/get/gf2bb2bf42a9e326c89b7f10acb9135f7dfc86610a6baf90915713d8d00afad3d59d160556bae1a94fa9aac9846802386_640.jpg",
+      "source": "CNET"
+    },
+    {
+      "title": "This Anker Laptop Power Bank Just Dropped to Its Lowest Price of 2026",
+      "url": "https://www.cnet.com/deals/anker-laptop-power-bank-deal/",
       "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
       "author": "",
       "published_date": null,
       "category": "Technology",
       "tags": [
-        "Polish",
-        "Conversation",
-        "Language Translated"
+        "Anker",
+        "Laptop Power Bank",
+        "Deal",
+        "2026"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1562255510-81104e9a3ea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtaW51dGUlMjBjb252ZXJzYXRpb24lMjBwb2xpc2glMjBzcGVha3xlbnwwfDB8fHwxNzY3ODUxMDM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/g0bccac8ee366f0e3734d06570aa8fa6bfbc0f8022e283a03d671c3646c09014ffb7d0dac4d9d9566eaedece4cfdfb035daf1671c9c8fd78b234b0f57281dc624_640.jpg",
       "source": "CNET"
     },
     {
-      "title": "This Modular Watch Band Lets You Hide Your Apple Watch Under Your Rolex",
-      "url": "https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/",
-      "description": "This watch band lets you hide your Apple Watch under a Rolex, giving it the illusion of being a traditional timepiece. It's a clever solution for those who want to wear both watches at once without drawing attention.",
+      "title": "Amazon's Spring Sale Is Almost Over, but There's Still Time to Save Up to $2,497 on Power Stations",
+      "url": "https://www.cnet.com/deals/best-amazon-spring-sale-power-station-deals-2026-3-31/",
+      "description": "Amazon's spring sale is winding down, but shoppers can still find power stations discounted by as much as $2,497.",
       "author": "",
-      "published_date": null,
+      "published_date": "2026-03-31",
       "category": "Technology",
       "tags": [
-        "watch",
-        "Apple Watch",
-        "Rolex",
-        "smartwatch",
-        "tech"
+        "Amazon",
+        "Spring Sale",
+        "Power Stations",
+        "Discount",
+        "Deals"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1733437389749-7ea6b0643cc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxtb2R1bGFyJTIwd2F0Y2glMjBiYW5kJTIwbGV0c3xlbnwwfDB8fHwxNzY3ODUxMDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
-    },
-    {
-      "title": "New Foldable Phones Are Already Shaking Up the 2026 Smartphone Market",
-      "url": "https://www.cnet.com/tech/mobile/commentary-foldable-phones-in-2026/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day. If you make a purchase using our links, CNET may earn a commission.",
-      "author": "",
-      "published_date": null,
-      "category": "Trending",
-      "tags": [
-        "foldable phones",
-        "smartphone market",
-        "tech"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1726592222670-ba7a65748d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxmb2xkYWJsZSUyMHBob25lcyUyMGFscmVhZHklMjBzaGFraW5nfGVufDB8MHx8fDE3Njc4NTEwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
-    },
-    {
-      "title": "2026 Will Be the Year of World Models. Here",
-      "url": "https://www.cnet.com/tech/services-and-software/2026-will-be-the-year-of-world-models-heres-why-they-matter-more-than-llms/",
-      "description": "Our shopping experts unearth the best tech and home essential deals every day.",
-      "author": "",
-      "published_date": "2026-01-01",
-      "category": "Trending",
-      "tags": [
-        "World Models",
-        "LLMs",
-        "Artificial Intelligence"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1498831624351-bb3e382fe091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHx5ZWFyJTIwd29ybGQlMjBtb2RlbHN8ZW58MHwwfHx8MTc2Nzg1MTA0NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "source": "CNET"
-    },
-    {
-      "title": "These Are the Coolest Laptops We've Seen at CES 2026",
-      "url": "https://www.cnet.com/tech/computing/these-are-the-coolest-laptops-weve-seen-at-ces-2026/",
-      "description": "CNET's shopping experts showcase the best tech and home essential deals every day.",
-      "author": "",
-      "published_date": null,
-      "category": "Technology",
-      "tags": [
-        "CES",
-        "CES 2026",
-        "laptops"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1634947096506-6d9f114cf64e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NTA4NTB8MHwxfHNlYXJjaHwxfHxjb29sZXN0JTIwbGFwdG9wcyUyMHNlZW58ZW58MHwwfHx8MTc2Nzg1MTA0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumbnail": "https://pixabay.com/get/gef79e80df2de30a8c9e027c0dba6d69aecc584a6d4bb3e059236ea980d04b2455dbcf630415eba1ae181ab02343ba9e2_640.jpg",
       "source": "CNET"
     }
   ]
